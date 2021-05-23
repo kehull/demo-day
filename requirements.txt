@@ -21,7 +21,6 @@ Werkzeug==1.0.1
 wincertstore==0.2
 zipp==3.4.1
 jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1602551949684/work
-MarkupSafe @ file:///D:/bld/markupsafe_1602267688190/work
 oauth2==1.9.0.post1
 oauthlib==3.1.0
 pandas @ file:///C:/ci/pandas_1592833608684/work
