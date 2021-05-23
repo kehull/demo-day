@@ -1,0 +1,5 @@
+channels_raw,channels_encoded
+"['email', 'mobile', 'social']",1
+"['web', 'email', 'mobile']",2
+"['web', 'email', 'mobile', 'social']",0
+"['web', 'email']",3

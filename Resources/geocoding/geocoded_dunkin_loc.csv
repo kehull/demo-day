@@ -1,0 +1,1007 @@
+location,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,"Unit Type","Unit Number",City,State,County,Zip,Country,Source
+"2400 Missouri 291 MO 64057",39.075001,-94.379703,0.85,rooftop,2400,"S M 291 Hwy",,,Independence,MO,"Jackson County",64055,US,Jackson
+"2400 Missouri 291 MO 64057",39.075001,-94.379703,0.85,rooftop,2400,"S M 291 Hwy",,,Independence,MO,"Jackson County",64055,US,Jackson
+"2400 Missouri 291 MO 64057",39.075001,-94.379703,0.85,rooftop,2400,"S M 291 Hwy",,,Independence,MO,"Jackson County",64055,US,Jackson
+"2400 Missouri 291 MO 64057",39.075001,-94.379703,0.85,rooftop,2400,"S M 291 Hwy",,,Independence,MO,"Jackson County",64055,US,Jackson
+"9806 W Florissant Ave MO 63136",38.745792,-90.279038,1,rooftop,9806,"W Florissant Ave",,,"Saint Louis",MO,"St. Louis County",63136,US,"St Louis"
+"9898 Air Cargo Road MO 63145",38.735497,-90.353257,0.9,range_interpolation,9898,"Air Cargo Rd",,,"Saint Louis",MO,"St. Louis County",63134,US,"TIGER/Line® dataset from the US Census Bureau"
+"10701 Lambert International Boulevard MO 63145",38.740629,-90.364819,1,rooftop,10701,"Lambert International Blvd",,,"Saint Louis",MO,"St. Louis County",63145,US,"St Louis"
+"9806 W Florissant Ave MO 63136",38.745792,-90.279038,1,rooftop,9806,"W Florissant Ave",,,"Saint Louis",MO,"St. Louis County",63136,US,"St Louis"
+"9898 Air Cargo Road MO 63145",38.735497,-90.353257,0.9,range_interpolation,9898,"Air Cargo Rd",,,"Saint Louis",MO,"St. Louis County",63134,US,"TIGER/Line® dataset from the US Census Bureau"
+"10701 Lambert International Boulevard MO 63145",38.740629,-90.364819,1,rooftop,10701,"Lambert International Blvd",,,"Saint Louis",MO,"St. Louis County",63145,US,"St Louis"
+"33 E Lake St IL 60101",41.931216,-87.987127,1,rooftop,33,"E Lake St",,,Addison,IL,"DuPage County",60101,US,Dupage
+"1750 W Lake St IL 60101",41.950451,-88.030146,1,rooftop,1750,"W Lake St",,,Addison,IL,"DuPage County",60101,US,Dupage
+"33 E Lake St IL 60101",41.931216,-87.987127,1,rooftop,33,"E Lake St",,,Addison,IL,"DuPage County",60101,US,Dupage
+"1750 W Lake St IL 60101",41.950451,-88.030146,1,rooftop,1750,"W Lake St",,,Addison,IL,"DuPage County",60101,US,Dupage
+"1319 East Algonquin Road IL 60102",42.161334,-88.276569,1,range_interpolation,1319,"E Algonquin Rd",,,Algonquin,IL,"McHenry County",60102,US,"TIGER/Line® dataset from the US Census Bureau"
+"2543 W Algonquin Rd IL 60102",42.175207,-88.33853,1,rooftop,2543,"W Algonquin Rd",,,Algonquin,IL,"McHenry County",60102,US,Mchenry
+"1319 East Algonquin Road IL 60102",42.161334,-88.276569,1,range_interpolation,1319,"E Algonquin Rd",,,Algonquin,IL,"McHenry County",60102,US,"TIGER/Line® dataset from the US Census Bureau"
+"2543 W Algonquin Rd IL 60102",42.175207,-88.33853,1,rooftop,2543,"W Algonquin Rd",,,Algonquin,IL,"McHenry County",60102,US,Mchenry
+"4028 W 127th St IL 60803",41.662231,-87.719755,1,range_interpolation,4028,"W 127th St",,,Alsip,IL,"Cook County",60803,US,"TIGER/Line® dataset from the US Census Bureau"
+"12150 S Cicero Ave IL 60803",41.671618,-87.738999,1,range_interpolation,12150,"S Cicero Ave",,,Alsip,IL,"Cook County",60803,US,"TIGER/Line® dataset from the US Census Bureau"
+"11817 S Pulaski Rd IL 60803",41.678205,-87.719653,1,range_interpolation,11817,"S Pulaski Rd",,,Alsip,IL,"Cook County",60803,US,"TIGER/Line® dataset from the US Census Bureau"
+"4028 W 127th St IL 60803",41.662231,-87.719755,1,range_interpolation,4028,"W 127th St",,,Alsip,IL,"Cook County",60803,US,"TIGER/Line® dataset from the US Census Bureau"
+"12150 S Cicero Ave IL 60803",41.671618,-87.738999,1,range_interpolation,12150,"S Cicero Ave",,,Alsip,IL,"Cook County",60803,US,"TIGER/Line® dataset from the US Census Bureau"
+"11817 S Pulaski Rd IL 60803",41.678205,-87.719653,1,range_interpolation,11817,"S Pulaski Rd",,,Alsip,IL,"Cook County",60803,US,"TIGER/Line® dataset from the US Census Bureau"
+"440 Orchard Street IL 60002",42.478986,-88.098421,1,range_interpolation,440,"Orchard St",,,Antioch,IL,"Lake County",60002,US,"TIGER/Line® dataset from the US Census Bureau"
+"442 Orchard St IL 60002",42.478896,-88.099041,1,rooftop,442,"Orchard St",,,Antioch,IL,"Lake County",60002,US,Lake
+"440 Orchard Street IL 60002",42.478986,-88.098421,1,range_interpolation,440,"Orchard St",,,Antioch,IL,"Lake County",60002,US,"TIGER/Line® dataset from the US Census Bureau"
+"442 Orchard St IL 60002",42.478896,-88.099041,1,rooftop,442,"Orchard St",,,Antioch,IL,"Lake County",60002,US,Lake
+"105 W Dundee Rd IL 60004",42.138571,-87.960469,1,rooftop,105,"W Dundee Rd",,,"Arlington Heights",IL,"Cook County",60004,US,Cook
+"1818 West Northwest Highway IL 60004",42.11278,-87.979542,0.22,place,,,,,"Arlington Heights",IL,"Cook County",60004,US,"TIGER/Line® dataset from the US Census Bureau"
+"4204 N Arlington Heights Rd Ste F IL 60004",42.151816,-87.98534,1,rooftop,4204,"N Arlington Heights Rd",Ste,F,"Arlington Heights",IL,"Cook County",60004,US,Cook
+"[700-798] W Dundee Rd IL 60004",42.139264,-87.995691,1,range_interpolation,700,"W Dundee Rd",,,"Arlington Heights",IL,"Cook County",60004,US,"TIGER/Line® dataset from the US Census Bureau"
+"1010 E Rand Rd IL 60004",42.106252,-87.970425,1,rooftop,1010,"E Rand Rd",,,"Arlington Heights",IL,"Cook County",60004,US,Cook
+"2106 S Arlington Heights Rd IL 60005",42.047078,-87.983204,1,rooftop,2106,"S Arlington Heights Rd",,,"Arlington Heights",IL,"Cook County",60005,US,Cook
+"122 S Arlington Heights Rd IL 60005",42.08,-87.980787,1,rooftop,122,"S Arlington Heights Rd",,,"Arlington Heights",IL,"Cook County",60005,US,Cook
+"105 W Dundee Rd IL 60004",42.138571,-87.960469,1,rooftop,105,"W Dundee Rd",,,"Arlington Heights",IL,"Cook County",60004,US,Cook
+"1818 West Northwest Highway IL 60004",42.11278,-87.979542,0.22,place,,,,,"Arlington Heights",IL,"Cook County",60004,US,"TIGER/Line® dataset from the US Census Bureau"
+"4204 N Arlington Heights Rd Ste F IL 60004",42.151816,-87.98534,1,rooftop,4204,"N Arlington Heights Rd",Ste,F,"Arlington Heights",IL,"Cook County",60004,US,Cook
+"[700-798] W Dundee Rd IL 60004",42.139264,-87.995691,1,range_interpolation,700,"W Dundee Rd",,,"Arlington Heights",IL,"Cook County",60004,US,"TIGER/Line® dataset from the US Census Bureau"
+"1010 E Rand Rd IL 60004",42.106252,-87.970425,1,rooftop,1010,"E Rand Rd",,,"Arlington Heights",IL,"Cook County",60004,US,Cook
+"2106 S Arlington Heights Rd IL 60005",42.047078,-87.983204,1,rooftop,2106,"S Arlington Heights Rd",,,"Arlington Heights",IL,"Cook County",60005,US,Cook
+"122 S Arlington Heights Rd IL 60005",42.08,-87.980787,1,rooftop,122,"S Arlington Heights Rd",,,"Arlington Heights",IL,"Cook County",60005,US,Cook
+"2681 East New York Street IL 60502",41.757992,-88.251083,1,rooftop,2681,"E New York St",,,Aurora,IL,"DuPage County",60502,US,"City of Aurora"
+"2933 Kirk Road IL 60502",41.815512,-88.279028,1,rooftop,2933,"Kirk Rd",,,Aurora,IL,"Kane County",60502,US,"City of Aurora"
+"1237 N Eola Rd IL 60502",41.782562,-88.240013,1,rooftop,1237,"N Eola Rd",,,Aurora,IL,"DuPage County",60502,US,"City of Aurora"
+"2380 S Eola Rd IL 60503",41.711141,-88.253442,1,rooftop,2380,"S Eola Rd",,,Aurora,IL,"Will County",60503,US,"City of Aurora"
+"3999 75th Street IL 60504",41.746423,-88.216307,1,rooftop,3999,"75th St",,,Aurora,IL,"DuPage County",60504,US,"City of Aurora"
+"1255 N Farnsworth Ave IL 60505",41.783496,-88.281496,1,rooftop,1255,"N Farnsworth Ave",,,Aurora,IL,"Kane County",60505,US,"City of Aurora"
+"3 N Smith St IL 60505",41.752596,-88.293387,1,rooftop,3,"N Smith St",,,Aurora,IL,"Kane County",60505,US,"City of Aurora"
+"2112 W Galena Blvd IL 60506",41.763579,-88.367587,1,rooftop,2112,"W Galena Blvd",,,Aurora,IL,"Kane County",60506,US,"City of Aurora"
+"2681 East New York Street IL 60502",41.757992,-88.251083,1,rooftop,2681,"E New York St",,,Aurora,IL,"DuPage County",60502,US,"City of Aurora"
+"2933 Kirk Road IL 60502",41.815512,-88.279028,1,rooftop,2933,"Kirk Rd",,,Aurora,IL,"Kane County",60502,US,"City of Aurora"
+"1237 N Eola Rd IL 60502",41.782562,-88.240013,1,rooftop,1237,"N Eola Rd",,,Aurora,IL,"DuPage County",60502,US,"City of Aurora"
+"2380 S Eola Rd IL 60503",41.711141,-88.253442,1,rooftop,2380,"S Eola Rd",,,Aurora,IL,"Will County",60503,US,"City of Aurora"
+"3999 75th Street IL 60504",41.746423,-88.216307,1,rooftop,3999,"75th St",,,Aurora,IL,"DuPage County",60504,US,"City of Aurora"
+"1255 N Farnsworth Ave IL 60505",41.783496,-88.281496,1,rooftop,1255,"N Farnsworth Ave",,,Aurora,IL,"Kane County",60505,US,"City of Aurora"
+"3 N Smith St IL 60505",41.752596,-88.293387,1,rooftop,3,"N Smith St",,,Aurora,IL,"Kane County",60505,US,"City of Aurora"
+"2112 W Galena Blvd IL 60506",41.763579,-88.367587,1,rooftop,2112,"W Galena Blvd",,,Aurora,IL,"Kane County",60506,US,"City of Aurora"
+"5590 County Farm Road IL 60103",41.97413,-88.151049,1,rooftop,5590,"County Farm Rd",,,Bartlett,IL,"DuPage County",60103,US,Dupage
+"225 E Lake St IL 60103",42.002564,-88.18151,1,rooftop,225,"E Lake St",,,Bartlett,IL,"Cook County",60103,US,Cook
+"751 S Il Route 59 IL 60103",41.977639,-88.20786,0.3,nearest_rooftop_match,800,"S Route 59",,,Bartlett,IL,"DuPage County",60103,US,Dupage
+"5590 County Farm Road IL 60103",41.97413,-88.151049,1,rooftop,5590,"County Farm Rd",,,Bartlett,IL,"DuPage County",60103,US,Dupage
+"225 E Lake St IL 60103",42.002564,-88.18151,1,rooftop,225,"E Lake St",,,Bartlett,IL,"Cook County",60103,US,Cook
+"751 S Il Route 59 IL 60103",41.977639,-88.20786,0.3,nearest_rooftop_match,800,"S Route 59",,,Bartlett,IL,"DuPage County",60103,US,Dupage
+"1100 Il Route 83 IL 60106",41.959701,-87.941835,0.33,place,,,,,Bensenville,IL,"DuPage County",60106,US,"TIGER/Line® dataset from the US Census Bureau"
+"1004 W Irving Park Rd IL 60106",41.960607,-87.955453,1,rooftop,1004,"W Irving Park Rd",,,Bensenville,IL,"DuPage County",60106,US,Dupage
+"1100 Il Route 83 IL 60106",41.959701,-87.941835,0.33,place,,,,,Bensenville,IL,"DuPage County",60106,US,"TIGER/Line® dataset from the US Census Bureau"
+"1004 W Irving Park Rd IL 60106",41.960607,-87.955453,1,rooftop,1004,"W Irving Park Rd",,,Bensenville,IL,"DuPage County",60106,US,Dupage
+"5725 Saint Charles Road IL 60163",41.889099,-87.911516,1,rooftop,5725,"St Charles Rd",,,Berkeley,IL,"Cook County",60163,US,Cook
+"5525 Saint Charles Rd IL 60163",41.888752,-87.906349,1,rooftop,5525,"St Charles Rd",,,Berkeley,IL,"Cook County",60163,US,Cook
+"5725 Saint Charles Road IL 60163",41.889099,-87.911516,1,rooftop,5725,"St Charles Rd",,,Berkeley,IL,"Cook County",60163,US,Cook
+"5525 Saint Charles Rd IL 60163",41.888752,-87.906349,1,rooftop,5525,"St Charles Rd",,,Berkeley,IL,"Cook County",60163,US,Cook
+"4501 Harlem Avenue IL 60402",41.81047,-87.802111,1,range_interpolation,4501,"Harlem Ave",,,Berwyn,IL,"Cook County",60402,US,"TIGER/Line® dataset from the US Census Bureau"
+"6601 Cermak Rd IL 60402",41.850183,-87.788671,1,rooftop,6601,"Cermak Rd",,,Berwyn,IL,"Cook County",60402,US,Cook
+"2945 Harlem Ave IL 60402",41.838652,-87.803095,1,range_interpolation,2945,"Harlem Ave",,,Berwyn,IL,"Cook County",60402,US,"TIGER/Line® dataset from the US Census Bureau"
+"7020 Ogden Ave IL 60402",41.824983,-87.79829,1,rooftop,7020,"Ogden Ave",,,Berwyn,IL,"Cook County",60402,US,Cook
+"4501 Harlem Avenue IL 60402",41.81047,-87.802111,1,range_interpolation,4501,"Harlem Ave",,,Berwyn,IL,"Cook County",60402,US,"TIGER/Line® dataset from the US Census Bureau"
+"6601 Cermak Rd IL 60402",41.850183,-87.788671,1,rooftop,6601,"Cermak Rd",,,Berwyn,IL,"Cook County",60402,US,Cook
+"2945 Harlem Ave IL 60402",41.838652,-87.803095,1,range_interpolation,2945,"Harlem Ave",,,Berwyn,IL,"Cook County",60402,US,"TIGER/Line® dataset from the US Census Bureau"
+"7020 Ogden Ave IL 60402",41.824983,-87.79829,1,rooftop,7020,"Ogden Ave",,,Berwyn,IL,"Cook County",60402,US,Cook
+"169 E Lake St IL 60108",41.958076,-88.073912,1,rooftop,169,"E Lake St",,,Bloomingdale,IL,"DuPage County",60108,US,Dupage
+"142 S Gary Ave Ste 109 IL 60108",41.947081,-88.122623,1,rooftop,142,"S Gary Ave",Ste,109,Bloomingdale,IL,"DuPage County",60108,US,Dupage
+"169 E Lake St IL 60108",41.958076,-88.073912,1,rooftop,169,"E Lake St",,,Bloomingdale,IL,"DuPage County",60108,US,Dupage
+"142 S Gary Ave Ste 109 IL 60108",41.947081,-88.122623,1,rooftop,142,"S Gary Ave",Ste,109,Bloomingdale,IL,"DuPage County",60108,US,Dupage
+"2306 E Oakland Ave IL 61701",40.474082,-88.959175,1,rooftop,2306,"E Oakland Ave",,,Bloomington,IL,"McLean County",61701,US,Mclean
+"2225 W Market St IL 61704",40.484573,-89.024823,1,range_interpolation,2225,"W Market St",,,Bloomington,IL,"McLean County",61704,US,"TIGER/Line® dataset from the US Census Bureau"
+"2306 E Oakland Ave IL 61701",40.474082,-88.959175,1,rooftop,2306,"E Oakland Ave",,,Bloomington,IL,"McLean County",61701,US,Mclean
+"2225 W Market St IL 61704",40.484573,-89.024823,1,range_interpolation,2225,"W Market St",,,Bloomington,IL,"McLean County",61704,US,"TIGER/Line® dataset from the US Census Bureau"
+"2323 Burr Oak Ave IL 60406",41.662567,-87.678889,1,range_interpolation,2323,"Burr Oak Ave",,,"Blue Island",IL,"Cook County",60406,US,"TIGER/Line® dataset from the US Census Bureau"
+"13101 Western Ave IL 60406",41.655327,-87.679846,1,rooftop,13101,"Western Ave",,,"Blue Island",IL,"Cook County",60406,US,Cook
+"2323 Burr Oak Ave IL 60406",41.662567,-87.678889,1,range_interpolation,2323,"Burr Oak Ave",,,"Blue Island",IL,"Cook County",60406,US,"TIGER/Line® dataset from the US Census Bureau"
+"13101 Western Ave IL 60406",41.655327,-87.679846,1,rooftop,13101,"Western Ave",,,"Blue Island",IL,"Cook County",60406,US,Cook
+"1255 W Boughton Rd IL 60440",41.70262,-88.12341,1,rooftop,1255,"W Boughton Rd",,,Bolingbrook,IL,"Will County",60440,US,Will
+"595 N Pinecrest Rd Ste E IL 60440",41.71736,-88.051157,1,rooftop,595,"N Pinecrest Rd",Ste,,Bolingbrook,IL,"Will County",60440,US,Will
+"245 S Bolingbrook Dr IL 60440",41.693457,-88.068676,1,rooftop,245,"S Bolingbrook Dr",,,Bolingbrook,IL,"Will County",60440,US,Will
+"760 South Weber Road IL 60490",41.6725,-88.124591,1,rooftop,760,"S Weber Rd",,,Bolingbrook,IL,"Will County",60490,US,Will
+"1255 W Boughton Rd IL 60440",41.70262,-88.12341,1,rooftop,1255,"W Boughton Rd",,,Bolingbrook,IL,"Will County",60440,US,Will
+"595 N Pinecrest Rd Ste E IL 60440",41.71736,-88.051157,1,rooftop,595,"N Pinecrest Rd",Ste,,Bolingbrook,IL,"Will County",60440,US,Will
+"245 S Bolingbrook Dr IL 60440",41.693457,-88.068676,1,rooftop,245,"S Bolingbrook Dr",,,Bolingbrook,IL,"Will County",60440,US,Will
+"760 South Weber Road IL 60490",41.6725,-88.124591,1,rooftop,760,"S Weber Rd",,,Bolingbrook,IL,"Will County",60490,US,Will
+"1697 Weiland Rd IL 60089",42.181787,-87.948157,1,rooftop,1697,"Weiland Rd",,,"Buffalo Grove",IL,"Lake County",60089,US,Lake
+"1169 Mchenry Rd IL 60089",42.174053,-87.982974,1,rooftop,1169,"McHenry Rd",,,"Buffalo Grove",IL,"Lake County",60089,US,Lake
+"245 Mchenry Rd IL 60089",42.157088,-87.959171,1,rooftop,245,"McHenry Rd",,,"Buffalo Grove",IL,"Lake County",60089,US,Lake
+"[100-130] Weiland Rd IL 60089",42.155827,-87.95443,1,range_interpolation,100,"Weiland Rd",,,"Buffalo Grove",IL,"Lake County",60089,US,"TIGER/Line® dataset from the US Census Bureau"
+"1697 Weiland Rd IL 60089",42.181787,-87.948157,1,rooftop,1697,"Weiland Rd",,,"Buffalo Grove",IL,"Lake County",60089,US,Lake
+"1169 Mchenry Rd IL 60089",42.174053,-87.982974,1,rooftop,1169,"McHenry Rd",,,"Buffalo Grove",IL,"Lake County",60089,US,Lake
+"245 Mchenry Rd IL 60089",42.157088,-87.959171,1,rooftop,245,"McHenry Rd",,,"Buffalo Grove",IL,"Lake County",60089,US,Lake
+"[100-130] Weiland Rd IL 60089",42.155827,-87.95443,1,range_interpolation,100,"Weiland Rd",,,"Buffalo Grove",IL,"Lake County",60089,US,"TIGER/Line® dataset from the US Census Bureau"
+"533 Torrence Ave IL 60409",41.62067,-87.558729,1,rooftop,533,"Torrence Ave",,,"Calumet City",IL,"Cook County",60409,US,Cook
+"664 River Oaks Dr IL 60409",41.600414,-87.541463,1,rooftop,664,"River Oaks Dr",,,"Calumet City",IL,"Cook County",60409,US,Cook
+"533 Torrence Ave IL 60409",41.62067,-87.558729,1,rooftop,533,"Torrence Ave",,,"Calumet City",IL,"Cook County",60409,US,Cook
+"664 River Oaks Dr IL 60409",41.600414,-87.541463,1,rooftop,664,"River Oaks Dr",,,"Calumet City",IL,"Cook County",60409,US,Cook
+"317 South Schmale Road IL 60188",41.896884,-88.101831,1,range_interpolation,317,"S Schmale Rd",,,"Carol Stream",IL,"DuPage County",60188,US,"TIGER/Line® dataset from the US Census Bureau"
+"242 W Army Trail Rd IL 60188",41.939422,-88.130195,1,range_interpolation,242,"W Army Trail Rd",,,"Carol Stream",IL,"DuPage County",60188,US,"TIGER/Line® dataset from the US Census Bureau"
+"106 East North Avenue IL 60188",41.902162,-88.093674,0.9,range_interpolation,106,"E North Ave",,,"Carol Stream",IL,"DuPage County",60188,US,"TIGER/Line® dataset from the US Census Bureau"
+"880 W Army Trail Rd IL 60188",41.94025,-88.150993,0.88,nearest_rooftop_match,870,"W Army Trail Rd",,,"Carol Stream",IL,"DuPage County",60188,US,Dupage
+"317 South Schmale Road IL 60188",41.896884,-88.101831,1,range_interpolation,317,"S Schmale Rd",,,"Carol Stream",IL,"DuPage County",60188,US,"TIGER/Line® dataset from the US Census Bureau"
+"242 W Army Trail Rd IL 60188",41.939422,-88.130195,1,range_interpolation,242,"W Army Trail Rd",,,"Carol Stream",IL,"DuPage County",60188,US,"TIGER/Line® dataset from the US Census Bureau"
+"106 East North Avenue IL 60188",41.902162,-88.093674,0.9,range_interpolation,106,"E North Ave",,,"Carol Stream",IL,"DuPage County",60188,US,"TIGER/Line® dataset from the US Census Bureau"
+"880 W Army Trail Rd IL 60188",41.94025,-88.150993,0.88,nearest_rooftop_match,870,"W Army Trail Rd",,,"Carol Stream",IL,"DuPage County",60188,US,Dupage
+"607 East Green Street IL 61820",40.110173,-88.23,1,rooftop,607,"E Green St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"607 East Green Street IL 61820",40.110173,-88.23,1,rooftop,607,"E Green St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"515 S Neil St IL 61820",40.110494,-88.243905,1,rooftop,515,"S Neil St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"1302 North Prospect Avenue IL 61820",40.128672,-88.2574,1,rooftop,1302,"N Prospect Ave",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"1302 North Prospect Avenue IL 61820",40.128672,-88.2574,1,rooftop,1302,"N Prospect Ave",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"607 East Green Street IL 61820",40.110173,-88.23,1,rooftop,607,"E Green St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"607 East Green Street IL 61820",40.110173,-88.23,1,rooftop,607,"E Green St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"515 S Neil St IL 61820",40.110494,-88.243905,1,rooftop,515,"S Neil St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"1302 North Prospect Avenue IL 61820",40.128672,-88.2574,1,rooftop,1302,"N Prospect Ave",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"1302 North Prospect Avenue IL 61820",40.128672,-88.2574,1,rooftop,1302,"N Prospect Ave",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"27 E Lake St IL 60601",41.885601,-87.627013,1,range_interpolation,27,"E Lake St",,,Chicago,IL,"Cook County",60601,US,"TIGER/Line® dataset from the US Census Bureau"
+"203 N La Salle St IL 60601",41.88606,-87.631681,1,rooftop,203,"N La Salle St",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"201 N Clark St IL 60601",41.886061,-87.63069,1,rooftop,201,"N Clark St",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"201 N State St IL 60601",41.885598,-87.627939,1,range_interpolation,201,"N State St",,,Chicago,IL,"Cook County",60601,US,"TIGER/Line® dataset from the US Census Bureau"
+"100 W Randolph St IL 60601",41.884843,-87.631981,1,rooftop,100,"W Randolph St",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"300 E Randolph St IL 60601",41.884839,-87.619893,1,rooftop,300,"E Randolph St",,,Chicago,IL,"Cook County",60601,US,Cook
+"303 E Wacker Dr IL 60601",41.88687,-87.61479,1,rooftop,303,"E Wacker Dr",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"233 N Michigan Ave IL 60601",41.887121,-87.623273,1,rooftop,233,"N Michigan Ave",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"75 E Washington St IL 60602",41.883073,-87.625214,1,range_interpolation,75,"E Washington St",,,Chicago,IL,"Cook County",60602,US,"TIGER/Line® dataset from the US Census Bureau"
+"166 W Washington St IL 60602",41.883464,-87.633055,1,rooftop,166,"W Washington St",,,Chicago,IL,"Cook County",60602,US,"City of Chicago"
+"6 N Wabash Ave IL 60602",41.882239,-87.626367,1,range_interpolation,6,"N Wabash Ave",,,Chicago,IL,"Cook County",60602,US,"TIGER/Line® dataset from the US Census Bureau"
+"31 E Adams St IL 60603",41.879347,-87.627144,1,range_interpolation,31,"E Adams St",,,Chicago,IL,"Cook County",60603,US,"TIGER/Line® dataset from the US Census Bureau"
+"333 S State St IL 60604",41.877495,-87.627218,1,rooftop,333,"S State St",,,Chicago,IL,"Cook County",60604,US,"City of Chicago"
+"230 S State St IL 60604",41.878735,-87.627842,1,range_interpolation,230,"S State St",,,Chicago,IL,"Cook County",60604,US,"TIGER/Line® dataset from the US Census Bureau"
+"62 E Jackson Blvd IL 60604",41.878405,-87.625672,1,range_interpolation,62,"E Jackson Blvd",,,Chicago,IL,"Cook County",60604,US,"TIGER/Line® dataset from the US Census Bureau"
+"77 W Jackson Blvd IL 60604",41.8776,-87.630419,1,rooftop,77,"W Jackson Blvd",,,Chicago,IL,"Cook County",60604,US,"City of Chicago"
+"1575 S Michigan Ave IL 60605",41.860838,-87.623854,1,range_interpolation,1575,"S Michigan Ave",,,Chicago,IL,"Cook County",60605,US,"TIGER/Line® dataset from the US Census Bureau"
+"406 S Michigan Ave IL 60605",41.876756,-87.624851,1,rooftop,406,"S Michigan Ave",,,Chicago,IL,"Cook County",60605,US,Cook
+"600 S Wabash Ave IL 60605",41.874265,-87.626369,1,rooftop,600,"S Wabash Ave",,,Chicago,IL,"Cook County",60605,US,"City of Chicago"
+"439 S Dearborn St IL 60605",41.875931,-87.628972,1,rooftop,439,"S Dearborn St",,,Chicago,IL,"Cook County",60605,US,Cook
+"171 W Van Buren St IL 60605",41.876665,-87.633226,1,rooftop,171,"W Van Buren St",,,Chicago,IL,"Cook County",60605,US,"City of Chicago"
+"1231 S Wabash Ave IL 60605",41.8669,-87.625307,1,rooftop,1231,"S Wabash Ave",,,Chicago,IL,"Cook County",60605,US,"City of Chicago"
+"205 W Randolph St IL 60606",41.884231,-87.634156,1,rooftop,205,"W Randolph St",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"220 W Washington St IL 60606",41.88337,-87.634877,1,rooftop,220,"W Washington St",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"215 W Lake St IL 60606",41.885378,-87.634625,1,rooftop,215,"W Lake St",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"2 N Riverside Plz IL 60606",41.882379,-87.639487,1,rooftop,2,"N Riverside Plz",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"201 W Madison St IL 60606",41.8816,-87.634113,1,rooftop,201,"W Madison St",,,Chicago,IL,"Cook County",60606,US,Cook
+"229 W Jackson Blvd IL 60606",41.877894,-87.634818,1,rooftop,229,"W Jackson Blvd",,,Chicago,IL,"Cook County",60606,US,Cook
+"1121 S Jefferson St IL 60607",41.868512,-87.641645,1,rooftop,1121,"S Jefferson St",,,Chicago,IL,"Cook County",60607,US,Cook
+"1015 West Lake Street IL 60607",41.885337,-87.652769,1,rooftop,1015,"W Lake St",,,Chicago,IL,"Cook County",60607,US,"City of Chicago"
+"901 W Washington Blvd IL 60607",41.882856,-87.650318,1,rooftop,901,"W Washington Blvd",,,Chicago,IL,"Cook County",60607,US,"City of Chicago"
+"500 W Roosevelt Rd IL 60607",41.867711,-87.63959,1,rooftop,500,"W Roosevelt Rd",,,Chicago,IL,"Cook County",60607,US,Cook
+"1710 W 18th St IL 60608",41.85802,-87.669213,1,rooftop,1710,"W 18th St",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+"2356 W Cermak Rd IL 60608",41.852337,-87.685251,1,rooftop,2356,"W Cermak Rd",,,Chicago,IL,"Cook County",60608,US,Cook
+"2401 W Ogden Ave IL 60608",41.864264,-87.686243,1,rooftop,2401,"W Ogden Ave",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+"1651 W Roosevelt Rd IL 60608",41.866702,-87.66751,1,range_interpolation,1651,"W Roosevelt Rd",,,Chicago,IL,"Cook County",60608,US,"TIGER/Line® dataset from the US Census Bureau"
+"3100 S Halsted St IL 60608",41.837924,-87.646646,1,rooftop,3100,"S Halsted St",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+"2340 W 52nd St IL 60609",41.799059,-87.682216,1,rooftop,2340,"W 52nd St",,,Chicago,IL,"Cook County",60609,US,"City of Chicago"
+"4302 S Ashland Ave IL 60609",41.815681,-87.665543,1,rooftop,4302,"S Ashland Ave",,,Chicago,IL,"Cook County",60609,US,"City of Chicago"
+"333 W North Ave IL 60610",41.910933,-87.638228,1,rooftop,333,"W North Ave",,,Chicago,IL,"Cook County",60610,US,"City of Chicago"
+"101 W Division St IL 60610",41.90405,-87.631444,1,range_interpolation,101,"W Division St",,,Chicago,IL,"Cook County",60610,US,"TIGER/Line® dataset from the US Census Bureau"
+"20 E Chicago Ave IL 60611",41.896955,-87.627345,1,rooftop,20,"E Chicago Ave",,,Chicago,IL,"Cook County",60611,US,"City of Chicago"
+"401 E Ontario St IL 60611",41.893281,-87.616679,1,rooftop,401,"E Ontario St",,,Chicago,IL,"Cook County",60611,US,"City of Chicago"
+"200 E Ohio St IL 60611",41.892807,-87.622451,1,rooftop,200,"E Ohio St",,,Chicago,IL,"Cook County",60611,US,"City of Chicago"
+"1713 W Polk St IL 60612",41.871258,-87.669597,1,rooftop,1713,"W Polk St",,,Chicago,IL,"Cook County",60612,US,"City of Chicago"
+"1755 W Addison St IL 60613",41.946742,-87.673359,1,rooftop,1755,"W Addison St",,,Chicago,IL,"Cook County",60613,US,"City of Chicago"
+"1441 W Montrose Ave IL 60613",41.961289,-87.666573,1,rooftop,1441,"W Montrose Ave",,,Chicago,IL,"Cook County",60613,US,Cook
+"801 W Diversey Pkwy IL 60614",41.932452,-87.649473,1,rooftop,801,"W Diversey Pkwy",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1927 W Fullerton Ave IL 60614",41.922628,-87.669017,1,rooftop,1927,"W Fullerton Ave",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1982 N Clybourn Ave IL 60614",41.917279,-87.658695,1,rooftop,1982,"N Clybourn Ave",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1411 E 53rd St IL 60615",41.799186,-87.591225,1,rooftop,1411,"E 53rd St",,,Chicago,IL,"Cook County",60615,US,"City of Chicago"
+"749 W 31st St IL 60616",41.837727,-87.645923,1,rooftop,749,"W 31st St",,,Chicago,IL,"Cook County",60616,US,"City of Chicago"
+"2477 S Archer Ave IL 60616",41.84709,-87.646086,1,rooftop,2477,"S Archer Ave",,,Chicago,IL,"Cook County",60616,US,"City of Chicago"
+"8753 S Stony Island Ave IL 60617",41.735282,-87.584897,1,rooftop,8753,"S Stony Island Ave",,,Chicago,IL,"Cook County",60617,US,Cook
+"3101 W Irving Park Rd IL 60618",41.953633,-87.705841,1,rooftop,3101,"W Irving Park Rd",,,Chicago,IL,"Cook County",60618,US,"City of Chicago"
+"4010 N Western Ave IL 60618",41.954443,-87.688933,1,rooftop,4010,"N Western Ave",,,Chicago,IL,"Cook County",60618,US,Cook
+"3310 W Addison St IL 60618",41.946823,-87.710718,1,rooftop,3310,"W Addison St",,,Chicago,IL,"Cook County",60618,US,"City of Chicago"
+"3801 W Belmont Ave IL 60618",41.938941,-87.7222,1,rooftop,3801,"W Belmont Ave",,,Chicago,IL,"Cook County",60618,US,"City of Chicago"
+"3214 N Kimball Ave IL 60618",41.939794,-87.712901,1,rooftop,3214,"N Kimball Ave",,,Chicago,IL,"Cook County",60618,US,"City of Chicago"
+"3535 N Western Ave IL 60618",41.945929,-87.687742,1,rooftop,3535,"N Western Ave",,,Chicago,IL,"Cook County",60618,US,Cook
+"814 E 87th St IL 60619",41.736929,-87.603971,1,rooftop,814,"E 87th St",,,Chicago,IL,"Cook County",60619,US,"City of Chicago"
+"8255 S Halsted St IL 60620",41.743666,-87.643479,1,rooftop,8255,"S Halsted St",,,Chicago,IL,"Cook County",60620,US,"City of Chicago"
+"7921 South Western Avenue IL 60620",41.749451,-87.682175,1,rooftop,7921,"S Western Ave",,,Chicago,IL,"Cook County",60620,US,"City of Chicago"
+"207 W 79th St IL 60620",41.750612,-87.629828,1,rooftop,207,"W 79th St",,,Chicago,IL,"Cook County",60620,US,"City of Chicago"
+"120 W 87th St IL 60620",41.735194,-87.627339,1,rooftop,120,"W 87th St",,,Chicago,IL,"Cook County",60620,US,"City of Chicago"
+"150 W 63rd St IL 60621",41.780319,-87.629797,1,rooftop,150,"W 63rd St",,,Chicago,IL,"Cook County",60621,US,"City of Chicago"
+"6237 South Halsted Street IL 60621",41.78092,-87.644671,1,range_interpolation,6237,"S Halsted St",,,Chicago,IL,"Cook County",60621,US,"TIGER/Line® dataset from the US Census Bureau"
+"1535 W Grand Ave IL 60622",41.890689,-87.666673,0.8,rooftop,1535,"W Grand Ave",,,Chicago,IL,"Cook County",60642,US,Cook
+"1234 N Halsted St IL 60622",41.904718,-87.648532,0.8,rooftop,1234,"N Halsted St",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1200 N Milwaukee Ave IL 60622",41.903507,-87.666484,1,range_interpolation,1200,"N Milwaukee Ave",,,Chicago,IL,"Cook County",60622,US,"TIGER/Line® dataset from the US Census Bureau"
+"1244 N Ashland Ave IL 60622",41.904907,-87.667835,1,rooftop,1244,"N Ashland Ave",,,Chicago,IL,"Cook County",60622,US,"City of Chicago"
+"2801 S Kedzie Ave IL 60623",41.840727,-87.704566,1,rooftop,2801,"S Kedzie Ave",,,Chicago,IL,"Cook County",60623,US,"City of Chicago"
+"4821 N Kedzie Ave IL 60625",41.969389,-87.708157,1,rooftop,4821,"N Kedzie Ave",,,Chicago,IL,"Cook County",60625,US,"City of Chicago"
+"4645 N Western Ave IL 60625",41.966275,-87.688457,1,rooftop,4645,"N Western Ave",,,Chicago,IL,"Cook County",60625,US,"City of Chicago"
+"5200 N Lincoln Ave IL 60625",41.976099,-87.692712,1,rooftop,5200,"N Lincoln Ave",,,Chicago,IL,"Cook County",60625,US,"City of Chicago"
+"3152 W Lawrence Ave IL 60625",41.968612,-87.707646,1,range_interpolation,3152,"W Lawrence Ave",,,Chicago,IL,"Cook County",60625,US,"TIGER/Line® dataset from the US Census Bureau"
+"7547 N Paulina St IL 60626",42.018737,-87.672101,0.88,nearest_rooftop_match,7559,"N Paulina St",,,Chicago,IL,"Cook County",60626,US,"City of Chicago"
+"1200 W Loyola Ave IL 60626",42.003161,-87.664107,1,rooftop,1200,"W Loyola Ave",,,Chicago,IL,"Cook County",60626,US,"City of Chicago"
+"1357 West Morse Avenue IL 60626",42.007768,-87.665398,1,range_interpolation,1357,"W Morse Ave",,,Chicago,IL,"Cook County",60626,US,"TIGER/Line® dataset from the US Census Bureau"
+"1632 W Howard St IL 60626",42.0196,-87.672261,1,rooftop,1632,"W Howard St",,,Chicago,IL,"Cook County",60626,US,"City of Chicago"
+"6970 N Clark St IL 60626",42.008516,-87.674305,1,rooftop,6970,"N Clark St",,,Chicago,IL,"Cook County",60626,US,"City of Chicago"
+"9802 S Halsted St IL 60628",41.715444,-87.643575,1,rooftop,9802,"S Halsted St",,,Chicago,IL,"Cook County",60628,US,Cook
+"14 W 95th St IL 60628",41.721432,-87.624685,0.87,nearest_rooftop_match,30,"W 95th St",,,Chicago,IL,"Cook County",60628,US,"City of Chicago"
+"250 E 103rd St IL 60628",41.707549,-87.616693,1,rooftop,250,"E 103rd St",,,Chicago,IL,"Cook County",60628,US,"City of Chicago"
+"6500 S Kedzie Ave IL 60629",41.775064,-87.703401,1,rooftop,6500,"S Kedzie Ave",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"5931 S Kedzie Ave IL 60629",41.785328,-87.702964,1,rooftop,5931,"S Kedzie Ave",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"3712 W 62nd Pl IL 60629",41.779944,-87.716054,1,rooftop,3712,"W 62nd Pl",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"6925 S Pulaski Rd IL 60629",41.766961,-87.72209,1,rooftop,6925,"S Pulaski Rd",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"4612 W 59th St IL 60629",41.787774,-87.738044,1,rooftop,4612,"W 59th St",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"5949 W Higgins Ave IL 60630",41.972792,-87.777373,1,range_interpolation,5949,"W Higgins Ave",,,Chicago,IL,"Cook County",60630,US,"TIGER/Line® dataset from the US Census Bureau"
+"5205 N Nagle Ave IL 60630",41.975791,-87.78772,1,range_interpolation,5205,"N Nagle Ave",,,Chicago,IL,"Cook County",60630,US,"TIGER/Line® dataset from the US Census Bureau"
+"5050 N Cicero Ave IL 60630",41.973435,-87.748231,1,rooftop,5050,"N Cicero Ave",,,Chicago,IL,"Cook County",60630,US,"City of Chicago"
+"4045 W Lawrence Ave IL 60630",41.967975,-87.729903,1,rooftop,4045,"W Lawrence Ave",,,Chicago,IL,"Cook County",60630,US,"City of Chicago"
+"742 West Higgins Road IL 60631",41.984732,-87.821752,0.85,nearest_rooftop_match,766,"W Higgins Rd",,,Chicago,IL,"Cook County",60631,US,"City of Chicago"
+"742 West Higgins Road IL 60631",41.984732,-87.821752,0.85,nearest_rooftop_match,766,"W Higgins Rd",,,Chicago,IL,"Cook County",60631,US,"City of Chicago"
+"7240 West Devon Avenue IL 60631",41.997678,-87.808432,1,rooftop,7240,"W Devon Ave",,,Chicago,IL,"Cook County",60631,US,"City of Chicago"
+"742 Higgins Road IL 60631",41.986302,-87.834616,0.8,rooftop,742,"Higgins Rd",,,"Park Ridge",IL,"Cook County",60068,US,Cook
+"7156 N Harlem Ave IL 60631",42.01155,-87.806997,1,rooftop,7156,"N Harlem Ave",,,Chicago,IL,"Cook County",60631,US,"City of Chicago"
+"4113 South Pulaski Road IL 60632",41.818067,-87.723418,1,rooftop,4113,"S Pulaski Rd",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"4669 S Cicero Ave IL 60632",41.80816,-87.743113,1,range_interpolation,4669,"S Cicero Ave",,,Chicago,IL,"Cook County",60632,US,"TIGER/Line® dataset from the US Census Bureau"
+"3910 S Archer Ave IL 60632",41.822684,-87.690695,1,rooftop,3910,"S Archer Ave",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"4453 S Archer Ave IL 60632",41.812103,-87.706899,1,rooftop,4453,"S Archer Ave",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"4701 S Kedzie Ave IL 60632",41.807877,-87.703324,1,rooftop,4701,"S Kedzie Ave",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"5448 S Pulaski Rd IL 60632",41.793693,-87.72356,1,rooftop,5448,"S Pulaski Rd",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"4649 S Cicero Ave IL 60632",41.808159,-87.742799,1,rooftop,4649,"S Cicero Ave",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"3359 N Harlem Ave IL 60634",41.941432,-87.806403,1,rooftop,3359,"N Harlem Ave",,,Chicago,IL,"Cook County",60634,US,Cook
+"6200 W Belmont Ave IL 60634",41.938651,-87.781428,1,rooftop,6200,"W Belmont Ave",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"4354 N Central Ave IL 60634",41.960336,-87.767595,1,rooftop,4354,"N Central Ave",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"7171 W Irving Park Rd IL 60634",41.952461,-87.806723,1,rooftop,7171,"W Irving Park Rd",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"6408 W Irving Park Rd IL 60634",41.953224,-87.786916,1,rooftop,6408,"W Irving Park Rd",,,Chicago,IL,"Cook County",60634,US,Cook
+"6001 W Addison St IL 60634",41.945593,-87.776839,1,rooftop,6001,"W Addison St",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"3039 N Central Ave IL 60634",41.936161,-87.766068,1,rooftop,3039,"N Central Ave",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"1614 W 59th St IL 60636",41.78746,-87.665502,1,rooftop,1614,"W 59th St",,,Chicago,IL,"Cook County",60636,US,"City of Chicago"
+"6100 S Western Ave IL 60636",41.782655,-87.684078,1,rooftop,6100,"S Western Ave",,,Chicago,IL,"Cook County",60636,US,Cook
+"7059 S Ashland Ave IL 60636",41.765182,-87.663439,1,rooftop,7059,"S Ashland Ave",,,Chicago,IL,"Cook County",60636,US,"City of Chicago"
+"4957 S Central Ave IL 60638",41.802644,-87.762476,1,range_interpolation,4957,"S Central Ave",,,Chicago,IL,"Cook County",60638,US,"TIGER/Line® dataset from the US Census Bureau"
+"6738 W Archer Ave IL 60638",41.792464,-87.790658,1,rooftop,6738,"W Archer Ave",,,Chicago,IL,"Cook County",60638,US,"City of Chicago"
+"5615 S Harlem Ave IL 60638",41.789666,-87.801043,1,rooftop,5615,"S Harlem Ave",,,Chicago,IL,"Cook County",60638,US,"City of Chicago"
+"6641 S Cicero Ave IL 60638",41.771727,-87.741693,1,rooftop,6641,"S Cicero Ave",,,Chicago,IL,"Cook County",60638,US,"City of Chicago"
+"4644 W Diversey Ave IL 60639",41.932674,-87.743662,1,rooftop,4644,"W Diversey Ave",,,Chicago,IL,"Cook County",60639,US,Cook
+"6336 W North Ave IL 60639",41.909529,-87.784774,1,rooftop,6336,"W North Ave",,,Chicago,IL,"Cook County",60639,US,Cook
+"2640 N Narragansett Ave IL 60639",41.928854,-87.785783,1,range_interpolation,2640,"N Narragansett Ave",,,Chicago,IL,"Cook County",60639,US,"TIGER/Line® dataset from the US Census Bureau"
+"5959 W Diversey Ave IL 60639",41.930889,-87.775659,1,rooftop,5959,"W Diversey Ave",,,Chicago,IL,"Cook County",60639,US,"City of Chicago"
+"5650 W Fullerton Ave IL 60639",41.924323,-87.767761,1,rooftop,5650,"W Fullerton Ave",,,Chicago,IL,"Cook County",60639,US,Cook
+"2337 N Cicero Ave IL 60639",41.923593,-87.745905,1,rooftop,2337,"N Cicero Ave",,,Chicago,IL,"Cook County",60639,US,"City of Chicago"
+"5707 W North Ave IL 60639",41.909035,-87.768784,1,rooftop,5707,"W North Ave",,,Chicago,IL,"Cook County",60639,US,"City of Chicago"
+"1743 W Lawrence Ave IL 60640",41.968644,-87.673049,1,rooftop,1743,"W Lawrence Ave",,,Chicago,IL,"Cook County",60640,US,"City of Chicago"
+"4547 N Broadway St IL 60640",41.965048,-87.65687,1,rooftop,4547,"N Broadway St",,,Chicago,IL,"Cook County",60640,US,Cook
+"4245 N Milwaukee Ave IL 60641",41.958264,-87.752012,1,rooftop,4245,"N Milwaukee Ave",,,Chicago,IL,"Cook County",60641,US,"City of Chicago"
+"5000 W Irving Park Rd IL 60641",41.953671,-87.75254,1,rooftop,5000,"W Irving Park Rd",,,Chicago,IL,"Cook County",60641,US,"City of Chicago"
+"9800 South Western Avenue IL 60643",41.715161,-87.682296,0.8,rooftop,9800,"S Western Ave",,,"Evergreen Park",IL,"Cook County",60805,US,Cook
+"10401 S Western Ave IL 60643",41.704417,-87.681066,1,rooftop,10401,"S Western Ave",,,Chicago,IL,"Cook County",60643,US,Cook
+"4800 W Lake St IL 60644",41.886881,-87.745297,1,rooftop,4800,"W Lake St",,,Chicago,IL,"Cook County",60644,US,"City of Chicago"
+"782 N Laramie Ave IL 60644",41.894616,-87.755735,1,range_interpolation,782,"N Laramie Ave",,,Chicago,IL,"Cook County",60644,US,"TIGER/Line® dataset from the US Census Bureau"
+"7578 N Western Ave IL 60645",42.019255,-87.690482,1,rooftop,7578,"N Western Ave",,,Chicago,IL,"Cook County",60645,US,Cook
+"6342 N Milwaukee Ave IL 60646",41.996308,-87.787254,1,rooftop,6342,"N Milwaukee Ave",,,Chicago,IL,"Cook County",60646,US,"City of Chicago"
+"1909 N Western Ave IL 60647",41.91671,-87.687235,1,range_interpolation,1909,"N Western Ave",,,Chicago,IL,"Cook County",60647,US,"TIGER/Line® dataset from the US Census Bureau"
+"3427 W Diversey Ave IL 60647",41.931707,-87.713441,1,rooftop,3427,"W Diversey Ave",,,Chicago,IL,"Cook County",60647,US,"City of Chicago"
+"3309 W North Ave IL 60647",41.90972,-87.709987,1,rooftop,3309,"W North Ave",,,Chicago,IL,"Cook County",60647,US,Cook
+"1746 N Western Ave IL 60647",41.91356,-87.687692,1,rooftop,1746,"N Western Ave",,,Chicago,IL,"Cook County",60647,US,"City of Chicago"
+"1345 N Pulaski Rd IL 60651",41.905637,-87.725835,1,rooftop,1345,"N Pulaski Rd",,,Chicago,IL,"Cook County",60651,US,"City of Chicago"
+"800 N Kedzie Ave IL 60651",41.896524,-87.707225,1,rooftop,800,"N Kedzie Ave",,,Chicago,IL,"Cook County",60651,US,"City of Chicago"
+"4747 West 79th Street IL 60652",41.749026,-87.740298,1,range_interpolation,4747,"W 79th St",,,Chicago,IL,"Cook County",60652,US,"TIGER/Line® dataset from the US Census Bureau"
+"7905 S Cicero Ave IL 60652",41.749086,-87.741203,1,range_interpolation,7905,"S Cicero Ave",,,Chicago,IL,"Cook County",60652,US,"TIGER/Line® dataset from the US Census Bureau"
+"3977 W Columbus Ave IL 60652",41.735724,-87.720841,1,rooftop,3977,"W Columbus Ave",,,Chicago,IL,"Cook County",60652,US,"City of Chicago"
+"7601 S Cicero Ave Ste 76 IL 60652",41.755323,-87.740572,1,rooftop,7601,"S Cicero Ave",Ste,76,Chicago,IL,"Cook County",60652,US,Cook
+"4667 W 79th St IL 60652",41.749048,-87.738327,1,range_interpolation,4667,"W 79th St",,,Chicago,IL,"Cook County",60652,US,"TIGER/Line® dataset from the US Census Bureau"
+"3214 W 87th St IL 60652",41.735183,-87.711715,1,range_interpolation,3214,"W 87th St",,,Chicago,IL,"Cook County",60652,US,"TIGER/Line® dataset from the US Census Bureau"
+"222 W Merchandise Mart Plaza IL 60654",41.888083,-87.636185,1,range_interpolation,222,"W Merchandise Mart Plz",,,Chicago,IL,"Cook County",60654,US,"TIGER/Line® dataset from the US Census Bureau"
+"309 West Chicago Avenue IL 60654",41.89626,-87.63615,1,rooftop,309,"W Chicago Ave",,,Chicago,IL,"Cook County",60654,US,"City of Chicago"
+"222 Merchandise Mart Plz IL 60654",41.888083,-87.636185,0.9,range_interpolation,222,"W Merchandise Mart Plz",,,Chicago,IL,"Cook County",60654,US,"TIGER/Line® dataset from the US Census Bureau"
+"222 Merchandise Mart Plz Ste 203 IL 60654",41.888083,-87.636185,0.9,range_interpolation,222,"W Merchandise Mart Plz",Ste,203,Chicago,IL,"Cook County",60654,US,"TIGER/Line® dataset from the US Census Bureau"
+"3206 West 111th Street IL 60655",41.691841,-87.701301,1,rooftop,3206,"W 111th St",,,Chicago,IL,"Cook County",60655,US,Cook
+"5550 N Harlem Ave IL 60656",41.982436,-87.807708,1,rooftop,5550,"N Harlem Ave",,,Chicago,IL,"Cook County",60656,US,"City of Chicago"
+"3200 N Clark St IL 60657",41.94031,-87.651428,1,rooftop,3200,"N Clark St",,,Chicago,IL,"Cook County",60657,US,"City of Chicago"
+"3000 N Ashland Ave IL 60657",41.936365,-87.668877,1,rooftop,3000,"N Ashland Ave",,,Chicago,IL,"Cook County",60657,US,"City of Chicago"
+"3132 W Devon Ave IL 60659",41.997675,-87.708534,1,rooftop,3132,"W Devon Ave",,,Chicago,IL,"Cook County",60659,US,"City of Chicago"
+"6254 N Western Ave IL 60659",41.99573,-87.690212,1,rooftop,6254,"N Western Ave",,,Chicago,IL,"Cook County",60659,US,"City of Chicago"
+"5723 N California Ave IL 60659",41.985697,-87.698898,1,rooftop,5723,"N California Ave",,,Chicago,IL,"Cook County",60659,US,"City of Chicago"
+"6250 N Clark St IL 60660",41.995826,-87.670598,1,rooftop,6250,"N Clark St",,,Chicago,IL,"Cook County",60660,US,"City of Chicago"
+"6326 N Broadway St IL 60660",41.996849,-87.660631,1,range_interpolation,6326,"N Broadway St",,,Chicago,IL,"Cook County",60660,US,"TIGER/Line® dataset from the US Census Bureau"
+"1954 W Peterson Ave IL 60660",41.991024,-87.679259,1,rooftop,1954,"W Peterson Ave",,,Chicago,IL,"Cook County",60660,US,Cook
+"1127 W Bryn Mawr Ave IL 60660",41.98333,-87.659087,1,rooftop,1127,"W Bryn Mawr Ave",,,Chicago,IL,"Cook County",60660,US,Cook
+"555 W Lake St IL 60661",41.885494,-87.64197,1,rooftop,555,"W Lake St",,,Chicago,IL,"Cook County",60661,US,"City of Chicago"
+"117 S Clinton St IL 60661",41.879996,-87.640857,1,rooftop,117,"S Clinton St",,,Chicago,IL,"Cook County",60661,US,Cook
+"500 W Madison St IL 60661",41.88239,-87.640472,1,rooftop,500,"W Madison St",,,Chicago,IL,"Cook County",60661,US,Cook
+"547 W Jackson Blvd IL 60661",41.877723,-87.641777,1,rooftop,547,"W Jackson Blvd",,,Chicago,IL,"Cook County",60661,US,"City of Chicago"
+"5600 Mannheim Rd IL 60666",41.916448,-87.883964,0.5,street_center,,"Mannheim Rd",,,"Melrose Park",IL,"Cook County",60164,US,"TIGER/Line® dataset from the US Census Bureau"
+"10000 Bessie Coleman Dr IL 60666",41.850033,-87.650052,0.16,place,,,,,"Amf Ohare",IL,"Cook County",60666,US,"TIGER/Line® dataset from the US Census Bureau"
+"[100-119] W North Ave IL 60707",41.909066,-87.802699,0.6,street_center,,"W North Ave",,,"Elmwood Park",IL,"Cook County",60707,US,"TIGER/Line® dataset from the US Census Bureau"
+"S Cicero Ave IL 60804",41.817942,-87.743665,1,street_center,,"S Cicero Ave",,,Cicero,IL,"Cook County",60804,US,"TIGER/Line® dataset from the US Census Bureau"
+"27 E Lake St IL 60601",41.885601,-87.627013,1,range_interpolation,27,"E Lake St",,,Chicago,IL,"Cook County",60601,US,"TIGER/Line® dataset from the US Census Bureau"
+"203 N La Salle St IL 60601",41.88606,-87.631681,1,rooftop,203,"N La Salle St",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"201 N Clark St IL 60601",41.886061,-87.63069,1,rooftop,201,"N Clark St",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"201 N State St IL 60601",41.885598,-87.627939,1,range_interpolation,201,"N State St",,,Chicago,IL,"Cook County",60601,US,"TIGER/Line® dataset from the US Census Bureau"
+"100 W Randolph St IL 60601",41.884843,-87.631981,1,rooftop,100,"W Randolph St",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"300 E Randolph St IL 60601",41.884839,-87.619893,1,rooftop,300,"E Randolph St",,,Chicago,IL,"Cook County",60601,US,Cook
+"303 E Wacker Dr IL 60601",41.88687,-87.61479,1,rooftop,303,"E Wacker Dr",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"233 N Michigan Ave IL 60601",41.887121,-87.623273,1,rooftop,233,"N Michigan Ave",,,Chicago,IL,"Cook County",60601,US,"City of Chicago"
+"75 E Washington St IL 60602",41.883073,-87.625214,1,range_interpolation,75,"E Washington St",,,Chicago,IL,"Cook County",60602,US,"TIGER/Line® dataset from the US Census Bureau"
+"166 W Washington St IL 60602",41.883464,-87.633055,1,rooftop,166,"W Washington St",,,Chicago,IL,"Cook County",60602,US,"City of Chicago"
+"6 N Wabash Ave IL 60602",41.882239,-87.626367,1,range_interpolation,6,"N Wabash Ave",,,Chicago,IL,"Cook County",60602,US,"TIGER/Line® dataset from the US Census Bureau"
+"31 E Adams St IL 60603",41.879347,-87.627144,1,range_interpolation,31,"E Adams St",,,Chicago,IL,"Cook County",60603,US,"TIGER/Line® dataset from the US Census Bureau"
+"333 S State St IL 60604",41.877495,-87.627218,1,rooftop,333,"S State St",,,Chicago,IL,"Cook County",60604,US,"City of Chicago"
+"230 S State St IL 60604",41.878735,-87.627842,1,range_interpolation,230,"S State St",,,Chicago,IL,"Cook County",60604,US,"TIGER/Line® dataset from the US Census Bureau"
+"62 E Jackson Blvd IL 60604",41.878405,-87.625672,1,range_interpolation,62,"E Jackson Blvd",,,Chicago,IL,"Cook County",60604,US,"TIGER/Line® dataset from the US Census Bureau"
+"77 W Jackson Blvd IL 60604",41.8776,-87.630419,1,rooftop,77,"W Jackson Blvd",,,Chicago,IL,"Cook County",60604,US,"City of Chicago"
+"1575 S Michigan Ave IL 60605",41.860838,-87.623854,1,range_interpolation,1575,"S Michigan Ave",,,Chicago,IL,"Cook County",60605,US,"TIGER/Line® dataset from the US Census Bureau"
+"406 S Michigan Ave IL 60605",41.876756,-87.624851,1,rooftop,406,"S Michigan Ave",,,Chicago,IL,"Cook County",60605,US,Cook
+"600 S Wabash Ave IL 60605",41.874265,-87.626369,1,rooftop,600,"S Wabash Ave",,,Chicago,IL,"Cook County",60605,US,"City of Chicago"
+"439 S Dearborn St IL 60605",41.875931,-87.628972,1,rooftop,439,"S Dearborn St",,,Chicago,IL,"Cook County",60605,US,Cook
+"171 W Van Buren St IL 60605",41.876665,-87.633226,1,rooftop,171,"W Van Buren St",,,Chicago,IL,"Cook County",60605,US,"City of Chicago"
+"1231 S Wabash Ave IL 60605",41.8669,-87.625307,1,rooftop,1231,"S Wabash Ave",,,Chicago,IL,"Cook County",60605,US,"City of Chicago"
+"205 W Randolph St IL 60606",41.884231,-87.634156,1,rooftop,205,"W Randolph St",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"220 W Washington St IL 60606",41.88337,-87.634877,1,rooftop,220,"W Washington St",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"215 W Lake St IL 60606",41.885378,-87.634625,1,rooftop,215,"W Lake St",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"2 N Riverside Plz IL 60606",41.882379,-87.639487,1,rooftop,2,"N Riverside Plz",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"201 W Madison St IL 60606",41.8816,-87.634113,1,rooftop,201,"W Madison St",,,Chicago,IL,"Cook County",60606,US,Cook
+"229 W Jackson Blvd IL 60606",41.877894,-87.634818,1,rooftop,229,"W Jackson Blvd",,,Chicago,IL,"Cook County",60606,US,Cook
+"1121 S Jefferson St IL 60607",41.868512,-87.641645,1,rooftop,1121,"S Jefferson St",,,Chicago,IL,"Cook County",60607,US,Cook
+"1015 West Lake Street IL 60607",41.885337,-87.652769,1,rooftop,1015,"W Lake St",,,Chicago,IL,"Cook County",60607,US,"City of Chicago"
+"901 W Washington Blvd IL 60607",41.882856,-87.650318,1,rooftop,901,"W Washington Blvd",,,Chicago,IL,"Cook County",60607,US,"City of Chicago"
+"500 W Roosevelt Rd IL 60607",41.867711,-87.63959,1,rooftop,500,"W Roosevelt Rd",,,Chicago,IL,"Cook County",60607,US,Cook
+"1710 W 18th St IL 60608",41.85802,-87.669213,1,rooftop,1710,"W 18th St",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+"2356 W Cermak Rd IL 60608",41.852337,-87.685251,1,rooftop,2356,"W Cermak Rd",,,Chicago,IL,"Cook County",60608,US,Cook
+"2401 W Ogden Ave IL 60608",41.864264,-87.686243,1,rooftop,2401,"W Ogden Ave",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+"1651 W Roosevelt Rd IL 60608",41.866702,-87.66751,1,range_interpolation,1651,"W Roosevelt Rd",,,Chicago,IL,"Cook County",60608,US,"TIGER/Line® dataset from the US Census Bureau"
+"3100 S Halsted St IL 60608",41.837924,-87.646646,1,rooftop,3100,"S Halsted St",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+"2340 W 52nd St IL 60609",41.799059,-87.682216,1,rooftop,2340,"W 52nd St",,,Chicago,IL,"Cook County",60609,US,"City of Chicago"
+"4302 S Ashland Ave IL 60609",41.815681,-87.665543,1,rooftop,4302,"S Ashland Ave",,,Chicago,IL,"Cook County",60609,US,"City of Chicago"
+"333 W North Ave IL 60610",41.910933,-87.638228,1,rooftop,333,"W North Ave",,,Chicago,IL,"Cook County",60610,US,"City of Chicago"
+"101 W Division St IL 60610",41.90405,-87.631444,1,range_interpolation,101,"W Division St",,,Chicago,IL,"Cook County",60610,US,"TIGER/Line® dataset from the US Census Bureau"
+"20 E Chicago Ave IL 60611",41.896955,-87.627345,1,rooftop,20,"E Chicago Ave",,,Chicago,IL,"Cook County",60611,US,"City of Chicago"
+"401 E Ontario St IL 60611",41.893281,-87.616679,1,rooftop,401,"E Ontario St",,,Chicago,IL,"Cook County",60611,US,"City of Chicago"
+"200 E Ohio St IL 60611",41.892807,-87.622451,1,rooftop,200,"E Ohio St",,,Chicago,IL,"Cook County",60611,US,"City of Chicago"
+"1713 W Polk St IL 60612",41.871258,-87.669597,1,rooftop,1713,"W Polk St",,,Chicago,IL,"Cook County",60612,US,"City of Chicago"
+"1755 W Addison St IL 60613",41.946742,-87.673359,1,rooftop,1755,"W Addison St",,,Chicago,IL,"Cook County",60613,US,"City of Chicago"
+"1441 W Montrose Ave IL 60613",41.961289,-87.666573,1,rooftop,1441,"W Montrose Ave",,,Chicago,IL,"Cook County",60613,US,Cook
+"801 W Diversey Pkwy IL 60614",41.932452,-87.649473,1,rooftop,801,"W Diversey Pkwy",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1927 W Fullerton Ave IL 60614",41.922628,-87.669017,1,rooftop,1927,"W Fullerton Ave",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1982 N Clybourn Ave IL 60614",41.917279,-87.658695,1,rooftop,1982,"N Clybourn Ave",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1411 E 53rd St IL 60615",41.799186,-87.591225,1,rooftop,1411,"E 53rd St",,,Chicago,IL,"Cook County",60615,US,"City of Chicago"
+"749 W 31st St IL 60616",41.837727,-87.645923,1,rooftop,749,"W 31st St",,,Chicago,IL,"Cook County",60616,US,"City of Chicago"
+"2477 S Archer Ave IL 60616",41.84709,-87.646086,1,rooftop,2477,"S Archer Ave",,,Chicago,IL,"Cook County",60616,US,"City of Chicago"
+"8753 S Stony Island Ave IL 60617",41.735282,-87.584897,1,rooftop,8753,"S Stony Island Ave",,,Chicago,IL,"Cook County",60617,US,Cook
+"3101 W Irving Park Rd IL 60618",41.953633,-87.705841,1,rooftop,3101,"W Irving Park Rd",,,Chicago,IL,"Cook County",60618,US,"City of Chicago"
+"4010 N Western Ave IL 60618",41.954443,-87.688933,1,rooftop,4010,"N Western Ave",,,Chicago,IL,"Cook County",60618,US,Cook
+"3310 W Addison St IL 60618",41.946823,-87.710718,1,rooftop,3310,"W Addison St",,,Chicago,IL,"Cook County",60618,US,"City of Chicago"
+"3801 W Belmont Ave IL 60618",41.938941,-87.7222,1,rooftop,3801,"W Belmont Ave",,,Chicago,IL,"Cook County",60618,US,"City of Chicago"
+"3214 N Kimball Ave IL 60618",41.939794,-87.712901,1,rooftop,3214,"N Kimball Ave",,,Chicago,IL,"Cook County",60618,US,"City of Chicago"
+"3535 N Western Ave IL 60618",41.945929,-87.687742,1,rooftop,3535,"N Western Ave",,,Chicago,IL,"Cook County",60618,US,Cook
+"814 E 87th St IL 60619",41.736929,-87.603971,1,rooftop,814,"E 87th St",,,Chicago,IL,"Cook County",60619,US,"City of Chicago"
+"8255 S Halsted St IL 60620",41.743666,-87.643479,1,rooftop,8255,"S Halsted St",,,Chicago,IL,"Cook County",60620,US,"City of Chicago"
+"7921 South Western Avenue IL 60620",41.749451,-87.682175,1,rooftop,7921,"S Western Ave",,,Chicago,IL,"Cook County",60620,US,"City of Chicago"
+"207 W 79th St IL 60620",41.750612,-87.629828,1,rooftop,207,"W 79th St",,,Chicago,IL,"Cook County",60620,US,"City of Chicago"
+"120 W 87th St IL 60620",41.735194,-87.627339,1,rooftop,120,"W 87th St",,,Chicago,IL,"Cook County",60620,US,"City of Chicago"
+"150 W 63rd St IL 60621",41.780319,-87.629797,1,rooftop,150,"W 63rd St",,,Chicago,IL,"Cook County",60621,US,"City of Chicago"
+"6237 South Halsted Street IL 60621",41.78092,-87.644671,1,range_interpolation,6237,"S Halsted St",,,Chicago,IL,"Cook County",60621,US,"TIGER/Line® dataset from the US Census Bureau"
+"1535 W Grand Ave IL 60622",41.890689,-87.666673,0.8,rooftop,1535,"W Grand Ave",,,Chicago,IL,"Cook County",60642,US,Cook
+"1234 N Halsted St IL 60622",41.904718,-87.648532,0.8,rooftop,1234,"N Halsted St",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1200 N Milwaukee Ave IL 60622",41.903507,-87.666484,1,range_interpolation,1200,"N Milwaukee Ave",,,Chicago,IL,"Cook County",60622,US,"TIGER/Line® dataset from the US Census Bureau"
+"1244 N Ashland Ave IL 60622",41.904907,-87.667835,1,rooftop,1244,"N Ashland Ave",,,Chicago,IL,"Cook County",60622,US,"City of Chicago"
+"2801 S Kedzie Ave IL 60623",41.840727,-87.704566,1,rooftop,2801,"S Kedzie Ave",,,Chicago,IL,"Cook County",60623,US,"City of Chicago"
+"4821 N Kedzie Ave IL 60625",41.969389,-87.708157,1,rooftop,4821,"N Kedzie Ave",,,Chicago,IL,"Cook County",60625,US,"City of Chicago"
+"4645 N Western Ave IL 60625",41.966275,-87.688457,1,rooftop,4645,"N Western Ave",,,Chicago,IL,"Cook County",60625,US,"City of Chicago"
+"5200 N Lincoln Ave IL 60625",41.976099,-87.692712,1,rooftop,5200,"N Lincoln Ave",,,Chicago,IL,"Cook County",60625,US,"City of Chicago"
+"3152 W Lawrence Ave IL 60625",41.968612,-87.707646,1,range_interpolation,3152,"W Lawrence Ave",,,Chicago,IL,"Cook County",60625,US,"TIGER/Line® dataset from the US Census Bureau"
+"7547 N Paulina St IL 60626",42.018737,-87.672101,0.88,nearest_rooftop_match,7559,"N Paulina St",,,Chicago,IL,"Cook County",60626,US,"City of Chicago"
+"1200 W Loyola Ave IL 60626",42.003161,-87.664107,1,rooftop,1200,"W Loyola Ave",,,Chicago,IL,"Cook County",60626,US,"City of Chicago"
+"1357 West Morse Avenue IL 60626",42.007768,-87.665398,1,range_interpolation,1357,"W Morse Ave",,,Chicago,IL,"Cook County",60626,US,"TIGER/Line® dataset from the US Census Bureau"
+"1632 W Howard St IL 60626",42.0196,-87.672261,1,rooftop,1632,"W Howard St",,,Chicago,IL,"Cook County",60626,US,"City of Chicago"
+"6970 N Clark St IL 60626",42.008516,-87.674305,1,rooftop,6970,"N Clark St",,,Chicago,IL,"Cook County",60626,US,"City of Chicago"
+"9802 S Halsted St IL 60628",41.715444,-87.643575,1,rooftop,9802,"S Halsted St",,,Chicago,IL,"Cook County",60628,US,Cook
+"14 W 95th St IL 60628",41.721432,-87.624685,0.87,nearest_rooftop_match,30,"W 95th St",,,Chicago,IL,"Cook County",60628,US,"City of Chicago"
+"250 E 103rd St IL 60628",41.707549,-87.616693,1,rooftop,250,"E 103rd St",,,Chicago,IL,"Cook County",60628,US,"City of Chicago"
+"6500 S Kedzie Ave IL 60629",41.775064,-87.703401,1,rooftop,6500,"S Kedzie Ave",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"5931 S Kedzie Ave IL 60629",41.785328,-87.702964,1,rooftop,5931,"S Kedzie Ave",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"3712 W 62nd Pl IL 60629",41.779944,-87.716054,1,rooftop,3712,"W 62nd Pl",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"6925 S Pulaski Rd IL 60629",41.766961,-87.72209,1,rooftop,6925,"S Pulaski Rd",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"4612 W 59th St IL 60629",41.787774,-87.738044,1,rooftop,4612,"W 59th St",,,Chicago,IL,"Cook County",60629,US,"City of Chicago"
+"5949 W Higgins Ave IL 60630",41.972792,-87.777373,1,range_interpolation,5949,"W Higgins Ave",,,Chicago,IL,"Cook County",60630,US,"TIGER/Line® dataset from the US Census Bureau"
+"5205 N Nagle Ave IL 60630",41.975791,-87.78772,1,range_interpolation,5205,"N Nagle Ave",,,Chicago,IL,"Cook County",60630,US,"TIGER/Line® dataset from the US Census Bureau"
+"5050 N Cicero Ave IL 60630",41.973435,-87.748231,1,rooftop,5050,"N Cicero Ave",,,Chicago,IL,"Cook County",60630,US,"City of Chicago"
+"4045 W Lawrence Ave IL 60630",41.967975,-87.729903,1,rooftop,4045,"W Lawrence Ave",,,Chicago,IL,"Cook County",60630,US,"City of Chicago"
+"742 West Higgins Road IL 60631",41.984732,-87.821752,0.85,nearest_rooftop_match,766,"W Higgins Rd",,,Chicago,IL,"Cook County",60631,US,"City of Chicago"
+"742 West Higgins Road IL 60631",41.984732,-87.821752,0.85,nearest_rooftop_match,766,"W Higgins Rd",,,Chicago,IL,"Cook County",60631,US,"City of Chicago"
+"7240 West Devon Avenue IL 60631",41.997678,-87.808432,1,rooftop,7240,"W Devon Ave",,,Chicago,IL,"Cook County",60631,US,"City of Chicago"
+"742 Higgins Road IL 60631",41.986302,-87.834616,0.8,rooftop,742,"Higgins Rd",,,"Park Ridge",IL,"Cook County",60068,US,Cook
+"7156 N Harlem Ave IL 60631",42.01155,-87.806997,1,rooftop,7156,"N Harlem Ave",,,Chicago,IL,"Cook County",60631,US,"City of Chicago"
+"4113 South Pulaski Road IL 60632",41.818067,-87.723418,1,rooftop,4113,"S Pulaski Rd",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"4669 S Cicero Ave IL 60632",41.80816,-87.743113,1,range_interpolation,4669,"S Cicero Ave",,,Chicago,IL,"Cook County",60632,US,"TIGER/Line® dataset from the US Census Bureau"
+"3910 S Archer Ave IL 60632",41.822684,-87.690695,1,rooftop,3910,"S Archer Ave",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"4453 S Archer Ave IL 60632",41.812103,-87.706899,1,rooftop,4453,"S Archer Ave",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"4701 S Kedzie Ave IL 60632",41.807877,-87.703324,1,rooftop,4701,"S Kedzie Ave",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"5448 S Pulaski Rd IL 60632",41.793693,-87.72356,1,rooftop,5448,"S Pulaski Rd",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"4649 S Cicero Ave IL 60632",41.808159,-87.742799,1,rooftop,4649,"S Cicero Ave",,,Chicago,IL,"Cook County",60632,US,"City of Chicago"
+"3359 N Harlem Ave IL 60634",41.941432,-87.806403,1,rooftop,3359,"N Harlem Ave",,,Chicago,IL,"Cook County",60634,US,Cook
+"6200 W Belmont Ave IL 60634",41.938651,-87.781428,1,rooftop,6200,"W Belmont Ave",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"4354 N Central Ave IL 60634",41.960336,-87.767595,1,rooftop,4354,"N Central Ave",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"7171 W Irving Park Rd IL 60634",41.952461,-87.806723,1,rooftop,7171,"W Irving Park Rd",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"6408 W Irving Park Rd IL 60634",41.953224,-87.786916,1,rooftop,6408,"W Irving Park Rd",,,Chicago,IL,"Cook County",60634,US,Cook
+"6001 W Addison St IL 60634",41.945593,-87.776839,1,rooftop,6001,"W Addison St",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"3039 N Central Ave IL 60634",41.936161,-87.766068,1,rooftop,3039,"N Central Ave",,,Chicago,IL,"Cook County",60634,US,"City of Chicago"
+"1614 W 59th St IL 60636",41.78746,-87.665502,1,rooftop,1614,"W 59th St",,,Chicago,IL,"Cook County",60636,US,"City of Chicago"
+"6100 S Western Ave IL 60636",41.782655,-87.684078,1,rooftop,6100,"S Western Ave",,,Chicago,IL,"Cook County",60636,US,Cook
+"7059 S Ashland Ave IL 60636",41.765182,-87.663439,1,rooftop,7059,"S Ashland Ave",,,Chicago,IL,"Cook County",60636,US,"City of Chicago"
+"4957 S Central Ave IL 60638",41.802644,-87.762476,1,range_interpolation,4957,"S Central Ave",,,Chicago,IL,"Cook County",60638,US,"TIGER/Line® dataset from the US Census Bureau"
+"6738 W Archer Ave IL 60638",41.792464,-87.790658,1,rooftop,6738,"W Archer Ave",,,Chicago,IL,"Cook County",60638,US,"City of Chicago"
+"5615 S Harlem Ave IL 60638",41.789666,-87.801043,1,rooftop,5615,"S Harlem Ave",,,Chicago,IL,"Cook County",60638,US,"City of Chicago"
+"6641 S Cicero Ave IL 60638",41.771727,-87.741693,1,rooftop,6641,"S Cicero Ave",,,Chicago,IL,"Cook County",60638,US,"City of Chicago"
+"4644 W Diversey Ave IL 60639",41.932674,-87.743662,1,rooftop,4644,"W Diversey Ave",,,Chicago,IL,"Cook County",60639,US,Cook
+"6336 W North Ave IL 60639",41.909529,-87.784774,1,rooftop,6336,"W North Ave",,,Chicago,IL,"Cook County",60639,US,Cook
+"2640 N Narragansett Ave IL 60639",41.928854,-87.785783,1,range_interpolation,2640,"N Narragansett Ave",,,Chicago,IL,"Cook County",60639,US,"TIGER/Line® dataset from the US Census Bureau"
+"5959 W Diversey Ave IL 60639",41.930889,-87.775659,1,rooftop,5959,"W Diversey Ave",,,Chicago,IL,"Cook County",60639,US,"City of Chicago"
+"5650 W Fullerton Ave IL 60639",41.924323,-87.767761,1,rooftop,5650,"W Fullerton Ave",,,Chicago,IL,"Cook County",60639,US,Cook
+"2337 N Cicero Ave IL 60639",41.923593,-87.745905,1,rooftop,2337,"N Cicero Ave",,,Chicago,IL,"Cook County",60639,US,"City of Chicago"
+"5707 W North Ave IL 60639",41.909035,-87.768784,1,rooftop,5707,"W North Ave",,,Chicago,IL,"Cook County",60639,US,"City of Chicago"
+"1743 W Lawrence Ave IL 60640",41.968644,-87.673049,1,rooftop,1743,"W Lawrence Ave",,,Chicago,IL,"Cook County",60640,US,"City of Chicago"
+"4547 N Broadway St IL 60640",41.965048,-87.65687,1,rooftop,4547,"N Broadway St",,,Chicago,IL,"Cook County",60640,US,Cook
+"4245 N Milwaukee Ave IL 60641",41.958264,-87.752012,1,rooftop,4245,"N Milwaukee Ave",,,Chicago,IL,"Cook County",60641,US,"City of Chicago"
+"5000 W Irving Park Rd IL 60641",41.953671,-87.75254,1,rooftop,5000,"W Irving Park Rd",,,Chicago,IL,"Cook County",60641,US,"City of Chicago"
+"9800 South Western Avenue IL 60643",41.715161,-87.682296,0.8,rooftop,9800,"S Western Ave",,,"Evergreen Park",IL,"Cook County",60805,US,Cook
+"10401 S Western Ave IL 60643",41.704417,-87.681066,1,rooftop,10401,"S Western Ave",,,Chicago,IL,"Cook County",60643,US,Cook
+"4800 W Lake St IL 60644",41.886881,-87.745297,1,rooftop,4800,"W Lake St",,,Chicago,IL,"Cook County",60644,US,"City of Chicago"
+"782 N Laramie Ave IL 60644",41.894616,-87.755735,1,range_interpolation,782,"N Laramie Ave",,,Chicago,IL,"Cook County",60644,US,"TIGER/Line® dataset from the US Census Bureau"
+"7578 N Western Ave IL 60645",42.019255,-87.690482,1,rooftop,7578,"N Western Ave",,,Chicago,IL,"Cook County",60645,US,Cook
+"6342 N Milwaukee Ave IL 60646",41.996308,-87.787254,1,rooftop,6342,"N Milwaukee Ave",,,Chicago,IL,"Cook County",60646,US,"City of Chicago"
+"1909 N Western Ave IL 60647",41.91671,-87.687235,1,range_interpolation,1909,"N Western Ave",,,Chicago,IL,"Cook County",60647,US,"TIGER/Line® dataset from the US Census Bureau"
+"3427 W Diversey Ave IL 60647",41.931707,-87.713441,1,rooftop,3427,"W Diversey Ave",,,Chicago,IL,"Cook County",60647,US,"City of Chicago"
+"3309 W North Ave IL 60647",41.90972,-87.709987,1,rooftop,3309,"W North Ave",,,Chicago,IL,"Cook County",60647,US,Cook
+"1746 N Western Ave IL 60647",41.91356,-87.687692,1,rooftop,1746,"N Western Ave",,,Chicago,IL,"Cook County",60647,US,"City of Chicago"
+"1345 N Pulaski Rd IL 60651",41.905637,-87.725835,1,rooftop,1345,"N Pulaski Rd",,,Chicago,IL,"Cook County",60651,US,"City of Chicago"
+"800 N Kedzie Ave IL 60651",41.896524,-87.707225,1,rooftop,800,"N Kedzie Ave",,,Chicago,IL,"Cook County",60651,US,"City of Chicago"
+"4747 West 79th Street IL 60652",41.749026,-87.740298,1,range_interpolation,4747,"W 79th St",,,Chicago,IL,"Cook County",60652,US,"TIGER/Line® dataset from the US Census Bureau"
+"7905 S Cicero Ave IL 60652",41.749086,-87.741203,1,range_interpolation,7905,"S Cicero Ave",,,Chicago,IL,"Cook County",60652,US,"TIGER/Line® dataset from the US Census Bureau"
+"3977 W Columbus Ave IL 60652",41.735724,-87.720841,1,rooftop,3977,"W Columbus Ave",,,Chicago,IL,"Cook County",60652,US,"City of Chicago"
+"7601 S Cicero Ave Ste 76 IL 60652",41.755323,-87.740572,1,rooftop,7601,"S Cicero Ave",Ste,76,Chicago,IL,"Cook County",60652,US,Cook
+"4667 W 79th St IL 60652",41.749048,-87.738327,1,range_interpolation,4667,"W 79th St",,,Chicago,IL,"Cook County",60652,US,"TIGER/Line® dataset from the US Census Bureau"
+"3214 W 87th St IL 60652",41.735183,-87.711715,1,range_interpolation,3214,"W 87th St",,,Chicago,IL,"Cook County",60652,US,"TIGER/Line® dataset from the US Census Bureau"
+"222 W Merchandise Mart Plaza IL 60654",41.888083,-87.636185,1,range_interpolation,222,"W Merchandise Mart Plz",,,Chicago,IL,"Cook County",60654,US,"TIGER/Line® dataset from the US Census Bureau"
+"309 West Chicago Avenue IL 60654",41.89626,-87.63615,1,rooftop,309,"W Chicago Ave",,,Chicago,IL,"Cook County",60654,US,"City of Chicago"
+"222 Merchandise Mart Plz IL 60654",41.888083,-87.636185,0.9,range_interpolation,222,"W Merchandise Mart Plz",,,Chicago,IL,"Cook County",60654,US,"TIGER/Line® dataset from the US Census Bureau"
+"222 Merchandise Mart Plz Ste 203 IL 60654",41.888083,-87.636185,0.9,range_interpolation,222,"W Merchandise Mart Plz",Ste,203,Chicago,IL,"Cook County",60654,US,"TIGER/Line® dataset from the US Census Bureau"
+"3206 West 111th Street IL 60655",41.691841,-87.701301,1,rooftop,3206,"W 111th St",,,Chicago,IL,"Cook County",60655,US,Cook
+"5550 N Harlem Ave IL 60656",41.982436,-87.807708,1,rooftop,5550,"N Harlem Ave",,,Chicago,IL,"Cook County",60656,US,"City of Chicago"
+"3200 N Clark St IL 60657",41.94031,-87.651428,1,rooftop,3200,"N Clark St",,,Chicago,IL,"Cook County",60657,US,"City of Chicago"
+"3000 N Ashland Ave IL 60657",41.936365,-87.668877,1,rooftop,3000,"N Ashland Ave",,,Chicago,IL,"Cook County",60657,US,"City of Chicago"
+"3132 W Devon Ave IL 60659",41.997675,-87.708534,1,rooftop,3132,"W Devon Ave",,,Chicago,IL,"Cook County",60659,US,"City of Chicago"
+"6254 N Western Ave IL 60659",41.99573,-87.690212,1,rooftop,6254,"N Western Ave",,,Chicago,IL,"Cook County",60659,US,"City of Chicago"
+"5723 N California Ave IL 60659",41.985697,-87.698898,1,rooftop,5723,"N California Ave",,,Chicago,IL,"Cook County",60659,US,"City of Chicago"
+"6250 N Clark St IL 60660",41.995826,-87.670598,1,rooftop,6250,"N Clark St",,,Chicago,IL,"Cook County",60660,US,"City of Chicago"
+"6326 N Broadway St IL 60660",41.996849,-87.660631,1,range_interpolation,6326,"N Broadway St",,,Chicago,IL,"Cook County",60660,US,"TIGER/Line® dataset from the US Census Bureau"
+"1954 W Peterson Ave IL 60660",41.991024,-87.679259,1,rooftop,1954,"W Peterson Ave",,,Chicago,IL,"Cook County",60660,US,Cook
+"1127 W Bryn Mawr Ave IL 60660",41.98333,-87.659087,1,rooftop,1127,"W Bryn Mawr Ave",,,Chicago,IL,"Cook County",60660,US,Cook
+"555 W Lake St IL 60661",41.885494,-87.64197,1,rooftop,555,"W Lake St",,,Chicago,IL,"Cook County",60661,US,"City of Chicago"
+"117 S Clinton St IL 60661",41.879996,-87.640857,1,rooftop,117,"S Clinton St",,,Chicago,IL,"Cook County",60661,US,Cook
+"500 W Madison St IL 60661",41.88239,-87.640472,1,rooftop,500,"W Madison St",,,Chicago,IL,"Cook County",60661,US,Cook
+"547 W Jackson Blvd IL 60661",41.877723,-87.641777,1,rooftop,547,"W Jackson Blvd",,,Chicago,IL,"Cook County",60661,US,"City of Chicago"
+"5600 Mannheim Rd IL 60666",41.916448,-87.883964,0.5,street_center,,"Mannheim Rd",,,"Melrose Park",IL,"Cook County",60164,US,"TIGER/Line® dataset from the US Census Bureau"
+"10000 Bessie Coleman Dr IL 60666",41.850033,-87.650052,0.16,place,,,,,"Amf Ohare",IL,"Cook County",60666,US,"TIGER/Line® dataset from the US Census Bureau"
+"[100-119] W North Ave IL 60707",41.909066,-87.802699,0.6,street_center,,"W North Ave",,,"Elmwood Park",IL,"Cook County",60707,US,"TIGER/Line® dataset from the US Census Bureau"
+"S Cicero Ave IL 60804",41.817942,-87.743665,1,street_center,,"S Cicero Ave",,,Cicero,IL,"Cook County",60804,US,"TIGER/Line® dataset from the US Census Bureau"
+"2703 E Sauk Trl IL 60411",41.492045,-87.554861,1,range_interpolation,2703,"E Sauk Trl",,,"Sauk Village",IL,"Cook County",60411,US,"TIGER/Line® dataset from the US Census Bureau"
+"431 W 14th St IL 60411",41.50663,-87.661877,1,rooftop,431,"W 14th St",,,"Chicago Heights",IL,"Cook County",60411,US,Cook
+"1620 E Lincoln Hwy IL 60411",41.505734,-87.583822,1,rooftop,1620,"E Lincoln Hwy",,,"Ford Heights",IL,"Cook County",60411,US,Cook
+"2703 E Sauk Trl IL 60411",41.492045,-87.554861,1,range_interpolation,2703,"E Sauk Trl",,,"Sauk Village",IL,"Cook County",60411,US,"TIGER/Line® dataset from the US Census Bureau"
+"431 W 14th St IL 60411",41.50663,-87.661877,1,rooftop,431,"W 14th St",,,"Chicago Heights",IL,"Cook County",60411,US,Cook
+"1620 E Lincoln Hwy IL 60411",41.505734,-87.583822,1,rooftop,1620,"E Lincoln Hwy",,,"Ford Heights",IL,"Cook County",60411,US,Cook
+"5737 West Roosevelt Road IL 60804",41.865394,-87.768037,1,range_interpolation,5737,"W Roosevelt Rd",,,Cicero,IL,"Cook County",60804,US,"TIGER/Line® dataset from the US Census Bureau"
+"3146 S Cicero Ave IL 60804",41.835112,-87.74444,0.69,nearest_rooftop_match,3150,"Cicero Ave",,,Cicero,IL,"Cook County",60804,US,Cook
+"5600 W 16th St IL 60804",41.858204,-87.764105,1,range_interpolation,5600,"W 16th St",,,Cicero,IL,"Cook County",60804,US,"TIGER/Line® dataset from the US Census Bureau"
+"2147 S Cicero Ave IL 60804",41.852098,-87.74399,0.66,nearest_rooftop_match,2127,"Cicero Ave",,,Cicero,IL,"Cook County",60804,US,Cook
+"5737 West Roosevelt Road IL 60804",41.865394,-87.768037,1,range_interpolation,5737,"W Roosevelt Rd",,,Cicero,IL,"Cook County",60804,US,"TIGER/Line® dataset from the US Census Bureau"
+"3146 S Cicero Ave IL 60804",41.835112,-87.74444,0.69,nearest_rooftop_match,3150,"Cicero Ave",,,Cicero,IL,"Cook County",60804,US,Cook
+"5600 W 16th St IL 60804",41.858204,-87.764105,1,range_interpolation,5600,"W 16th St",,,Cicero,IL,"Cook County",60804,US,"TIGER/Line® dataset from the US Census Bureau"
+"2147 S Cicero Ave IL 60804",41.852098,-87.74399,0.66,nearest_rooftop_match,2127,"Cicero Ave",,,Cicero,IL,"Cook County",60804,US,Cook
+"5500 S La Grange Rd IL 60525",41.790039,-87.869105,1,rooftop,5500,"S La Grange Rd",,,Countryside,IL,"Cook County",60525,US,Cook
+"9644 W 58th St IL 60525",41.785415,-87.860667,1,rooftop,9644,"W 58th St",,,Countryside,IL,"Cook County",60525,US,Cook
+"5500 S La Grange Rd IL 60525",41.790039,-87.869105,1,rooftop,5500,"S La Grange Rd",,,Countryside,IL,"Cook County",60525,US,Cook
+"9644 W 58th St IL 60525",41.785415,-87.860667,1,rooftop,9644,"W 58th St",,,Countryside,IL,"Cook County",60525,US,Cook
+"450 North Il Route 31 IL 60012",42.265579,-88.143578,0.7,rooftop,450,"N Main St",,,Wauconda,IL,"Lake County",60084,US,Lake
+"4817 Northwest Highway IL 60014",42.243772,-88.323986,0.22,place,,,,,"Crystal Lake",IL,"McHenry County",60014,US,"TIGER/Line® dataset from the US Census Bureau"
+"450 North Il Route 31 IL 60012",42.265579,-88.143578,0.7,rooftop,450,"N Main St",,,Wauconda,IL,"Lake County",60084,US,Lake
+"4817 Northwest Highway IL 60014",42.243772,-88.323986,0.22,place,,,,,"Crystal Lake",IL,"McHenry County",60014,US,"TIGER/Line® dataset from the US Census Bureau"
+"2120 Miner St IL 60016",42.039541,-87.872121,1,rooftop,2120,"Miner St",,,"Des Plaines",IL,"Cook County",60016,US,Cook
+"850 Elmhurst Rd IL 60016",42.036696,-87.94084,1,range_interpolation,850,"Elmhurst Rd",,,"Des Plaines",IL,"Cook County",60016,US,"TIGER/Line® dataset from the US Census Bureau"
+"782 W Oakton St IL 60018",42.023132,-87.939081,1,rooftop,782,"W Oakton St",,,"Des Plaines",IL,"Cook County",60018,US,Cook
+"9781 W Higgins Rd IL 60018",41.993729,-87.870274,1,rooftop,9781,"W Higgins Rd",,,Rosemont,IL,"Cook County",60018,US,Cook
+"1080 E Oakton St IL 60018",42.02415,-87.896473,1,rooftop,1080,"E Oakton St",,,"Des Plaines",IL,"Cook County",60018,US,Cook
+"1926 S River Rd IL 60018",42.017841,-87.874921,1,rooftop,1926,"S Des Plaines River Rd",,,"Des Plaines",IL,"Cook County",60018,US,Cook
+"2120 Miner St IL 60016",42.039541,-87.872121,1,rooftop,2120,"Miner St",,,"Des Plaines",IL,"Cook County",60016,US,Cook
+"850 Elmhurst Rd IL 60016",42.036696,-87.94084,1,range_interpolation,850,"Elmhurst Rd",,,"Des Plaines",IL,"Cook County",60016,US,"TIGER/Line® dataset from the US Census Bureau"
+"782 W Oakton St IL 60018",42.023132,-87.939081,1,rooftop,782,"W Oakton St",,,"Des Plaines",IL,"Cook County",60018,US,Cook
+"9781 W Higgins Rd IL 60018",41.993729,-87.870274,1,rooftop,9781,"W Higgins Rd",,,Rosemont,IL,"Cook County",60018,US,Cook
+"1080 E Oakton St IL 60018",42.02415,-87.896473,1,rooftop,1080,"E Oakton St",,,"Des Plaines",IL,"Cook County",60018,US,Cook
+"1926 S River Rd IL 60018",42.017841,-87.874921,1,rooftop,1926,"S Des Plaines River Rd",,,"Des Plaines",IL,"Cook County",60018,US,Cook
+"250 W Sibley Blvd IL 60419",41.622796,-87.622458,1,range_interpolation,250,"W Sibley Blvd",,,Dolton,IL,"Cook County",60419,US,"TIGER/Line® dataset from the US Census Bureau"
+"1136 E Sibley Blvd IL 60419",41.622969,-87.589598,1,rooftop,1136,"E Sibley Blvd",,,Dolton,IL,"Cook County",60419,US,Cook
+"250 W Sibley Blvd IL 60419",41.622796,-87.622458,1,range_interpolation,250,"W Sibley Blvd",,,Dolton,IL,"Cook County",60419,US,"TIGER/Line® dataset from the US Census Bureau"
+"1136 E Sibley Blvd IL 60419",41.622969,-87.589598,1,rooftop,1136,"E Sibley Blvd",,,Dolton,IL,"Cook County",60419,US,Cook
+"1931 Ogden Ave IL 60515",41.807501,-88.033209,1,rooftop,1931,"Ogden Ave",,,"Downers Grove",IL,"DuPage County",60515,US,Dupage
+"522 Ogden Ave IL 60515",41.809819,-87.999103,1,rooftop,522,"Ogden Ave",,,"Downers Grove",IL,"DuPage County",60515,US,Dupage
+"6310 Woodward Avenue IL 60516",41.772377,-88.031944,1,range_interpolation,6310,"Woodward Ave",,,"Downers Grove",IL,"DuPage County",60516,US,"TIGER/Line® dataset from the US Census Bureau"
+"1200 75th St IL 60516",41.75105,-88.025233,1,range_interpolation,1200,"75th St",,,"Downers Grove",IL,"DuPage County",60516,US,"TIGER/Line® dataset from the US Census Bureau"
+"1931 Ogden Ave IL 60515",41.807501,-88.033209,1,rooftop,1931,"Ogden Ave",,,"Downers Grove",IL,"DuPage County",60515,US,Dupage
+"522 Ogden Ave IL 60515",41.809819,-87.999103,1,rooftop,522,"Ogden Ave",,,"Downers Grove",IL,"DuPage County",60515,US,Dupage
+"6310 Woodward Avenue IL 60516",41.772377,-88.031944,1,range_interpolation,6310,"Woodward Ave",,,"Downers Grove",IL,"DuPage County",60516,US,"TIGER/Line® dataset from the US Census Bureau"
+"1200 75th St IL 60516",41.75105,-88.025233,1,range_interpolation,1200,"75th St",,,"Downers Grove",IL,"DuPage County",60516,US,"TIGER/Line® dataset from the US Census Bureau"
+"780 North Main Street IL 60119",41.900898,-88.472904,1,rooftop,780,"N Main St",,,Elburn,IL,"Kane County",60119,US,Kane
+"780 North Main Street IL 60119",41.900898,-88.472904,1,rooftop,780,"N Main St",,,Elburn,IL,"Kane County",60119,US,Kane
+"780 North Main Street IL 60119",41.900898,-88.472904,1,rooftop,780,"N Main St",,,Elburn,IL,"Kane County",60119,US,Kane
+"780 North Main Street IL 60119",41.900898,-88.472904,1,rooftop,780,"N Main St",,,Elburn,IL,"Kane County",60119,US,Kane
+"1137 Dundee Avenue IL 60120",42.058089,-88.266465,1,rooftop,1137,"Dundee Ave",,,Elgin,IL,"Kane County",60120,US,Kane
+"95 Clock Tower Plz IL 60120",42.029725,-88.278008,1,rooftop,95,"Clock Tower Plz",,,Elgin,IL,"Kane County",60120,US,Kane
+"505 Dundee Ave IL 60120",42.046491,-88.275299,1,rooftop,505,"Dundee Ave",,,Elgin,IL,"Kane County",60120,US,Kane
+"812 E Chicago St IL 60120",42.035766,-88.259531,1,rooftop,812,"E Chicago St",,,Elgin,IL,"Cook County",60120,US,Cook
+"1730 N State St IL 60123",42.066601,-88.291698,1,range_interpolation,1730,"N State St",,,Elgin,IL,"Kane County",60123,US,"TIGER/Line® dataset from the US Census Bureau"
+"80 Tyler Creek Plz IL 60123",42.059644,-88.315032,1,rooftop,80,"Tyler Creek Plz",,,Elgin,IL,"Kane County",60123,US,Kane
+"1500 Larkin Ave IL 60123",42.034909,-88.314624,1,rooftop,1500,"Larkin Ave",,,Elgin,IL,"Kane County",60123,US,Kane
+"263 S Randall Rd IL 60123",42.026419,-88.338105,1,rooftop,263,"S Randall Rd",,,Elgin,IL,"Kane County",60123,US,Kane
+"318 S Mclean Blvd IL 60123",42.025084,-88.312352,0.89,nearest_rooftop_match,314,"S McLean Blvd",,,Elgin,IL,"Kane County",60123,US,Kane
+"1137 Dundee Avenue IL 60120",42.058089,-88.266465,1,rooftop,1137,"Dundee Ave",,,Elgin,IL,"Kane County",60120,US,Kane
+"95 Clock Tower Plz IL 60120",42.029725,-88.278008,1,rooftop,95,"Clock Tower Plz",,,Elgin,IL,"Kane County",60120,US,Kane
+"505 Dundee Ave IL 60120",42.046491,-88.275299,1,rooftop,505,"Dundee Ave",,,Elgin,IL,"Kane County",60120,US,Kane
+"812 E Chicago St IL 60120",42.035766,-88.259531,1,rooftop,812,"E Chicago St",,,Elgin,IL,"Cook County",60120,US,Cook
+"1730 N State St IL 60123",42.066601,-88.291698,1,range_interpolation,1730,"N State St",,,Elgin,IL,"Kane County",60123,US,"TIGER/Line® dataset from the US Census Bureau"
+"80 Tyler Creek Plz IL 60123",42.059644,-88.315032,1,rooftop,80,"Tyler Creek Plz",,,Elgin,IL,"Kane County",60123,US,Kane
+"1500 Larkin Ave IL 60123",42.034909,-88.314624,1,rooftop,1500,"Larkin Ave",,,Elgin,IL,"Kane County",60123,US,Kane
+"263 S Randall Rd IL 60123",42.026419,-88.338105,1,rooftop,263,"S Randall Rd",,,Elgin,IL,"Kane County",60123,US,Kane
+"318 S Mclean Blvd IL 60123",42.025084,-88.312352,0.89,nearest_rooftop_match,314,"S McLean Blvd",,,Elgin,IL,"Kane County",60123,US,Kane
+"700 E Higgins Rd IL 60007",42.041854,-88.061776,1,rooftop,700,"E Higgins Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,"City of Schaumburg"
+"674 Meacham Road IL 60007",42.005769,-88.046272,1,rooftop,674,"Meacham Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"801 Meacham Rd IL 60007",42.001975,-88.043366,1,rooftop,801,"Meacham Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"850 Elmhurst Rd IL 60007",42.013537,-87.941111,1,rooftop,850,"Elmhurst Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"1103 Nerge Rd IL 60007",41.993587,-88.027477,1,rooftop,1103,"Nerge Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"50 Biesterfield Rd IL 60007",42.003853,-88.005499,1,rooftop,50,"Biesterfield Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"700 E Higgins Rd IL 60007",42.041854,-88.061776,1,rooftop,700,"E Higgins Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,"City of Schaumburg"
+"674 Meacham Road IL 60007",42.005769,-88.046272,1,rooftop,674,"Meacham Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"801 Meacham Rd IL 60007",42.001975,-88.043366,1,rooftop,801,"Meacham Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"850 Elmhurst Rd IL 60007",42.013537,-87.941111,1,rooftop,850,"Elmhurst Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"1103 Nerge Rd IL 60007",41.993587,-88.027477,1,rooftop,1103,"Nerge Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"50 Biesterfield Rd IL 60007",42.003853,-88.005499,1,rooftop,50,"Biesterfield Rd",,,"Elk Grove Village",IL,"Cook County",60007,US,Cook
+"506 W North Ave IL 60126",41.9057,-87.959289,1,range_interpolation,506,"W North Ave",,,Elmhurst,IL,"DuPage County",60126,US,"TIGER/Line® dataset from the US Census Bureau"
+"936 S York St IL 60126",41.870493,-87.934606,1,range_interpolation,936,"S York St",,,Elmhurst,IL,"DuPage County",60126,US,"TIGER/Line® dataset from the US Census Bureau"
+"506 W North Ave IL 60126",41.9057,-87.959289,1,range_interpolation,506,"W North Ave",,,Elmhurst,IL,"DuPage County",60126,US,"TIGER/Line® dataset from the US Census Bureau"
+"936 S York St IL 60126",41.870493,-87.934606,1,range_interpolation,936,"S York St",,,Elmhurst,IL,"DuPage County",60126,US,"TIGER/Line® dataset from the US Census Bureau"
+"1612 Benson Ave IL 60201",42.047835,-87.683686,1,rooftop,1612,"Benson Ave",,,Evanston,IL,"Cook County",60201,US,"City of Evanston"
+"2658 Green Bay Rd IL 60201",42.066018,-87.700487,1,rooftop,2658,"Green Bay Rd",,,Evanston,IL,"Cook County",60201,US,"City of Evanston"
+"1728 Sherman Ave IL 60201",42.049512,-87.682057,1,rooftop,1728,"Sherman Ave",,,Evanston,IL,"Cook County",60201,US,"City of Evanston"
+"2494 Oakton Street IL 60202",42.025824,-87.708301,1,rooftop,2494,"Oakton St",,,Evanston,IL,"Cook County",60202,US,"City of Evanston"
+"1900 Dempster St IL 60202",42.040628,-87.699621,1,rooftop,1900,"Dempster St",,,Evanston,IL,"Cook County",60202,US,"City of Evanston"
+"101 Asbury Ave IL 60202",42.020084,-87.689927,1,rooftop,101,"Asbury Ave",,,Evanston,IL,"Cook County",60202,US,"City of Evanston"
+"1612 Benson Ave IL 60201",42.047835,-87.683686,1,rooftop,1612,"Benson Ave",,,Evanston,IL,"Cook County",60201,US,"City of Evanston"
+"2658 Green Bay Rd IL 60201",42.066018,-87.700487,1,rooftop,2658,"Green Bay Rd",,,Evanston,IL,"Cook County",60201,US,"City of Evanston"
+"1728 Sherman Ave IL 60201",42.049512,-87.682057,1,rooftop,1728,"Sherman Ave",,,Evanston,IL,"Cook County",60201,US,"City of Evanston"
+"2494 Oakton Street IL 60202",42.025824,-87.708301,1,rooftop,2494,"Oakton St",,,Evanston,IL,"Cook County",60202,US,"City of Evanston"
+"1900 Dempster St IL 60202",42.040628,-87.699621,1,rooftop,1900,"Dempster St",,,Evanston,IL,"Cook County",60202,US,"City of Evanston"
+"101 Asbury Ave IL 60202",42.020084,-87.689927,1,rooftop,101,"Asbury Ave",,,Evanston,IL,"Cook County",60202,US,"City of Evanston"
+"2755 W 87th St IL 60805",41.735004,-87.691888,1,rooftop,2755,"W 87th St",,,"Evergreen Park",IL,"Cook County",60805,US,Cook
+"9800 S Western Ave IL 60805",41.715161,-87.682296,1,rooftop,9800,"S Western Ave",,,"Evergreen Park",IL,"Cook County",60805,US,Cook
+"3332 W 95th St IL 60805",41.721052,-87.705667,1,rooftop,3332,"W 95th St",,,"Evergreen Park",IL,"Cook County",60805,US,Cook
+"2755 W 87th St IL 60805",41.735004,-87.691888,1,rooftop,2755,"W 87th St",,,"Evergreen Park",IL,"Cook County",60805,US,Cook
+"9800 S Western Ave IL 60805",41.715161,-87.682296,1,rooftop,9800,"S Western Ave",,,"Evergreen Park",IL,"Cook County",60805,US,Cook
+"3332 W 95th St IL 60805",41.721052,-87.705667,1,rooftop,3332,"W 95th St",,,"Evergreen Park",IL,"Cook County",60805,US,Cook
+"6008 N Illinois St IL 62208",38.587736,-89.984046,1,rooftop,6008,"N Illinois St",,,"Fairview Heights",IL,"St. Clair County",62208,US,"St Clair"
+"2057 Lincoln Highway IL 62208",38.592855,-89.976559,0.6,street_center,,"Lincoln Hwy",,,"Fairview Heights",IL,"St. Clair County",62208,US,"TIGER/Line® dataset from the US Census Bureau"
+"2057 Lincoln Highway IL 62208",38.592855,-89.976559,0.6,street_center,,"Lincoln Hwy",,,"Fairview Heights",IL,"St. Clair County",62208,US,"TIGER/Line® dataset from the US Census Bureau"
+"6008 N Illinois St IL 62208",38.587736,-89.984046,1,rooftop,6008,"N Illinois St",,,"Fairview Heights",IL,"St. Clair County",62208,US,"St Clair"
+"2057 Lincoln Highway IL 62208",38.592855,-89.976559,0.6,street_center,,"Lincoln Hwy",,,"Fairview Heights",IL,"St. Clair County",62208,US,"TIGER/Line® dataset from the US Census Bureau"
+"2057 Lincoln Highway IL 62208",38.592855,-89.976559,0.6,street_center,,"Lincoln Hwy",,,"Fairview Heights",IL,"St. Clair County",62208,US,"TIGER/Line® dataset from the US Census Bureau"
+"530 Crescent Boulevard IL 60137",41.876636,-88.066129,1,rooftop,530,"Crescent Blvd",,,"Glen Ellyn",IL,"DuPage County",60137,US,Dupage
+"22w251 North Ave IL 60137",41.902979,-88.058904,1,rooftop,22W251,"North Ave",,,"Glen Ellyn",IL,"DuPage County",60137,US,Dupage
+"651 Roosevelt Rd IL 60137",41.859101,-88.060232,1,rooftop,651,"Roosevelt Rd",,,"Glen Ellyn",IL,"DuPage County",60137,US,Dupage
+"530 Crescent Boulevard IL 60137",41.876636,-88.066129,1,rooftop,530,"Crescent Blvd",,,"Glen Ellyn",IL,"DuPage County",60137,US,Dupage
+"22w251 North Ave IL 60137",41.902979,-88.058904,1,rooftop,22W251,"North Ave",,,"Glen Ellyn",IL,"DuPage County",60137,US,Dupage
+"651 Roosevelt Rd IL 60137",41.859101,-88.060232,1,rooftop,651,"Roosevelt Rd",,,"Glen Ellyn",IL,"DuPage County",60137,US,Dupage
+"980 Harlem Avenue IL 60025",42.072667,-87.806569,1,rooftop,980,"Harlem Ave",,,Glenview,IL,"Cook County",60025,US,Cook
+"1410 Waukegan Road IL 60025",42.080588,-87.799277,1,rooftop,1410,"Waukegan Rd",,,Glenview,IL,"Cook County",60025,US,Cook
+"9721 Milwaukee Avenue IL 60025",42.058443,-87.841255,1,rooftop,9721,"Milwaukee Ave",,,Glenview,IL,"Cook County",60025,US,Cook
+"1750 Milwaukee Ave IL 60025",42.086464,-87.870475,1,rooftop,1750,"Milwaukee Ave",,,Glenview,IL,"Cook County",60025,US,Cook
+"1208 Waukegan Rd IL 60025",42.076438,-87.799181,1,rooftop,1208,"Waukegan Rd",,,Glenview,IL,"Cook County",60025,US,Cook
+"980 Harlem Avenue IL 60025",42.072667,-87.806569,1,rooftop,980,"Harlem Ave",,,Glenview,IL,"Cook County",60025,US,Cook
+"1410 Waukegan Road IL 60025",42.080588,-87.799277,1,rooftop,1410,"Waukegan Rd",,,Glenview,IL,"Cook County",60025,US,Cook
+"9721 Milwaukee Avenue IL 60025",42.058443,-87.841255,1,rooftop,9721,"Milwaukee Ave",,,Glenview,IL,"Cook County",60025,US,Cook
+"1750 Milwaukee Ave IL 60025",42.086464,-87.870475,1,rooftop,1750,"Milwaukee Ave",,,Glenview,IL,"Cook County",60025,US,Cook
+"1208 Waukegan Rd IL 60025",42.076438,-87.799181,1,rooftop,1208,"Waukegan Rd",,,Glenview,IL,"Cook County",60025,US,Cook
+"7450 Barrington Rd IL 60133",42.006842,-88.145268,1,rooftop,7450,"Barrington Rd",,,"Hanover Park",IL,"Cook County",60133,US,Cook
+"1511 Irving Park Rd IL 60133",42.004397,-88.141278,0.9,rooftop,1511,"W Irving Park Rd",,,Schaumburg,IL,"Cook County",60133,US,Cook
+"7450 Barrington Rd IL 60133",42.006842,-88.145268,1,rooftop,7450,"Barrington Rd",,,"Hanover Park",IL,"Cook County",60133,US,Cook
+"1511 Irving Park Rd IL 60133",42.004397,-88.141278,0.9,rooftop,1511,"W Irving Park Rd",,,Schaumburg,IL,"Cook County",60133,US,Cook
+"7847 W 95th St IL 60457",41.718225,-87.815026,1,rooftop,7847,"W 95th St",,,"Hickory Hills",IL,"Cook County",60457,US,Cook
+"8601 W 95th St IL 60457",41.718034,-87.833123,1,rooftop,8601,"W 95th St",,,"Hickory Hills",IL,"Cook County",60457,US,Cook
+"7847 W 95th St IL 60457",41.718225,-87.815026,1,rooftop,7847,"W 95th St",,,"Hickory Hills",IL,"Cook County",60457,US,Cook
+"8601 W 95th St IL 60457",41.718034,-87.833123,1,rooftop,8601,"W 95th St",,,"Hickory Hills",IL,"Cook County",60457,US,Cook
+"1996 2nd Street IL 60035",42.188525,-87.803312,1,rooftop,1996,"2nd St",,,"Highland Park",IL,"Lake County",60035,US,Lake
+"1990 Skokie Valley Rd IL 60035",42.188584,-87.825936,1,rooftop,1990,"Skokie Valley Rd",,,"Highland Park",IL,"Lake County",60035,US,Lake
+"1996 2nd Street IL 60035",42.188525,-87.803312,1,rooftop,1996,"2nd St",,,"Highland Park",IL,"Lake County",60035,US,Lake
+"1990 Skokie Valley Rd IL 60035",42.188584,-87.825936,1,rooftop,1990,"Skokie Valley Rd",,,"Highland Park",IL,"Lake County",60035,US,Lake
+"2089 Barrington Road IL 60169",42.060094,-88.14451,1,range_interpolation,2089,"Barrington Rd",,,"Hoffman Estates",IL,"Cook County",60169,US,"TIGER/Line® dataset from the US Census Bureau"
+"1165 Barrington Rd IL 60194",42.044279,-88.144514,1,range_interpolation,1165,"Barrington Rd",,,Schaumburg,IL,"Cook County",60194,US,"TIGER/Line® dataset from the US Census Bureau"
+"2089 Barrington Road IL 60169",42.060094,-88.14451,1,range_interpolation,2089,"Barrington Rd",,,"Hoffman Estates",IL,"Cook County",60169,US,"TIGER/Line® dataset from the US Census Bureau"
+"1165 Barrington Rd IL 60194",42.044279,-88.144514,1,range_interpolation,1165,"Barrington Rd",,,Schaumburg,IL,"Cook County",60194,US,"TIGER/Line® dataset from the US Census Bureau"
+"15060 S Bell Rd IL 60491",41.615072,-87.931473,1,rooftop,15060,"S Bell Rd",,,"Homer Glen",IL,"Will County",60491,US,Will
+"14135 S Bell Rd IL 60491",41.631313,-87.930558,1,rooftop,14135,"S Bell Rd",,,"Homer Glen",IL,"Will County",60491,US,Will
+"15060 S Bell Rd IL 60491",41.615072,-87.931473,1,rooftop,15060,"S Bell Rd",,,"Homer Glen",IL,"Will County",60491,US,Will
+"14135 S Bell Rd IL 60491",41.631313,-87.930558,1,rooftop,14135,"S Bell Rd",,,"Homer Glen",IL,"Will County",60491,US,Will
+"17579 Halsted St IL 60430",41.569816,-87.635745,1,rooftop,17579,"Halsted St",,,Homewood,IL,"Cook County",60430,US,Cook
+"2353 183rd St IL 60430",41.557065,-87.672926,1,range_interpolation,2353,"183rd St",,,Homewood,IL,"Cook County",60430,US,"TIGER/Line® dataset from the US Census Bureau"
+"17579 Halsted St IL 60430",41.569816,-87.635745,1,rooftop,17579,"Halsted St",,,Homewood,IL,"Cook County",60430,US,Cook
+"2353 183rd St IL 60430",41.557065,-87.672926,1,range_interpolation,2353,"183rd St",,,Homewood,IL,"Cook County",60430,US,"TIGER/Line® dataset from the US Census Bureau"
+"9800 Illinois 47 IL 60142",42.225613,-88.422327,1,range_interpolation,9800,"State Rte 47",,,Huntley,IL,"McHenry County",60142,US,"TIGER/Line® dataset from the US Census Bureau"
+"12090 Princeton Dr IL 60142",42.152684,-88.433727,1,rooftop,12090,"Princeton Dr",,,Huntley,IL,"Kane County",60142,US,Mchenry
+"9800 Illinois 47 IL 60142",42.225613,-88.422327,1,range_interpolation,9800,"State Rte 47",,,Huntley,IL,"McHenry County",60142,US,"TIGER/Line® dataset from the US Census Bureau"
+"12090 Princeton Dr IL 60142",42.152684,-88.433727,1,rooftop,12090,"Princeton Dr",,,Huntley,IL,"Kane County",60142,US,Mchenry
+"1350 Houbolt Rd IL 60431",41.497128,-88.167855,1,rooftop,1350,"Houbolt Rd",,,Joliet,IL,"Will County",60431,US,Will
+"334 Collins St IL 60432",41.53131,-88.072041,1,rooftop,334,"Collins St",,,Joliet,IL,"Will County",60432,US,Will
+"2959 W Jefferson St IL 60435",41.522589,-88.155108,1,rooftop,2959,"W Jefferson St",,,Joliet,IL,"Will County",60435,US,Will
+"3011 Plainfield Rd IL 60435",41.579654,-88.16094,1,rooftop,3011,"Plainfield Rd",,,Joliet,IL,"Will County",60435,US,Will
+"20 S Larkin Ave IL 60436",41.521597,-88.124266,1,rooftop,20,"S Larkin Ave",,,Joliet,IL,"Will County",60436,US,Will
+"1350 Houbolt Rd IL 60431",41.497128,-88.167855,1,rooftop,1350,"Houbolt Rd",,,Joliet,IL,"Will County",60431,US,Will
+"334 Collins St IL 60432",41.53131,-88.072041,1,rooftop,334,"Collins St",,,Joliet,IL,"Will County",60432,US,Will
+"2959 W Jefferson St IL 60435",41.522589,-88.155108,1,rooftop,2959,"W Jefferson St",,,Joliet,IL,"Will County",60435,US,Will
+"3011 Plainfield Rd IL 60435",41.579654,-88.16094,1,rooftop,3011,"Plainfield Rd",,,Joliet,IL,"Will County",60435,US,Will
+"20 S Larkin Ave IL 60436",41.521597,-88.124266,1,rooftop,20,"S Larkin Ave",,,Joliet,IL,"Will County",60436,US,Will
+"W 79th St IL 60458",41.747302,-87.829351,0.6,street_center,,"79th St",,,Justice,IL,"Cook County",60458,US,"TIGER/Line® dataset from the US Census Bureau"
+"8031 W 79th St IL 60458",41.747465,-87.819791,1,range_interpolation,8031,"W 79th St",,,Justice,IL,"Cook County",60458,US,"TIGER/Line® dataset from the US Census Bureau"
+"W 79th St IL 60458",41.747302,-87.829351,0.6,street_center,,"79th St",,,Justice,IL,"Cook County",60458,US,"TIGER/Line® dataset from the US Census Bureau"
+"8031 W 79th St IL 60458",41.747465,-87.819791,1,range_interpolation,8031,"W 79th St",,,Justice,IL,"Cook County",60458,US,"TIGER/Line® dataset from the US Census Bureau"
+"8147 Joliet Rd IL 60525",41.802835,-87.824833,1,rooftop,8147,"Joliet Rd",,,"Mc Cook",IL,"Cook County",60525,US,Cook
+"S La Grange Rd IL 60525",41.791385,-87.868874,1,street_center,,"S La Grange Rd",,,"La Grange",IL,"Cook County",60525,US,"TIGER/Line® dataset from the US Census Bureau"
+"8147 Joliet Rd IL 60525",41.802835,-87.824833,1,rooftop,8147,"Joliet Rd",,,"Mc Cook",IL,"Cook County",60525,US,Cook
+"S La Grange Rd IL 60525",41.791385,-87.868874,1,street_center,,"S La Grange Rd",,,"La Grange",IL,"Cook County",60525,US,"TIGER/Line® dataset from the US Census Bureau"
+"12371 Derby Rd IL 60439",41.664128,-87.963482,1,rooftop,12371,"Derby Rd",,,Lemont,IL,"Cook County",60439,US,Cook
+"1106 State St IL 60439",41.66057,-88.001274,1,rooftop,1106,"State St",,,Lemont,IL,"Cook County",60439,US,Cook
+"12371 Derby Rd IL 60439",41.664128,-87.963482,1,rooftop,12371,"Derby Rd",,,Lemont,IL,"Cook County",60439,US,Cook
+"1106 State St IL 60439",41.66057,-88.001274,1,rooftop,1106,"State St",,,Lemont,IL,"Cook County",60439,US,Cook
+"121 North Milwaukee Avenue IL 60048",42.28368,-87.953761,1,rooftop,121,"N Milwaukee Ave",,,Libertyville,IL,"Lake County",60048,US,Lake
+"210 Peterson Rd IL 60048",42.306651,-87.96498,1,rooftop,210,"Peterson Rd",,,Libertyville,IL,"Lake County",60048,US,Lake
+"1179 W Park Ave IL 60048",42.281058,-87.972708,1,rooftop,1179,"W Park Ave",,,Libertyville,IL,"Lake County",60048,US,Lake
+"121 North Milwaukee Avenue IL 60048",42.28368,-87.953761,1,rooftop,121,"N Milwaukee Ave",,,Libertyville,IL,"Lake County",60048,US,Lake
+"210 Peterson Rd IL 60048",42.306651,-87.96498,1,rooftop,210,"Peterson Rd",,,Libertyville,IL,"Lake County",60048,US,Lake
+"1179 W Park Ave IL 60048",42.281058,-87.972708,1,rooftop,1179,"W Park Ave",,,Libertyville,IL,"Lake County",60048,US,Lake
+"6801 N Cicero Ave IL 60712",42.004828,-87.747543,1,rooftop,6801,"N Cicero Ave",,,Lincolnwood,IL,"Cook County",60712,US,Cook
+"3946 W Devon Ave IL 60712",41.997401,-87.727703,1,range_interpolation,3946,"W Devon Ave",,,Lincolnwood,IL,"Cook County",60712,US,"TIGER/Line® dataset from the US Census Bureau"
+"6599 N Lincoln Ave IL 60712",42.000584,-87.723387,1,rooftop,6599,"N Lincoln Ave",,,Lincolnwood,IL,"Cook County",60712,US,Cook
+"3910 W Touhy Ave IL 60712",42.011964,-87.726736,1,rooftop,3910,"W Touhy Ave",,,Lincolnwood,IL,"Cook County",60712,US,Cook
+"6801 N Cicero Ave IL 60712",42.004828,-87.747543,1,rooftop,6801,"N Cicero Ave",,,Lincolnwood,IL,"Cook County",60712,US,Cook
+"3946 W Devon Ave IL 60712",41.997401,-87.727703,1,range_interpolation,3946,"W Devon Ave",,,Lincolnwood,IL,"Cook County",60712,US,"TIGER/Line® dataset from the US Census Bureau"
+"6599 N Lincoln Ave IL 60712",42.000584,-87.723387,1,rooftop,6599,"N Lincoln Ave",,,Lincolnwood,IL,"Cook County",60712,US,Cook
+"3910 W Touhy Ave IL 60712",42.011964,-87.726736,1,rooftop,3910,"W Touhy Ave",,,Lincolnwood,IL,"Cook County",60712,US,Cook
+"819 Ogden Ave IL 60532",41.801622,-88.067998,1,rooftop,819,"Ogden Ave",,,Lisle,IL,"DuPage County",60532,US,Dupage
+"4300 Lincoln Avenue IL 60532",41.807261,-88.077119,1,rooftop,4300,"Lincoln Ave",,,Lisle,IL,"DuPage County",60532,US,Dupage
+"1109 Maple Ave IL 60532",41.786827,-88.072458,1,range_interpolation,1109,"Maple Ave",,,Lisle,IL,"DuPage County",60532,US,"TIGER/Line® dataset from the US Census Bureau"
+"819 Ogden Ave IL 60532",41.801622,-88.067998,1,rooftop,819,"Ogden Ave",,,Lisle,IL,"DuPage County",60532,US,Dupage
+"4300 Lincoln Avenue IL 60532",41.807261,-88.077119,1,rooftop,4300,"Lincoln Ave",,,Lisle,IL,"DuPage County",60532,US,Dupage
+"1109 Maple Ave IL 60532",41.786827,-88.072458,1,range_interpolation,1109,"Maple Ave",,,Lisle,IL,"DuPage County",60532,US,"TIGER/Line® dataset from the US Census Bureau"
+"84 Yorktown Shopping Center IL 60148",41.869829,-88.003864,0.22,place,,,,,Lombard,IL,"DuPage County",60148,US,"TIGER/Line® dataset from the US Census Bureau"
+"1 E Saint Charles Rd IL 60148",41.887064,-88.017957,1,rooftop,1,"E St Charles Rd",,,Lombard,IL,"DuPage County",60148,US,Dupage
+"1160 S Main St IL 60148",41.860901,-88.017873,1,rooftop,1160,"S Main St",,,Lombard,IL,"DuPage County",60148,US,Dupage
+"84 Yorktown Shopping Center IL 60148",41.869829,-88.003864,0.22,place,,,,,Lombard,IL,"DuPage County",60148,US,"TIGER/Line® dataset from the US Census Bureau"
+"1 E Saint Charles Rd IL 60148",41.887064,-88.017957,1,rooftop,1,"E St Charles Rd",,,Lombard,IL,"DuPage County",60148,US,Dupage
+"1160 S Main St IL 60148",41.860901,-88.017873,1,rooftop,1160,"S Main St",,,Lombard,IL,"DuPage County",60148,US,Dupage
+"4632 Lincoln Highway IL 60443",41.506316,-87.728362,1,range_interpolation,4632,"Lincoln Hwy",,,Matteson,IL,"Cook County",60443,US,"TIGER/Line® dataset from the US Census Bureau"
+"200 Lincoln Mall Dr IL 60443",41.504786,-87.725795,1,range_interpolation,200,"Lincoln Mall Dr",,,Matteson,IL,"Cook County",60443,US,"TIGER/Line® dataset from the US Census Bureau"
+"4632 Lincoln Highway IL 60443",41.506316,-87.728362,1,range_interpolation,4632,"Lincoln Hwy",,,Matteson,IL,"Cook County",60443,US,"TIGER/Line® dataset from the US Census Bureau"
+"200 Lincoln Mall Dr IL 60443",41.504786,-87.725795,1,range_interpolation,200,"Lincoln Mall Dr",,,Matteson,IL,"Cook County",60443,US,"TIGER/Line® dataset from the US Census Bureau"
+"4502 W Elm St IL 60050",42.347881,-88.285599,1,rooftop,4502,"W Elm St",,,McHenry,IL,"McHenry County",60050,US,Mchenry
+"3523 Diamond Drive IL 60051",42.355462,-88.228663,0.22,place,,,,,McHenry,IL,"McHenry County",60051,US,"TIGER/Line® dataset from the US Census Bureau"
+"4502 W Elm St IL 60050",42.347881,-88.285599,1,rooftop,4502,"W Elm St",,,McHenry,IL,"McHenry County",60050,US,Mchenry
+"3523 Diamond Drive IL 60051",42.355462,-88.228663,0.22,place,,,,,McHenry,IL,"McHenry County",60051,US,"TIGER/Line® dataset from the US Census Bureau"
+"8490 W North Ave IL 60160",41.90907,-87.839275,1,rooftop,8490,"W North Ave",,,"Melrose Park",IL,"Cook County",60160,US,Cook
+"2033 N Mannheim Rd IL 60160",41.911862,-87.883777,1,range_interpolation,2033,"N Mannheim Rd",,,"Melrose Park",IL,"Cook County",60160,US,"TIGER/Line® dataset from the US Census Bureau"
+"1901 N Mannheim Rd IL 60160",41.907718,-87.883928,0.9,range_interpolation,1901,"N Mannheim Rd",,,"Melrose Park",IL,"Cook County",60160,US,"TIGER/Line® dataset from the US Census Bureau"
+"912 Winston Dr IL 60160",41.902583,-87.846568,1,rooftop,912,"Winston Dr",,,"Melrose Park",IL,"Cook County",60160,US,Cook
+"148 W North Ave IL 60164",41.907354,-87.911409,1,rooftop,148,"W North Ave",,,Northlake,IL,"Cook County",60164,US,Cook
+"148 W North Ave IL 60164",41.907354,-87.911409,1,rooftop,148,"W North Ave",,,Northlake,IL,"Cook County",60164,US,Cook
+"8490 W North Ave IL 60160",41.90907,-87.839275,1,rooftop,8490,"W North Ave",,,"Melrose Park",IL,"Cook County",60160,US,Cook
+"2033 N Mannheim Rd IL 60160",41.911862,-87.883777,1,range_interpolation,2033,"N Mannheim Rd",,,"Melrose Park",IL,"Cook County",60160,US,"TIGER/Line® dataset from the US Census Bureau"
+"1901 N Mannheim Rd IL 60160",41.907718,-87.883928,0.9,range_interpolation,1901,"N Mannheim Rd",,,"Melrose Park",IL,"Cook County",60160,US,"TIGER/Line® dataset from the US Census Bureau"
+"912 Winston Dr IL 60160",41.902583,-87.846568,1,rooftop,912,"Winston Dr",,,"Melrose Park",IL,"Cook County",60160,US,Cook
+"148 W North Ave IL 60164",41.907354,-87.911409,1,rooftop,148,"W North Ave",,,Northlake,IL,"Cook County",60164,US,Cook
+"148 W North Ave IL 60164",41.907354,-87.911409,1,rooftop,148,"W North Ave",,,Northlake,IL,"Cook County",60164,US,Cook
+"5443 127th St IL 60445",41.661065,-87.754393,0.9,rooftop,5443,"W 127th St",,,Midlothian,IL,"Cook County",60445,US,Cook
+"5443 127th St IL 60445",41.661065,-87.754393,0.9,rooftop,5443,"W 127th St",,,Midlothian,IL,"Cook County",60445,US,Cook
+"14631 Pulaski Rd IL 60445",41.626822,-87.717618,1,range_interpolation,14631,"Pulaski Rd",,,Midlothian,IL,"Cook County",60445,US,"TIGER/Line® dataset from the US Census Bureau"
+"5443 127th St IL 60445",41.661065,-87.754393,0.9,rooftop,5443,"W 127th St",,,Midlothian,IL,"Cook County",60445,US,Cook
+"5443 127th St IL 60445",41.661065,-87.754393,0.9,rooftop,5443,"W 127th St",,,Midlothian,IL,"Cook County",60445,US,Cook
+"14631 Pulaski Rd IL 60445",41.626822,-87.717618,1,range_interpolation,14631,"Pulaski Rd",,,Midlothian,IL,"Cook County",60445,US,"TIGER/Line® dataset from the US Census Bureau"
+"8801 West 191st Street IL 60448",41.543091,-87.839078,0.87,range_interpolation,8801,"W 191st",,,Mokena,IL,"Will County",60448,US,"TIGER/Line® dataset from the US Census Bureau"
+"18700 S Wolf Rd IL 60448",41.549195,-87.890801,1,rooftop,18700,"S Wolf Rd",,,Mokena,IL,"Will County",60448,US,Will
+"9000 W 192nd St IL 60448",41.541678,-87.836231,1,rooftop,9000,"W 192nd St",,,Mokena,IL,"Will County",60448,US,Will
+"11212 W Lincoln Hwy IL 60448",41.504465,-87.891073,1,rooftop,11212,"W Lincoln Hwy",,,Mokena,IL,"Will County",60448,US,Will
+"8801 West 191st Street IL 60448",41.543091,-87.839078,0.87,range_interpolation,8801,"W 191st",,,Mokena,IL,"Will County",60448,US,"TIGER/Line® dataset from the US Census Bureau"
+"18700 S Wolf Rd IL 60448",41.549195,-87.890801,1,rooftop,18700,"S Wolf Rd",,,Mokena,IL,"Will County",60448,US,Will
+"9000 W 192nd St IL 60448",41.541678,-87.836231,1,rooftop,9000,"W 192nd St",,,Mokena,IL,"Will County",60448,US,Will
+"11212 W Lincoln Hwy IL 60448",41.504465,-87.891073,1,rooftop,11212,"W Lincoln Hwy",,,Mokena,IL,"Will County",60448,US,Will
+"197 U.S. 6 IL 60450",41.387256,-88.41778,1,range_interpolation,197,"US Hwy 6",,,Morris,IL,"Grundy County",60450,US,"TIGER/Line® dataset from the US Census Bureau"
+"1359 Division St IL 60450",41.37058,-88.422151,1,range_interpolation,1359,"Division St",,,Morris,IL,"Grundy County",60450,US,"TIGER/Line® dataset from the US Census Bureau"
+"209-101 U.S. 6 IL 60450",41.37334,-88.422078,0.87,range_interpolation,209,"W US Hwy 6",,,Morris,IL,"Grundy County",60450,US,"TIGER/Line® dataset from the US Census Bureau"
+"197 U.S. 6 IL 60450",41.387256,-88.41778,1,range_interpolation,197,"US Hwy 6",,,Morris,IL,"Grundy County",60450,US,"TIGER/Line® dataset from the US Census Bureau"
+"1359 Division St IL 60450",41.37058,-88.422151,1,range_interpolation,1359,"Division St",,,Morris,IL,"Grundy County",60450,US,"TIGER/Line® dataset from the US Census Bureau"
+"209-101 U.S. 6 IL 60450",41.37334,-88.422078,0.87,range_interpolation,209,"W US Hwy 6",,,Morris,IL,"Grundy County",60450,US,"TIGER/Line® dataset from the US Census Bureau"
+"820 E Rand Rd IL 60056",42.070857,-87.925685,1,rooftop,820,"E Rand Rd",,,"Mount Prospect",IL,"Cook County",60056,US,Cook
+"820 E Rand Rd IL 60056",42.070857,-87.925685,1,rooftop,820,"E Rand Rd",,,"Mount Prospect",IL,"Cook County",60056,US,Cook
+"1301 N Wolf Rd IL 60056",42.107373,-87.907223,0.6,rooftop,1301,"S Wolf Rd",,,"Prospect Heights",IL,"Cook County",60070,US,Cook
+"1001 S Busse Rd IL 60056",42.047756,-87.959718,1,rooftop,1001,"S Busse Rd",,,"Mount Prospect",IL,"Cook County",60056,US,Cook
+"1001 S Busse Rd IL 60056",42.047756,-87.959718,1,rooftop,1001,"S Busse Rd",,,"Mount Prospect",IL,"Cook County",60056,US,Cook
+"820 E Rand Rd IL 60056",42.070857,-87.925685,1,rooftop,820,"E Rand Rd",,,"Mount Prospect",IL,"Cook County",60056,US,Cook
+"820 E Rand Rd IL 60056",42.070857,-87.925685,1,rooftop,820,"E Rand Rd",,,"Mount Prospect",IL,"Cook County",60056,US,Cook
+"1301 N Wolf Rd IL 60056",42.107373,-87.907223,0.6,rooftop,1301,"S Wolf Rd",,,"Prospect Heights",IL,"Cook County",60070,US,Cook
+"1001 S Busse Rd IL 60056",42.047756,-87.959718,1,rooftop,1001,"S Busse Rd",,,"Mount Prospect",IL,"Cook County",60056,US,Cook
+"1001 S Busse Rd IL 60056",42.047756,-87.959718,1,rooftop,1001,"S Busse Rd",,,"Mount Prospect",IL,"Cook County",60056,US,Cook
+"722 Illinois 83 IL 60060",42.253112,-88.020123,0.6,rooftop,722,"S IL Route 60",,,Mundelein,IL,"Lake County",60060,US,Lake
+"346 N Lake St IL 60060",42.269415,-88.004301,1,rooftop,346,"N Lake St",,,Mundelein,IL,"Lake County",60060,US,Lake
+"722 Illinois 83 IL 60060",42.253112,-88.020123,0.6,rooftop,722,"S IL Route 60",,,Mundelein,IL,"Lake County",60060,US,Lake
+"346 N Lake St IL 60060",42.269415,-88.004301,1,rooftop,346,"N Lake St",,,Mundelein,IL,"Lake County",60060,US,Lake
+"1580 W Ogden Ave IL 60540",41.76696,-88.184268,1,rooftop,1580,"W Ogden Ave",,,Naperville,IL,"DuPage County",60540,US,Ingham
+"702 South Washington Street IL 60540",41.765477,-88.148481,1,rooftop,702,"S Washington St",,,Naperville,IL,"DuPage County",60540,US,Ingham
+"606 S State Route 59 IL 60540",41.761924,-88.205901,1,range_interpolation,606,"State Rte 59",,,Naperville,IL,"DuPage County",60540,US,"TIGER/Line® dataset from the US Census Bureau"
+"1201 S Naper Blvd IL 60540",41.752393,-88.115818,1,rooftop,1201,"S Naper Blvd",,,Naperville,IL,"DuPage County",60540,US,Waco
+"1991 Brookdale Rd IL 60563",41.792742,-88.204784,1,rooftop,1991,"Brookdale Rd",,,Naperville,IL,"DuPage County",60563,US,Ingham
+"1780 North Aurora Road IL 60563",41.780607,-88.204772,1,rooftop,1780,"N Aurora Rd",,,Naperville,IL,"DuPage County",60563,US,Ingham
+"811 E Ogden Ave IL 60563",41.787699,-88.134897,1,rooftop,811,"E Ogden Ave",,,Naperville,IL,"DuPage County",60563,US,Ingham
+"4003 Plainfield Naperville Rd IL 60564",41.696175,-88.16745,1,rooftop,4003,"Naperville-Plainfield Rd",,,Naperville,IL,"Will County",60564,US,Will
+"3108 State Route 59 IL 60564",41.708964,-88.204093,1,rooftop,3108,"State Rte 59",,,Naperville,IL,"Will County",60564,US,"City of Naperville"
+"2035 S Washington St IL 60565",41.730714,-88.130458,1,rooftop,2035,"S Washington St",,,Naperville,IL,"DuPage County",60565,US,Ingham
+"1580 W Ogden Ave IL 60540",41.76696,-88.184268,1,rooftop,1580,"W Ogden Ave",,,Naperville,IL,"DuPage County",60540,US,Ingham
+"702 South Washington Street IL 60540",41.765477,-88.148481,1,rooftop,702,"S Washington St",,,Naperville,IL,"DuPage County",60540,US,Ingham
+"606 S State Route 59 IL 60540",41.761924,-88.205901,1,range_interpolation,606,"State Rte 59",,,Naperville,IL,"DuPage County",60540,US,"TIGER/Line® dataset from the US Census Bureau"
+"1201 S Naper Blvd IL 60540",41.752393,-88.115818,1,rooftop,1201,"S Naper Blvd",,,Naperville,IL,"DuPage County",60540,US,Waco
+"1991 Brookdale Rd IL 60563",41.792742,-88.204784,1,rooftop,1991,"Brookdale Rd",,,Naperville,IL,"DuPage County",60563,US,Ingham
+"1780 North Aurora Road IL 60563",41.780607,-88.204772,1,rooftop,1780,"N Aurora Rd",,,Naperville,IL,"DuPage County",60563,US,Ingham
+"811 E Ogden Ave IL 60563",41.787699,-88.134897,1,rooftop,811,"E Ogden Ave",,,Naperville,IL,"DuPage County",60563,US,Ingham
+"4003 Plainfield Naperville Rd IL 60564",41.696175,-88.16745,1,rooftop,4003,"Naperville-Plainfield Rd",,,Naperville,IL,"Will County",60564,US,Will
+"3108 State Route 59 IL 60564",41.708964,-88.204093,1,rooftop,3108,"State Rte 59",,,Naperville,IL,"Will County",60564,US,"City of Naperville"
+"2035 S Washington St IL 60565",41.730714,-88.130458,1,rooftop,2035,"S Washington St",,,Naperville,IL,"DuPage County",60565,US,Ingham
+"7525 N Harlem Ave IL 60714",42.017961,-87.806316,1,rooftop,7525,"N Harlem Ave",,,Niles,IL,"Cook County",60714,US,Cook
+"7235 N Caldwell Ave IL 60714",42.013095,-87.789444,1,range_interpolation,7235,"N Caldwell Ave",,,Niles,IL,"Cook County",60714,US,"TIGER/Line® dataset from the US Census Bureau"
+"9721 N Milwaukee Ave IL 60714",42.056549,-87.840956,0.66,nearest_rooftop_match,9650,"N Milwaukee Ave",,,Niles,IL,"Cook County",60714,US,Cook
+"7039 W Dempster St IL 60714",42.040355,-87.802833,0.8,rooftop,7039,"Dempster St",,,Niles,IL,"Cook County",60714,US,Cook
+"7525 N Harlem Ave IL 60714",42.017961,-87.806316,1,rooftop,7525,"N Harlem Ave",,,Niles,IL,"Cook County",60714,US,Cook
+"7235 N Caldwell Ave IL 60714",42.013095,-87.789444,1,range_interpolation,7235,"N Caldwell Ave",,,Niles,IL,"Cook County",60714,US,"TIGER/Line® dataset from the US Census Bureau"
+"9721 N Milwaukee Ave IL 60714",42.056549,-87.840956,0.66,nearest_rooftop_match,9650,"N Milwaukee Ave",,,Niles,IL,"Cook County",60714,US,Cook
+"7039 W Dempster St IL 60714",42.040355,-87.802833,0.8,rooftop,7039,"Dempster St",,,Niles,IL,"Cook County",60714,US,Cook
+"5050 N Cumberland Ave Ste 8843 IL 60706",41.971178,-87.837402,1,rooftop,5050,"N Cumberland Ave",Ste,8843,Norridge,IL,"Cook County",60706,US,"City of Chicago"
+"7801 W Lawrence Ave IL 60706",41.967057,-87.821899,1,range_interpolation,7801,"W Lawrence Ave",,,Norridge,IL,"Cook County",60706,US,"TIGER/Line® dataset from the US Census Bureau"
+"5050 N Cumberland Ave Ste 8843 IL 60706",41.971178,-87.837402,1,rooftop,5050,"N Cumberland Ave",Ste,8843,Norridge,IL,"Cook County",60706,US,"City of Chicago"
+"7801 W Lawrence Ave IL 60706",41.967057,-87.821899,1,range_interpolation,7801,"W Lawrence Ave",,,Norridge,IL,"Cook County",60706,US,"TIGER/Line® dataset from the US Census Bureau"
+"257 Genesis Way IL 60542",41.800471,-88.375896,0.87,nearest_rooftop_match,241,"Genesis Dr",,,"North Aurora",IL,"Kane County",60542,US,Kane
+"407 S Lincolnway IL 60542",41.790776,-88.321564,1,rooftop,407,"S Lincolnway St",,,"North Aurora",IL,"Kane County",60542,US,Kane
+"257 Genesis Way IL 60542",41.800471,-88.375896,0.87,nearest_rooftop_match,241,"Genesis Dr",,,"North Aurora",IL,"Kane County",60542,US,Kane
+"407 S Lincolnway IL 60542",41.790776,-88.321564,1,rooftop,407,"S Lincolnway St",,,"North Aurora",IL,"Kane County",60542,US,Kane
+"3369 Buckley Rd IL 60064",42.308859,-87.874715,0.8,range_interpolation,3369,"Buckley Rd",,,Libertyville,IL,"Lake County",60048,US,"TIGER/Line® dataset from the US Census Bureau"
+"2829 Martin Luther King Jr Dr IL 60064",42.319108,-87.867432,1,rooftop,2829,"Martin Luther King Jr Dr",,,"North Chicago",IL,"Lake County",60064,US,Lake
+"3369 Buckley Rd IL 60064",42.308859,-87.874715,0.8,range_interpolation,3369,"Buckley Rd",,,Libertyville,IL,"Lake County",60048,US,"TIGER/Line® dataset from the US Census Bureau"
+"2829 Martin Luther King Jr Dr IL 60064",42.319108,-87.867432,1,rooftop,2829,"Martin Luther King Jr Dr",,,"North Chicago",IL,"Lake County",60064,US,Lake
+"1945 Willow Rd IL 60062",42.105243,-87.828389,1,rooftop,1945,"Willow Rd",,,Northbrook,IL,"Cook County",60062,US,Cook
+"2847 Dundee Rd IL 60062",42.13788,-87.849945,1,rooftop,2847,"Dundee Rd",,,Northbrook,IL,"Cook County",60062,US,Cook
+"1945 Willow Rd IL 60062",42.105243,-87.828389,1,rooftop,1945,"Willow Rd",,,Northbrook,IL,"Cook County",60062,US,Cook
+"2847 Dundee Rd IL 60062",42.13788,-87.849945,1,rooftop,2847,"Dundee Rd",,,Northbrook,IL,"Cook County",60062,US,Cook
+"4152 W 167th St IL 60452",41.586556,-87.717223,1,rooftop,4152,"W 167th St",,,"Oak Forest",IL,"Cook County",60452,US,Cook
+"5160 159th St IL 60452",41.602953,-87.745288,1,range_interpolation,5160,"159th St",,,"Oak Forest",IL,"Cook County",60452,US,"TIGER/Line® dataset from the US Census Bureau"
+"4152 W 167th St IL 60452",41.586556,-87.717223,1,rooftop,4152,"W 167th St",,,"Oak Forest",IL,"Cook County",60452,US,Cook
+"5160 159th St IL 60452",41.602953,-87.745288,1,range_interpolation,5160,"159th St",,,"Oak Forest",IL,"Cook County",60452,US,"TIGER/Line® dataset from the US Census Bureau"
+"5116 museum Drive IL 60453",41.719634,-87.748013,0.9,rooftop,5116,"W Museum Dr",,,"Oak Lawn",IL,"Cook County",60453,US,Cook
+"6408 W 95th St IL 60453",41.719742,-87.780124,1,range_interpolation,6408,"W 95th St",,,"Oak Lawn",IL,"Cook County",60453,US,"TIGER/Line® dataset from the US Census Bureau"
+"10301 Central Avenue IL 60453",41.705402,-87.759793,1,range_interpolation,10301,"Central Ave",,,"Oak Lawn",IL,"Cook County",60453,US,"TIGER/Line® dataset from the US Census Bureau"
+"9304 S Cicero Ave IL 60453",41.723376,-87.741447,1,rooftop,9304,"S Cicero Ave",,,"Oak Lawn",IL,"Cook County",60453,US,Cook
+"5116 museum Drive IL 60453",41.719634,-87.748013,0.9,rooftop,5116,"W Museum Dr",,,"Oak Lawn",IL,"Cook County",60453,US,Cook
+"6408 W 95th St IL 60453",41.719742,-87.780124,1,range_interpolation,6408,"W 95th St",,,"Oak Lawn",IL,"Cook County",60453,US,"TIGER/Line® dataset from the US Census Bureau"
+"10301 Central Avenue IL 60453",41.705402,-87.759793,1,range_interpolation,10301,"Central Ave",,,"Oak Lawn",IL,"Cook County",60453,US,"TIGER/Line® dataset from the US Census Bureau"
+"9304 S Cicero Ave IL 60453",41.723376,-87.741447,1,rooftop,9304,"S Cicero Ave",,,"Oak Lawn",IL,"Cook County",60453,US,Cook
+"7117 West North Avenue IL 60302",41.908504,-87.805056,1,rooftop,7117,"W North Ave",,,"Oak Park",IL,"Cook County",60302,US,Cook
+"6820 Roosevelt Rd IL 60304",41.865287,-87.794612,1,range_interpolation,6820,"Roosevelt Rd",,,"Oak Park",IL,"Cook County",60304,US,"TIGER/Line® dataset from the US Census Bureau"
+"7117 West North Avenue IL 60302",41.908504,-87.805056,1,rooftop,7117,"W North Ave",,,"Oak Park",IL,"Cook County",60302,US,Cook
+"6820 Roosevelt Rd IL 60304",41.865287,-87.794612,1,range_interpolation,6820,"Roosevelt Rd",,,"Oak Park",IL,"Cook County",60304,US,"TIGER/Line® dataset from the US Census Bureau"
+"17521 East Roosevelt Road IL 60181",41.875379,-87.97643,0.33,place,,,,,"Villa Park",IL,"DuPage County",60181,US,"TIGER/Line® dataset from the US Census Bureau"
+"17w422 22nd St IL 60181",41.845994,-87.982583,0.69,range_interpolation,17,"W 22nd St",,,"Villa Park",IL,"DuPage County",60181,US,"TIGER/Line® dataset from the US Census Bureau"
+"17521 East Roosevelt Road IL 60181",41.875379,-87.97643,0.33,place,,,,,"Villa Park",IL,"DuPage County",60181,US,"TIGER/Line® dataset from the US Census Bureau"
+"17w422 22nd St IL 60181",41.845994,-87.982583,0.69,range_interpolation,17,"W 22nd St",,,"Villa Park",IL,"DuPage County",60181,US,"TIGER/Line® dataset from the US Census Bureau"
+"3252 Vollmer Rd IL 60461",41.527332,-87.695854,1,rooftop,3252,"Vollmer Rd",,,"Olympia Fields",IL,"Cook County",60461,US,Cook
+"2520 Lincoln Hwy IL 60461",41.505759,-87.678622,1,rooftop,2520,"Lincoln Hwy",,,"Olympia Fields",IL,"Cook County",60461,US,Cook
+"3252 Vollmer Rd IL 60461",41.527332,-87.695854,1,rooftop,3252,"Vollmer Rd",,,"Olympia Fields",IL,"Cook County",60461,US,Cook
+"2520 Lincoln Hwy IL 60461",41.505759,-87.678622,1,rooftop,2520,"Lincoln Hwy",,,"Olympia Fields",IL,"Cook County",60461,US,Cook
+"14461 S La Grange Rd IL 60462",41.625307,-87.83293,0.22,place,,,,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"15609 S Harlem Ave IL 60462",41.607159,-87.794152,1,range_interpolation,15609,"S Harlem Ave",,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"8940 W 159th St IL 60462",41.602157,-87.837936,0.68,nearest_rooftop_match,8950,"159th St",,,"Orland Park",IL,"Cook County",60462,US,Cook
+"11309 West 143rd Street IL 60467",41.629529,-87.897226,1,range_interpolation,11309,"W 143rd St",,,"Orland Park",IL,"Cook County",60467,US,"TIGER/Line® dataset from the US Census Bureau"
+"11289 W 143rd St IL 60467",41.629529,-87.897215,1,range_interpolation,11289,"W 143rd St",,,"Orland Park",IL,"Cook County",60467,US,"TIGER/Line® dataset from the US Census Bureau"
+"14461 S La Grange Rd IL 60462",41.625307,-87.83293,0.22,place,,,,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"15609 S Harlem Ave IL 60462",41.607159,-87.794152,1,range_interpolation,15609,"S Harlem Ave",,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"8940 W 159th St IL 60462",41.602157,-87.837936,0.68,nearest_rooftop_match,8950,"159th St",,,"Orland Park",IL,"Cook County",60462,US,Cook
+"11309 West 143rd Street IL 60467",41.629529,-87.897226,1,range_interpolation,11309,"W 143rd St",,,"Orland Park",IL,"Cook County",60467,US,"TIGER/Line® dataset from the US Census Bureau"
+"11289 W 143rd St IL 60467",41.629529,-87.897215,1,range_interpolation,11289,"W 143rd St",,,"Orland Park",IL,"Cook County",60467,US,"TIGER/Line® dataset from the US Census Bureau"
+"2420 U.S. 34 IL 60543",41.704088,-88.306552,1,rooftop,2420,"State Rte 34",,,Oswego,IL,"Kendall County",60543,US,Kendall
+"4032 Us-34 IL 60543",41.687662,-88.338477,1,rooftop,4032,"State Rte 34",,,Oswego,IL,"Kendall County",60543,US,Kendall
+"2420 U.S. 34 IL 60543",41.704088,-88.306552,1,rooftop,2420,"State Rte 34",,,Oswego,IL,"Kendall County",60543,US,Kendall
+"4032 Us-34 IL 60543",41.687662,-88.338477,1,rooftop,4032,"State Rte 34",,,Oswego,IL,"Kendall County",60543,US,Kendall
+"231 West Northwest Highway IL 60067",42.101977,-88.055804,0.22,place,,,,,Palatine,IL,"Cook County",60067,US,"TIGER/Line® dataset from the US Census Bureau"
+"801 E Dundee Rd IL 60074",42.138743,-88.023748,1,rooftop,801,"E Dundee Rd",,,Palatine,IL,"Cook County",60074,US,Cook
+"231 West Northwest Highway IL 60067",42.101977,-88.055804,0.22,place,,,,,Palatine,IL,"Cook County",60067,US,"TIGER/Line® dataset from the US Census Bureau"
+"801 E Dundee Rd IL 60074",42.138743,-88.023748,1,rooftop,801,"E Dundee Rd",,,Palatine,IL,"Cook County",60074,US,Cook
+"13029 South La Grange Road IL 60464",41.653352,-87.853142,1,rooftop,13029,"S La Grange Rd",,,"Palos Park",IL,"Cook County",60464,US,Cook
+"11901 S 80th Ave IL 60464",41.674515,-87.815659,1,rooftop,11901,"S 80th Ave",,,"Palos Park",IL,"Cook County",60464,US,Cook
+"13029 South La Grange Road IL 60464",41.653352,-87.853142,1,rooftop,13029,"S La Grange Rd",,,"Palos Park",IL,"Cook County",60464,US,Cook
+"11901 S 80th Ave IL 60464",41.674515,-87.815659,1,rooftop,11901,"S 80th Ave",,,"Palos Park",IL,"Cook County",60464,US,Cook
+"1129 Touhy Avenue IL 60068",42.010602,-87.840464,0.9,rooftop,1129,"W Touhy Ave",,,"Park Ridge",IL,"Cook County",60068,US,Cook
+"2606 West Dempster Street IL 60068",42.04,-87.859473,0.8,rooftop,2606,"Dempster St",,,"Park Ridge",IL,"Cook County",60068,US,Cook
+"1129 Touhy Avenue IL 60068",42.010602,-87.840464,0.9,rooftop,1129,"W Touhy Ave",,,"Park Ridge",IL,"Cook County",60068,US,Cook
+"2606 West Dempster Street IL 60068",42.04,-87.859473,0.8,rooftop,2606,"Dempster St",,,"Park Ridge",IL,"Cook County",60068,US,Cook
+"1600 N Knoxville Ave IL 61603",40.706548,-89.59358,1,rooftop,1600,"N Knoxville Ave",,,Peoria,IL,"Peoria County",61603,US,Peoria
+"613 N Western Ave IL 61604",40.695267,-89.623329,1,rooftop,613,"N Western Ave",,,Peoria,IL,"Peoria County",61604,US,Peoria
+"3428 N University St IL 61604",40.729885,-89.612398,1,rooftop,3428,"N University St",,,Peoria,IL,"Peoria County",61604,US,Peoria
+"5205 N Karen Ct IL 61615",40.751128,-89.638617,1,range_interpolation,5205,"N Karen Ct",,,Peoria,IL,"Peoria County",61615,US,"TIGER/Line® dataset from the US Census Bureau"
+"4525 N Sterling Ave IL 61615",40.743491,-89.632189,1,rooftop,4525,"N Sterling Ave",,,Peoria,IL,"Peoria County",61615,US,Peoria
+"1600 N Knoxville Ave IL 61603",40.706548,-89.59358,1,rooftop,1600,"N Knoxville Ave",,,Peoria,IL,"Peoria County",61603,US,Peoria
+"613 N Western Ave IL 61604",40.695267,-89.623329,1,rooftop,613,"N Western Ave",,,Peoria,IL,"Peoria County",61604,US,Peoria
+"3428 N University St IL 61604",40.729885,-89.612398,1,rooftop,3428,"N University St",,,Peoria,IL,"Peoria County",61604,US,Peoria
+"5205 N Karen Ct IL 61615",40.751128,-89.638617,1,range_interpolation,5205,"N Karen Ct",,,Peoria,IL,"Peoria County",61615,US,"TIGER/Line® dataset from the US Census Bureau"
+"4525 N Sterling Ave IL 61615",40.743491,-89.632189,1,rooftop,4525,"N Sterling Ave",,,Peoria,IL,"Peoria County",61615,US,Peoria
+"13313 S Route 59 IL 60585",41.640964,-88.202412,1,rooftop,13313,"S Rt",,,Plainfield,IL,"Will County",60585,US,Will
+"12690 S Route 59 IL 60585",41.653511,-88.206542,1,rooftop,12690,"S Rt",,,Plainfield,IL,"Will County",60585,US,Will
+"11900 S Route 59 IL 60585",41.66568,-88.204865,1,rooftop,11900,"S Rt",,,Plainfield,IL,"Will County",60585,US,Will
+"13313 S Route 59 IL 60585",41.640964,-88.202412,1,rooftop,13313,"S Rt",,,Plainfield,IL,"Will County",60585,US,Will
+"12690 S Route 59 IL 60585",41.653511,-88.206542,1,rooftop,12690,"S Rt",,,Plainfield,IL,"Will County",60585,US,Will
+"11900 S Route 59 IL 60585",41.66568,-88.204865,1,rooftop,11900,"S Rt",,,Plainfield,IL,"Will County",60585,US,Will
+"9259 W Cermak Rd IL 60546",41.849257,-87.854105,1,range_interpolation,9259,"W Cermak Rd",,,Riverside,IL,"Cook County",60546,US,"TIGER/Line® dataset from the US Census Bureau"
+"8360 W Cermak Rd IL 60546",41.849724,-87.831137,0.9,range_interpolation,8360,"W Cermak Rd",,,Riverside,IL,"Cook County",60546,US,"TIGER/Line® dataset from the US Census Bureau"
+"7501 W Cermak Rd IL 60546",41.85044,-87.808078,1,range_interpolation,7501,"W Cermak Rd",,,Riverside,IL,"Cook County",60546,US,"TIGER/Line® dataset from the US Census Bureau"
+"9259 W Cermak Rd IL 60546",41.849257,-87.854105,1,range_interpolation,9259,"W Cermak Rd",,,Riverside,IL,"Cook County",60546,US,"TIGER/Line® dataset from the US Census Bureau"
+"8360 W Cermak Rd IL 60546",41.849724,-87.831137,0.9,range_interpolation,8360,"W Cermak Rd",,,Riverside,IL,"Cook County",60546,US,"TIGER/Line® dataset from the US Census Bureau"
+"7501 W Cermak Rd IL 60546",41.85044,-87.808078,1,range_interpolation,7501,"W Cermak Rd",,,Riverside,IL,"Cook County",60546,US,"TIGER/Line® dataset from the US Census Bureau"
+"2542 S Alpine Rd IL 61108",42.237263,-89.028906,1,range_interpolation,2542,"S Alpine Rd",,,Rockford,IL,"Winnebago County",61108,US,"TIGER/Line® dataset from the US Census Bureau"
+"7370 East State Street IL 61108",42.270236,-88.972615,1,range_interpolation,7370,"E State St",,,Rockford,IL,"Winnebago County",61108,US,"TIGER/Line® dataset from the US Census Bureau"
+"3511 E State St IL 61108",42.265729,-89.041363,1,rooftop,3511,"E State St",,,Rockford,IL,"Winnebago County",61108,US,Winnebago
+"2542 S Alpine Rd IL 61108",42.237263,-89.028906,1,range_interpolation,2542,"S Alpine Rd",,,Rockford,IL,"Winnebago County",61108,US,"TIGER/Line® dataset from the US Census Bureau"
+"7370 East State Street IL 61108",42.270236,-88.972615,1,range_interpolation,7370,"E State St",,,Rockford,IL,"Winnebago County",61108,US,"TIGER/Line® dataset from the US Census Bureau"
+"3511 E State St IL 61108",42.265729,-89.041363,1,rooftop,3511,"E State St",,,Rockford,IL,"Winnebago County",61108,US,Winnebago
+"W Algonquin Rd IL 60005",42.060608,-88.017323,1,street_center,,"W Algonquin Rd",,,"Arlington Heights",IL,"Cook County",60005,US,"TIGER/Line® dataset from the US Census Bureau"
+"1300 Hicks Road IL 60008",42.096002,-88.033501,1,rooftop,1300,"Hicks Rd",,,"Rolling Meadows",IL,"Cook County",60008,US,Cook
+"3350 Kirchoff Rd IL 60008",42.079232,-88.021717,1,rooftop,3350,"Kirchoff Rd",,,"Rolling Meadows",IL,"Cook County",60008,US,Cook
+"2230 Algonquin Rd IL 60008",42.059057,-88.009578,1,rooftop,2230,"Algonquin Rd",,,"Rolling Meadows",IL,"Cook County",60008,US,Cook
+"1450 Golf Rd IL 60008",42.051793,-87.998758,1,rooftop,1450,"Golf Rd",,,"Rolling Meadows",IL,"Cook County",60008,US,Cook
+"W Algonquin Rd IL 60005",42.060608,-88.017323,1,street_center,,"W Algonquin Rd",,,"Arlington Heights",IL,"Cook County",60005,US,"TIGER/Line® dataset from the US Census Bureau"
+"1300 Hicks Road IL 60008",42.096002,-88.033501,1,rooftop,1300,"Hicks Rd",,,"Rolling Meadows",IL,"Cook County",60008,US,Cook
+"3350 Kirchoff Rd IL 60008",42.079232,-88.021717,1,rooftop,3350,"Kirchoff Rd",,,"Rolling Meadows",IL,"Cook County",60008,US,Cook
+"2230 Algonquin Rd IL 60008",42.059057,-88.009578,1,rooftop,2230,"Algonquin Rd",,,"Rolling Meadows",IL,"Cook County",60008,US,Cook
+"1450 Golf Rd IL 60008",42.051793,-87.998758,1,rooftop,1450,"Golf Rd",,,"Rolling Meadows",IL,"Cook County",60008,US,Cook
+"649 N Independence Blvd IL 60446",41.653079,-88.08012,1,rooftop,649,"N Independence Blvd",,,Romeoville,IL,"Will County",60446,US,Will
+"420 South Weber Road IL 60446",41.607414,-88.126788,1,rooftop,420,"S Weber Rd",,,Romeoville,IL,"Will County",60446,US,Will
+"659 N Independence Blvd IL 60446",41.654247,-88.079832,1,rooftop,659,"N Independence Blvd",,,Romeoville,IL,"Will County",60446,US,Will
+"649 N Independence Blvd IL 60446",41.653079,-88.08012,1,rooftop,649,"N Independence Blvd",,,Romeoville,IL,"Will County",60446,US,Will
+"420 South Weber Road IL 60446",41.607414,-88.126788,1,rooftop,420,"S Weber Rd",,,Romeoville,IL,"Will County",60446,US,Will
+"659 N Independence Blvd IL 60446",41.654247,-88.079832,1,rooftop,659,"N Independence Blvd",,,Romeoville,IL,"Will County",60446,US,Will
+"1550 Lake Street IL 60172",41.972387,-88.118613,0.7,nearest_rooftop_match,1600,"W Lake St",,,Roselle,IL,"DuPage County",60172,US,Dupage
+"641 North Roselle Road IL 60172",41.997025,-88.080018,1,range_interpolation,641,"N Roselle Rd",,,Roselle,IL,"Cook County",60172,US,"TIGER/Line® dataset from the US Census Bureau"
+"253 E Irving Park Rd IL 60172",41.983399,-88.074471,0.84,nearest_rooftop_match,225,"E Irving Park Rd",,,Roselle,IL,"DuPage County",60172,US,Dupage
+"1550 Lake Street IL 60172",41.972387,-88.118613,0.7,nearest_rooftop_match,1600,"W Lake St",,,Roselle,IL,"DuPage County",60172,US,Dupage
+"641 North Roselle Road IL 60172",41.997025,-88.080018,1,range_interpolation,641,"N Roselle Rd",,,Roselle,IL,"Cook County",60172,US,"TIGER/Line® dataset from the US Census Bureau"
+"253 E Irving Park Rd IL 60172",41.983399,-88.074471,0.84,nearest_rooftop_match,225,"E Irving Park Rd",,,Roselle,IL,"DuPage County",60172,US,Dupage
+"9781 W Higgins Rd IL 60018",41.993729,-87.870274,1,rooftop,9781,"W Higgins Rd",,,Rosemont,IL,"Cook County",60018,US,Cook
+"5801 N River Rd IL 60018",41.984164,-87.860275,1,rooftop,5801,"N River Rd",,,Rosemont,IL,"Cook County",60018,US,Cook
+"9781 W Higgins Rd IL 60018",41.993729,-87.870274,1,rooftop,9781,"W Higgins Rd",,,Rosemont,IL,"Cook County",60018,US,Cook
+"5801 N River Rd IL 60018",41.984164,-87.860275,1,rooftop,5801,"N River Rd",,,Rosemont,IL,"Cook County",60018,US,Cook
+"369 East Rollins Road IL 60073",42.378542,-88.07354,1,rooftop,369,"E Rollins Rd",,,"Round Lake Beach",IL,"Lake County",60073,US,Lake
+"2592 North Illinois 83 IL 60073",42.359774,-88.033425,0.9,range_interpolation,2592,"N State Rte 83",,,Grayslake,IL,"Lake County",60030,US,"TIGER/Line® dataset from the US Census Bureau"
+"706 E Rollins Rd IL 60073",42.379586,-88.067136,1,rooftop,706,"E Rollins Rd",,,"Round Lake Beach",IL,"Lake County",60073,US,Lake
+"369 East Rollins Road IL 60073",42.378542,-88.07354,1,rooftop,369,"E Rollins Rd",,,"Round Lake Beach",IL,"Lake County",60073,US,Lake
+"2592 North Illinois 83 IL 60073",42.359774,-88.033425,0.9,range_interpolation,2592,"N State Rte 83",,,Grayslake,IL,"Lake County",60030,US,"TIGER/Line® dataset from the US Census Bureau"
+"706 E Rollins Rd IL 60073",42.379586,-88.067136,1,rooftop,706,"E Rollins Rd",,,"Round Lake Beach",IL,"Lake County",60073,US,Lake
+"1440 North Meacham Road IL 60173",42.05568,-88.045254,1,range_interpolation,1440,"N Meacham Rd",,,Schaumburg,IL,"Cook County",60173,US,"TIGER/Line® dataset from the US Census Bureau"
+"1440 North Meacham Road IL 60173",42.05568,-88.045254,1,range_interpolation,1440,"N Meacham Rd",,,Schaumburg,IL,"Cook County",60173,US,"TIGER/Line® dataset from the US Census Bureau"
+"3 Woodfield Mall IL 60173",42.049961,-88.038369,1,rooftop,3,"Woodfield Mall",,,Schaumburg,IL,"Cook County",60173,US,Cook
+"2716 Sutton Lane IL 60194",42.072823,-88.190605,0.65,rooftop,2716,"N Sutton Rd",,,"Hoffman Estates",IL,"Cook County",60192,US,Cook
+"2716 Sutton Lane IL 60194",42.072823,-88.190605,0.65,rooftop,2716,"N Sutton Rd",,,"Hoffman Estates",IL,"Cook County",60192,US,Cook
+"2716 Sutton Lane IL 60194",42.072823,-88.190605,0.65,rooftop,2716,"N Sutton Rd",,,"Hoffman Estates",IL,"Cook County",60192,US,Cook
+"893 E Schaumburg Rd IL 60194",42.027801,-88.059383,1,rooftop,893,"E Schaumburg Rd",,,Schaumburg,IL,"Cook County",60194,US,"City of Schaumburg"
+"2716 Sutton Lane IL 60194",42.072823,-88.190605,0.65,rooftop,2716,"N Sutton Rd",,,"Hoffman Estates",IL,"Cook County",60192,US,Cook
+"2263 W Schaumburg Rd IL 60194",42.024819,-88.1367,1,rooftop,2263,"W Schaumburg Rd",,,Schaumburg,IL,"Cook County",60194,US,"City of Schaumburg"
+"477 W Golf Rd IL 60195",42.048403,-88.091044,1,rooftop,477,"W Golf Rd",,,Schaumburg,IL,"Cook County",60195,US,"City of Schaumburg"
+"1440 North Meacham Road IL 60173",42.05568,-88.045254,1,range_interpolation,1440,"N Meacham Rd",,,Schaumburg,IL,"Cook County",60173,US,"TIGER/Line® dataset from the US Census Bureau"
+"1440 North Meacham Road IL 60173",42.05568,-88.045254,1,range_interpolation,1440,"N Meacham Rd",,,Schaumburg,IL,"Cook County",60173,US,"TIGER/Line® dataset from the US Census Bureau"
+"3 Woodfield Mall IL 60173",42.049961,-88.038369,1,rooftop,3,"Woodfield Mall",,,Schaumburg,IL,"Cook County",60173,US,Cook
+"2716 Sutton Lane IL 60194",42.072823,-88.190605,0.65,rooftop,2716,"N Sutton Rd",,,"Hoffman Estates",IL,"Cook County",60192,US,Cook
+"2716 Sutton Lane IL 60194",42.072823,-88.190605,0.65,rooftop,2716,"N Sutton Rd",,,"Hoffman Estates",IL,"Cook County",60192,US,Cook
+"2716 Sutton Lane IL 60194",42.072823,-88.190605,0.65,rooftop,2716,"N Sutton Rd",,,"Hoffman Estates",IL,"Cook County",60192,US,Cook
+"893 E Schaumburg Rd IL 60194",42.027801,-88.059383,1,rooftop,893,"E Schaumburg Rd",,,Schaumburg,IL,"Cook County",60194,US,"City of Schaumburg"
+"2716 Sutton Lane IL 60194",42.072823,-88.190605,0.65,rooftop,2716,"N Sutton Rd",,,"Hoffman Estates",IL,"Cook County",60192,US,Cook
+"2263 W Schaumburg Rd IL 60194",42.024819,-88.1367,1,rooftop,2263,"W Schaumburg Rd",,,Schaumburg,IL,"Cook County",60194,US,"City of Schaumburg"
+"477 W Golf Rd IL 60195",42.048403,-88.091044,1,rooftop,477,"W Golf Rd",,,Schaumburg,IL,"Cook County",60195,US,"City of Schaumburg"
+"4740 River Rd IL 60176",41.965736,-87.86171,1,range_interpolation,4740,"River Rd",,,"Schiller Park",IL,"Cook County",60176,US,"TIGER/Line® dataset from the US Census Bureau"
+"4121 Mannheim Road IL 60176",41.95302,-87.885526,1,range_interpolation,4121,"Mannheim Rd",,,"Schiller Park",IL,"Cook County",60176,US,"TIGER/Line® dataset from the US Census Bureau"
+"9280 Irving Park Rd IL 60176",41.95422,-87.859394,1,rooftop,9280,"Irving Park Rd",,,"Schiller Park",IL,"Cook County",60176,US,Cook
+"4740 River Rd IL 60176",41.965736,-87.86171,1,range_interpolation,4740,"River Rd",,,"Schiller Park",IL,"Cook County",60176,US,"TIGER/Line® dataset from the US Census Bureau"
+"4121 Mannheim Road IL 60176",41.95302,-87.885526,1,range_interpolation,4121,"Mannheim Rd",,,"Schiller Park",IL,"Cook County",60176,US,"TIGER/Line® dataset from the US Census Bureau"
+"9280 Irving Park Rd IL 60176",41.95422,-87.859394,1,rooftop,9280,"Irving Park Rd",,,"Schiller Park",IL,"Cook County",60176,US,Cook
+"1401 Illinois 59 IL 60431",41.529011,-88.198799,0.6,street_center,,"State Rte 59",,,Joliet,IL,"Will County",60431,US,"TIGER/Line® dataset from the US Census Bureau"
+"955 Brook Forest Ave IL 60431",41.53869,-88.199472,1,range_interpolation,955,"Brook Forest Ave",,,Joliet,IL,"Will County",60431,US,"TIGER/Line® dataset from the US Census Bureau"
+"1401 Illinois 59 IL 60431",41.529011,-88.198799,0.6,street_center,,"State Rte 59",,,Joliet,IL,"Will County",60431,US,"TIGER/Line® dataset from the US Census Bureau"
+"955 Brook Forest Ave IL 60431",41.53869,-88.199472,1,range_interpolation,955,"Brook Forest Ave",,,Joliet,IL,"Will County",60431,US,"TIGER/Line® dataset from the US Census Bureau"
+"3900 Dempster St IL 60076",42.041046,-87.725611,1,rooftop,3900,"Dempster St",,,Skokie,IL,"Cook County",60076,US,Cook
+"4445 Golf Road IL 60076",42.0551,-87.7375,1,range_interpolation,4445,"Golf Rd",,,Skokie,IL,"Cook County",60076,US,"TIGER/Line® dataset from the US Census Bureau"
+"8408 Skokie Boulevard IL 60077",42.034488,-87.747418,1,range_interpolation,8408,"Skokie Blvd",,,Skokie,IL,"Cook County",60077,US,"TIGER/Line® dataset from the US Census Bureau"
+"5005 West Dempster Street IL 60077",42.040649,-87.751932,1,range_interpolation,5005,"Dempster St",,,Skokie,IL,"Cook County",60077,US,"TIGER/Line® dataset from the US Census Bureau"
+"8800 Gross Point Road IL 60077",42.041329,-87.756763,1,rooftop,8800,"Gross Point Rd",,,Skokie,IL,"Cook County",60077,US,Cook
+"5150 Touhy Ave IL 60077",42.012241,-87.757456,1,rooftop,5150,"Touhy Ave",,,Skokie,IL,"Cook County",60077,US,Cook
+"3900 Dempster St IL 60076",42.041046,-87.725611,1,rooftop,3900,"Dempster St",,,Skokie,IL,"Cook County",60076,US,Cook
+"4445 Golf Road IL 60076",42.0551,-87.7375,1,range_interpolation,4445,"Golf Rd",,,Skokie,IL,"Cook County",60076,US,"TIGER/Line® dataset from the US Census Bureau"
+"8408 Skokie Boulevard IL 60077",42.034488,-87.747418,1,range_interpolation,8408,"Skokie Blvd",,,Skokie,IL,"Cook County",60077,US,"TIGER/Line® dataset from the US Census Bureau"
+"5005 West Dempster Street IL 60077",42.040649,-87.751932,1,range_interpolation,5005,"Dempster St",,,Skokie,IL,"Cook County",60077,US,"TIGER/Line® dataset from the US Census Bureau"
+"8800 Gross Point Road IL 60077",42.041329,-87.756763,1,rooftop,8800,"Gross Point Rd",,,Skokie,IL,"Cook County",60077,US,Cook
+"5150 Touhy Ave IL 60077",42.012241,-87.757456,1,rooftop,5150,"Touhy Ave",,,Skokie,IL,"Cook County",60077,US,Cook
+"102 Chatham Road IL 62704",39.801365,-89.686919,1,range_interpolation,102,"Chatham Rd",,,Springfield,IL,"Sangamon County",62704,US,"TIGER/Line® dataset from the US Census Bureau"
+"800 East Carpenter Street IL 62769",39.807123,-89.644934,0.9,range_interpolation,800,"E Carpenter St",,,Springfield,IL,"Sangamon County",62702,US,"TIGER/Line® dataset from the US Census Bureau"
+"102 Chatham Road IL 62704",39.801365,-89.686919,1,range_interpolation,102,"Chatham Rd",,,Springfield,IL,"Sangamon County",62704,US,"TIGER/Line® dataset from the US Census Bureau"
+"800 East Carpenter Street IL 62769",39.807123,-89.644934,0.9,range_interpolation,800,"E Carpenter St",,,Springfield,IL,"Sangamon County",62702,US,"TIGER/Line® dataset from the US Census Bureau"
+"6034 S Archer Rd IL 60501",41.781569,-87.812583,1,range_interpolation,6034,"S Archer Rd",,,"Summit Argo",IL,"Cook County",60501,US,"TIGER/Line® dataset from the US Census Bureau"
+"6144 S Harlem Ave IL 60501",41.779684,-87.801321,1,rooftop,6144,"S Harlem Ave",,,"Summit Argo",IL,"Cook County",60501,US,Cook
+"6144 S Harlem Ave IL 60501",41.779684,-87.801321,1,rooftop,6144,"S Harlem Ave",,,"Summit Argo",IL,"Cook County",60501,US,Cook
+"6034 S Archer Rd IL 60501",41.781569,-87.812583,1,range_interpolation,6034,"S Archer Rd",,,"Summit Argo",IL,"Cook County",60501,US,"TIGER/Line® dataset from the US Census Bureau"
+"6144 S Harlem Ave IL 60501",41.779684,-87.801321,1,rooftop,6144,"S Harlem Ave",,,"Summit Argo",IL,"Cook County",60501,US,Cook
+"6144 S Harlem Ave IL 60501",41.779684,-87.801321,1,rooftop,6144,"S Harlem Ave",,,"Summit Argo",IL,"Cook County",60501,US,Cook
+"7935 171st Street IL 60477",41.579279,-87.812142,1,rooftop,7935,"171st St",,,"Tinley Park",IL,"Cook County",60477,US,Cook
+"9510 179th St IL 60477",41.565738,-87.849859,1,rooftop,9510,"179th St",,,"Tinley Park",IL,"Cook County",60477,US,Cook
+"7935 171st Street IL 60477",41.579279,-87.812142,1,rooftop,7935,"171st St",,,"Tinley Park",IL,"Cook County",60477,US,Cook
+"9510 179th St IL 60477",41.565738,-87.849859,1,rooftop,9510,"179th St",,,"Tinley Park",IL,"Cook County",60477,US,Cook
+"298 West North Avenue IL 60181",41.906833,-87.985741,0.84,nearest_rooftop_match,270,"W North Ave",,,"Villa Park",IL,"DuPage County",60181,US,Dupage
+"1 E Saint Charles Rd IL 60181",41.889424,-87.978739,1,rooftop,1,"E St Charles Rd",,,"Villa Park",IL,"DuPage County",60181,US,Dupage
+"411 West North Avenue IL 60181",41.904822,-87.968383,0.68,nearest_rooftop_match,401,"E North Ave",,,"Villa Park",IL,"DuPage County",60181,US,Dupage
+"415 W Saint Charles Rd IL 60181",41.889616,-87.987912,1,range_interpolation,415,"W St Charles Rd",,,"Villa Park",IL,"DuPage County",60181,US,"TIGER/Line® dataset from the US Census Bureau"
+"298 West North Avenue IL 60181",41.906833,-87.985741,0.84,nearest_rooftop_match,270,"W North Ave",,,"Villa Park",IL,"DuPage County",60181,US,Dupage
+"1 E Saint Charles Rd IL 60181",41.889424,-87.978739,1,rooftop,1,"E St Charles Rd",,,"Villa Park",IL,"DuPage County",60181,US,Dupage
+"411 West North Avenue IL 60181",41.904822,-87.968383,0.68,nearest_rooftop_match,401,"E North Ave",,,"Villa Park",IL,"DuPage County",60181,US,Dupage
+"415 W Saint Charles Rd IL 60181",41.889616,-87.987912,1,range_interpolation,415,"W St Charles Rd",,,"Villa Park",IL,"DuPage County",60181,US,"TIGER/Line® dataset from the US Census Bureau"
+"1800 North Lewis Avenue IL 60085",42.384531,-87.855916,1,rooftop,1800,"N Lewis Ave",,,Waukegan,IL,"Lake County",60085,US,Lake
+"1750 N Sheridan Rd IL 60085",42.384153,-87.832665,1,rooftop,1750,"N Sheridan Rd",,,Waukegan,IL,"Lake County",60085,US,Lake
+"21 South Green Bay Road IL 60085",42.359015,-87.873352,1,rooftop,21,"S Green Bay Rd",,,Waukegan,IL,"Lake County",60085,US,Lake
+"1609 Grand Ave IL 60085",42.369965,-87.851868,1,rooftop,1609,"Grand Ave",,,Waukegan,IL,"Lake County",60085,US,Lake
+"3925 Fountain Square Pl IL 60085",42.34201,-87.896789,1,rooftop,3925,"Fountain Square Pl",,,Waukegan,IL,"Lake County",60085,US,Lake
+"2900 Belvidere Rd IL 60085",42.349758,-87.873239,1,rooftop,2900,"Belvidere Rd",,,Waukegan,IL,"Lake County",60085,US,Lake
+"38947 N Green Bay Rd IL 60087",42.427997,-87.876093,1,rooftop,38947,"N Green Bay Rd",,,"Beach Park",IL,"Lake County",60087,US,Lake
+"1800 North Lewis Avenue IL 60085",42.384531,-87.855916,1,rooftop,1800,"N Lewis Ave",,,Waukegan,IL,"Lake County",60085,US,Lake
+"1750 N Sheridan Rd IL 60085",42.384153,-87.832665,1,rooftop,1750,"N Sheridan Rd",,,Waukegan,IL,"Lake County",60085,US,Lake
+"21 South Green Bay Road IL 60085",42.359015,-87.873352,1,rooftop,21,"S Green Bay Rd",,,Waukegan,IL,"Lake County",60085,US,Lake
+"1609 Grand Ave IL 60085",42.369965,-87.851868,1,rooftop,1609,"Grand Ave",,,Waukegan,IL,"Lake County",60085,US,Lake
+"3925 Fountain Square Pl IL 60085",42.34201,-87.896789,1,rooftop,3925,"Fountain Square Pl",,,Waukegan,IL,"Lake County",60085,US,Lake
+"2900 Belvidere Rd IL 60085",42.349758,-87.873239,1,rooftop,2900,"Belvidere Rd",,,Waukegan,IL,"Lake County",60085,US,Lake
+"38947 N Green Bay Rd IL 60087",42.427997,-87.876093,1,rooftop,38947,"N Green Bay Rd",,,"Beach Park",IL,"Lake County",60087,US,Lake
+"110 W Roosevelt Rd IL 60185",41.860633,-88.19007,1,range_interpolation,110,"W Roosevelt Rd",,,"West Chicago",IL,"DuPage County",60185,US,"TIGER/Line® dataset from the US Census Bureau"
+"330 S Neltnor Blvd IL 60185",41.881227,-88.195005,1,rooftop,330,"S Neltnor Blvd",,,"West Chicago",IL,"DuPage County",60185,US,Dupage
+"1491 W Roosevelt Rd IL 60185",41.874144,-88.229465,1,range_interpolation,1491,"W Roosevelt Rd",,,"West Chicago",IL,"DuPage County",60185,US,"TIGER/Line® dataset from the US Census Bureau"
+"185 W North Ave IL 60185",41.912952,-88.195044,1,range_interpolation,185,"W North Ave",,,"West Chicago",IL,"DuPage County",60185,US,"TIGER/Line® dataset from the US Census Bureau"
+"110 W Roosevelt Rd IL 60185",41.860633,-88.19007,1,range_interpolation,110,"W Roosevelt Rd",,,"West Chicago",IL,"DuPage County",60185,US,"TIGER/Line® dataset from the US Census Bureau"
+"330 S Neltnor Blvd IL 60185",41.881227,-88.195005,1,rooftop,330,"S Neltnor Blvd",,,"West Chicago",IL,"DuPage County",60185,US,Dupage
+"1491 W Roosevelt Rd IL 60185",41.874144,-88.229465,1,range_interpolation,1491,"W Roosevelt Rd",,,"West Chicago",IL,"DuPage County",60185,US,"TIGER/Line® dataset from the US Census Bureau"
+"185 W North Ave IL 60185",41.912952,-88.195044,1,range_interpolation,185,"W North Ave",,,"West Chicago",IL,"DuPage County",60185,US,"TIGER/Line® dataset from the US Census Bureau"
+"11204 31st Street IL 60154",41.833723,-87.900933,1,range_interpolation,11204,"31st St",,,Westchester,IL,"Cook County",60154,US,"TIGER/Line® dataset from the US Census Bureau"
+"1005 South Mannheim Road IL 60154",41.865551,-87.882599,1,range_interpolation,1005,"S Mannheim Rd",,,Westchester,IL,"Cook County",60154,US,"TIGER/Line® dataset from the US Census Bureau"
+"1901 S Mannheim Rd IL 60154",41.852299,-87.881866,1,range_interpolation,1901,"S Mannheim Rd",,,Westchester,IL,"Cook County",60154,US,"TIGER/Line® dataset from the US Census Bureau"
+"11204 31st Street IL 60154",41.833723,-87.900933,1,range_interpolation,11204,"31st St",,,Westchester,IL,"Cook County",60154,US,"TIGER/Line® dataset from the US Census Bureau"
+"1005 South Mannheim Road IL 60154",41.865551,-87.882599,1,range_interpolation,1005,"S Mannheim Rd",,,Westchester,IL,"Cook County",60154,US,"TIGER/Line® dataset from the US Census Bureau"
+"1901 S Mannheim Rd IL 60154",41.852299,-87.881866,1,range_interpolation,1901,"S Mannheim Rd",,,Westchester,IL,"Cook County",60154,US,"TIGER/Line® dataset from the US Census Bureau"
+"19 W 63rd St IL 60559",41.773231,-87.975697,1,rooftop,19,"W 63rd St",,,Westmont,IL,"DuPage County",60559,US,Dupage
+"15 E Ogden Ave IL 60559",41.809606,-87.974476,1,rooftop,15,"E Ogden Ave",,,Westmont,IL,"DuPage County",60559,US,Dupage
+"19 W 63rd St IL 60559",41.773231,-87.975697,1,rooftop,19,"W 63rd St",,,Westmont,IL,"DuPage County",60559,US,Dupage
+"15 E Ogden Ave IL 60559",41.809606,-87.974476,1,rooftop,15,"E Ogden Ave",,,Westmont,IL,"DuPage County",60559,US,Dupage
+"600 South County Farm Road IL 60187",41.858644,-88.142776,1,range_interpolation,600,"S County Farm Rd",,,Wheaton,IL,"DuPage County",60187,US,"TIGER/Line® dataset from the US Census Bureau"
+"956 East Roosevelt Road IL 60187",41.858824,-88.093538,1,range_interpolation,956,"E Roosevelt Rd",,,Wheaton,IL,"DuPage County",60187,US,"TIGER/Line® dataset from the US Census Bureau"
+"1815 N Main St IL 60187",41.883454,-88.106131,1,rooftop,1815,"N Main St",,,Wheaton,IL,"DuPage County",60187,US,Dupage
+"15 Danada Sq E IL 60187",41.832617,-88.101692,0.9,range_interpolation,15,"Danada Sq E",,,Wheaton,IL,"DuPage County",60187,US,"TIGER/Line® dataset from the US Census Bureau"
+"600 South County Farm Road IL 60187",41.858644,-88.142776,1,range_interpolation,600,"S County Farm Rd",,,Wheaton,IL,"DuPage County",60187,US,"TIGER/Line® dataset from the US Census Bureau"
+"956 East Roosevelt Road IL 60187",41.858824,-88.093538,1,range_interpolation,956,"E Roosevelt Rd",,,Wheaton,IL,"DuPage County",60187,US,"TIGER/Line® dataset from the US Census Bureau"
+"1815 N Main St IL 60187",41.883454,-88.106131,1,rooftop,1815,"N Main St",,,Wheaton,IL,"DuPage County",60187,US,Dupage
+"15 Danada Sq E IL 60187",41.832617,-88.101692,0.9,range_interpolation,15,"Danada Sq E",,,Wheaton,IL,"DuPage County",60187,US,"TIGER/Line® dataset from the US Census Bureau"
+"215 East Dundee Road IL 60090",42.139477,-87.910445,0.88,nearest_rooftop_match,227,"E Dundee Rd",,,Wheeling,IL,"Cook County",60090,US,Cook
+"215 East Dundee Road IL 60090",42.139477,-87.910445,0.88,nearest_rooftop_match,227,"E Dundee Rd",,,Wheeling,IL,"Cook County",60090,US,Cook
+"215 East Dundee Road IL 60090",42.139477,-87.910445,0.88,nearest_rooftop_match,227,"E Dundee Rd",,,Wheeling,IL,"Cook County",60090,US,Cook
+"215 East Dundee Road IL 60090",42.139477,-87.910445,0.88,nearest_rooftop_match,227,"E Dundee Rd",,,Wheeling,IL,"Cook County",60090,US,Cook
+"3207 Lake Avenue IL 60091",42.078978,-87.754893,1,rooftop,3207,"Lake Ave",,,Wilmette,IL,"Cook County",60091,US,Cook
+"3207 Lake Ave IL 60091",42.078978,-87.754893,1,rooftop,3207,"Lake Ave",,,Wilmette,IL,"Cook County",60091,US,Cook
+"3207 Lake Avenue IL 60091",42.078978,-87.754893,1,rooftop,3207,"Lake Ave",,,Wilmette,IL,"Cook County",60091,US,Cook
+"3207 Lake Ave IL 60091",42.078978,-87.754893,1,rooftop,3207,"Lake Ave",,,Wilmette,IL,"Cook County",60091,US,Cook
+"1920 87th Street IL 60517",41.727895,-88.026472,0.9,range_interpolation,1920,"87th St",,,Woodridge,IL,"DuPage County",60517,US,"TIGER/Line® dataset from the US Census Bureau"
+"6820 Route 53 IL 60517",41.763477,-88.066553,1,range_interpolation,6820,"State Rte 53",,,Woodridge,IL,"DuPage County",60517,US,"TIGER/Line® dataset from the US Census Bureau"
+"1920 87th Street IL 60517",41.727895,-88.026472,0.9,range_interpolation,1920,"87th St",,,Woodridge,IL,"DuPage County",60517,US,"TIGER/Line® dataset from the US Census Bureau"
+"6820 Route 53 IL 60517",41.763477,-88.066553,1,range_interpolation,6820,"State Rte 53",,,Woodridge,IL,"DuPage County",60517,US,"TIGER/Line® dataset from the US Census Bureau"
+"339 S Eastwood Dr IL 60098",42.311934,-88.433145,0.89,nearest_rooftop_match,335,"S Eastwood Dr",,,Woodstock,IL,"McHenry County",60098,US,Mchenry
+"335 S Eastwood Dr IL 60098",42.311934,-88.433145,1,rooftop,335,"S Eastwood Dr",,,Woodstock,IL,"McHenry County",60098,US,Mchenry
+"339 S Eastwood Dr IL 60098",42.311934,-88.433145,0.89,nearest_rooftop_match,335,"S Eastwood Dr",,,Woodstock,IL,"McHenry County",60098,US,Mchenry
+"335 S Eastwood Dr IL 60098",42.311934,-88.433145,1,rooftop,335,"S Eastwood Dr",,,Woodstock,IL,"McHenry County",60098,US,Mchenry
+"11501 S Harlem Ave IL 60482",41.682778,-87.797175,1,range_interpolation,11501,"S Harlem Ave",,,Worth,IL,"Cook County",60482,US,"TIGER/Line® dataset from the US Census Bureau"
+"10662 S Harlem Ave IL 60482",41.697618,-87.797904,1,range_interpolation,10662,"S Harlem Ave",,,Worth,IL,"Cook County",60482,US,"TIGER/Line® dataset from the US Census Bureau"
+"6707 W 111th St IL 60482",41.690083,-87.786212,1,range_interpolation,6707,"W 111th St",,,Worth,IL,"Cook County",60482,US,"TIGER/Line® dataset from the US Census Bureau"
+"11501 S Harlem Ave IL 60482",41.682778,-87.797175,1,range_interpolation,11501,"S Harlem Ave",,,Worth,IL,"Cook County",60482,US,"TIGER/Line® dataset from the US Census Bureau"
+"10662 S Harlem Ave IL 60482",41.697618,-87.797904,1,range_interpolation,10662,"S Harlem Ave",,,Worth,IL,"Cook County",60482,US,"TIGER/Line® dataset from the US Census Bureau"
+"6707 W 111th St IL 60482",41.690083,-87.786212,1,range_interpolation,6707,"W 111th St",,,Worth,IL,"Cook County",60482,US,"TIGER/Line® dataset from the US Census Bureau"

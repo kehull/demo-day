@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+<head>
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="../static/img/fav.png">
+	<!-- Author Meta -->
+	<meta name="author" content="codepixer">
+	<!-- Meta Description -->
+	<meta name="description" content="">
+	<!-- Meta Keyword -->
+	<meta name="keywords" content="">
+	<!-- meta character set -->
+	<meta charset="UTF-8">
+	<!-- Site Title -->
+	<title>data viz BUZZ</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+		<!--
+		CSS
+		============================================= -->
+		<link rel="stylesheet" href="../static/css/linearicons.css">
+		<link rel="stylesheet" href="../static/css/font-awesome.min.css">
+		<link rel="stylesheet" href="../static/css/bootstrap.css">
+		<link rel="stylesheet" href="../static/css/magnific-popup.css">
+		<link rel="stylesheet" href="../static/css/nice-select.css">					
+		<link rel="stylesheet" href="../static/css/animate.min.css">
+		<link rel="stylesheet" href="../static/css/owl.carousel.css">
+		<link rel="stylesheet" href="../static/css/main.css">
+	</head>
+	<body>
+
+		  <header id="header" id="home">
+			<div class="header-top">
+				  <div class="container">
+					  <div class="row justify-content-end">
+						  <div class="col-lg-8 col-sm-4 col-8 header-top-right no-padding">
+							  <ul>
+								  <li>
+									  <!-- Mon-Fri: 8am to 2pm -->
+								  </li>
+								  <li>
+									  <!-- Sat-Sun: 11am to 4pm -->
+								  </li>
+								  <li>
+									  <!-- <a href="tel:(012) 6985 236 7512">(012) 6985 236 7512</a> -->
+								  </li>				  					
+							  </ul>
+						  </div>
+					  </div>			  					
+				  </div>
+			</div>			  	
+			<div class="container">
+				<div class="row align-items-center justify-content-between d-flex">
+				  <div id="logo">
+					<a href="/"><img src="img/logo.png" alt="" title="" /></a>
+				  </div>
+				  <nav id="nav-menu-container">
+					<ul class="nav-menu">
+					  <li class="menu-active"><a href="/">Home</a></li>
+					  <!-- <li><a href="#about">About</a></li>
+					  <li><a href="#studies">Case Studies</a></li>
+					  <li><a href="#stats">Why go mobile?</a></li>
+					  <li><a href="#ml">Why machine learning?</a></li> -->
+					  <li class="menu-has-children"><a href="">Pages</a>
+						<ul>
+						  <li><a href="/about">About Data Viz Buzz</a></li>
+						  <li><a href="/model">Test our model!</a></li>
+						  <li><a href="/casestudy/delmar">Case Study: Delmar Loop</a></li>
+						  <li><a href="/casestudy/showme">Case Study: Show Me Costa Rica Coffee</a></li>
+						  <li><a href="/interviews/benfierce">Interview: Ben Fierce</a></li>
+						  <li><a href="/interviews/jenkaslowon">Interview: Jen Kaslowon</a></li>
+						  <li><a href="/disclaimer">Disclaimer</a></li>
+						  <li><a href="/model/api">API</a></li>
+						</ul>
+					  </li>
+					</ul>
+				  </nav><!-- #nav-menu-container -->		    		
+				</div>
+			</div>
+		  </header><!-- #header -->
+
+			<section class="generic-banner relative">	
+				<div class="container">
+					<div class="row height align-items-center justify-content-center">
+						<div class="col-lg-10">
+							<div class="generic-banner-content">
+								<h2 class="text-white">How does the machine learning model apply to your business?</h2>
+								<p class="text-white">Test it out below!</p>
+							</div>							
+						</div>
+					</div>
+				</div>
+			</section>		
+			<!-- End banner Area -->
+		
+		<!-- About Generic Start -->
+		<div class="content">
+		<section class="about-generic-area section-gap">
+		<div class="container border-top-generic">
+			<section class="filters">
+				<div class="row">
+					<div class="col-md-offset-2 col-md-12">
+						<form method="POST" role="form", name="petform">
+							<div class="form-group">
+								<label for="inputLat">Gender</label>
+								<div class="form-select" id="default-select"">
+									<select>
+										<option value="1">Select a Gender:</option>
+										<option value="1">Female</option>
+										<option value="1">Male</option>
+										<option value="1">Other</option>
+									</select>
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputLon">Income</label>
+								<input type="text" class="form-control" id="inputIncome" name="income" placeholder="1000000.00">
+							</div>
+							<input id = "enter-btn" type="submit" value="submit" class="btn btn-default">
+						</form>
+					</div>
+				</div>
+			
+	
+				
+			</section>
+		</div>
+			
+			
+
+			<!-- Start Generic Area -->
+			<section class="about-generic-area section-gap">
+				<div class="container border-top-generic">
+			<section class='customer table'>
+				<div class="col-md-12">
+					
+				<div id="table-area" class="">
+				  <table id="customer-table" class="table table-striped">
+					<thead>
+					  <tr>
+						<th class="table-head">Name</th>
+						<th class="table-head">Customer_id</th>
+						<th class="table-head">Gender</th>
+						<th class="table-head">Age</th>
+						<th class="table-head">Income</th>
+						<th class="table-head">Offer</th>
+						<th class="table-head">Membership_date</th>
+					  </tr>
+					</thead>
+					<tbody>
+						{% for row in table_data %}
+						<tr>
+						  <td>{{ row['name'] }}</td>
+						  <td>{{ row['customer_id'] }}</td>
+						  <td>{{ row['gender'] }}</td>
+						  <td>{{ row['age'] }}</td>
+						  <td>{{ row['income'] }}</td>
+						  <td>{{ row['offer'] }}</td>
+						  <td>{{ row['membership_date'] }}</td>
+						</tr>
+					{% endfor %}
+					</tbody>
+				  </table>
+				</div>
+			  </div>
+			</div>
+		
+			</section>
+			<!-- End Generic Start -->		
+
+			<!-- start footer Area -->		
+			<footer class="footer-area section-gap">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-5 col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+								<h6>About Us</h6>
+								<p>
+									Data Viz Buzz is a made-up company created for a school project. While you can't hire Data Viz Buzz itself, all three of its creators are data analysts and would be happy to discuss working with you! Find our contact information <a href="">here</a>!
+								</p>
+								<p class="footer-text">
+									<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->	
+			
+			
+			<!--js link-->
+			
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+			<script>
+				if ( window.history.replaceState ) {
+				  window.history.replaceState( null, null, window.location.href );
+				}
+				</script>
+			<script src="../static/js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+			<script src="../static/js/vendor/bootstrap.min.js"></script>			
+			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+  			<script src="../static/js/easing.min.js"></script>			
+			<script src="../static/js/hoverIntent.js"></script>
+			<script src="../static/js/superfish.min.js"></script>	
+			<script src="../static/js/jquery.ajaxchimp.min.js"></script>
+			<script src="../static/js/jquery.magnific-popup.min.js"></script>	
+			<script src="../static/js/owl.carousel.min.js"></script>			
+			<script src="../static/js/jquery.sticky.js"></script>
+			<script src="../static/js/jquery.nice-select.min.js"></script>			
+			<script src="../static/js/parallax.min.js"></script>	
+			<script src="../static/js/mail-script.js"></script>				
+			<script src="../static/js/main.js"></script>	
+		</body>
+	</html>

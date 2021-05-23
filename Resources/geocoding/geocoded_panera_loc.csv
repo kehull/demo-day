@@ -1,0 +1,317 @@
+location,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,"Unit Type","Unit Number",City,State,County,Zip,Country,Source
+"1650 Clarkson Road MO 63017",38.644424,-90.564474,1,rooftop,1650,"Clarkson Rd",,,Chesterfield,MO,"St. Louis County",63017,US,"St Louis"
+"46 Four Seasons Shopping Center MO 63017",38.649052,-90.535804,0.22,place,,,,,Chesterfield,MO,"St. Louis County",63017,US,"TIGER/Line® dataset from the US Census Bureau"
+"238 Chesterfield Mall MO 63017",38.651667,-90.564599,1,rooftop,238,"Chesterfield Mall",,,Chesterfield,MO,"St. Louis County",63017,US,"St Louis"
+"1650 Clarkson Road MO 63017",38.644424,-90.564474,1,rooftop,1650,"Clarkson Rd",,,Chesterfield,MO,"St. Louis County",63017,US,"St Louis"
+"46 Four Seasons Shopping Center MO 63017",38.649052,-90.535804,0.22,place,,,,,Chesterfield,MO,"St. Louis County",63017,US,"TIGER/Line® dataset from the US Census Bureau"
+"238 Chesterfield Mall MO 63017",38.651667,-90.564599,1,rooftop,238,"Chesterfield Mall",,,Chesterfield,MO,"St. Louis County",63017,US,"St Louis"
+"102 S 9th St MO 65201",38.950278,-92.327397,1,rooftop,102,"S 9th St",,,Columbia,MO,"Boone County",65201,US,Boone
+"3709 S Providence Rd MO 65203",38.90939,-92.336369,1,rooftop,3709,"S Providence Rd",,,Columbia,MO,"Boone County",65203,US,Boone
+"100 Brickton Road MO 65203",38.948232,-92.295255,0.95,rooftop,100,"Brickton Rd",,,Columbia,MO,"Boone County",65201,US,Boone
+"598 Columbia Dr MO 65203",38.88248,-92.397824,0.33,place,,,,,Columbia,MO,"Boone County",65203,US,"TIGER/Line® dataset from the US Census Bureau"
+"2300 Bernadette Dr MO 65203",38.963767,-92.373859,1,rooftop,2300,"Bernadette Dr",,,Columbia,MO,"Boone County",65203,US,Boone
+"102 S 9th St MO 65201",38.950278,-92.327397,1,rooftop,102,"S 9th St",,,Columbia,MO,"Boone County",65201,US,Boone
+"3709 S Providence Rd MO 65203",38.90939,-92.336369,1,rooftop,3709,"S Providence Rd",,,Columbia,MO,"Boone County",65203,US,Boone
+"100 Brickton Road MO 65203",38.948232,-92.295255,0.95,rooftop,100,"Brickton Rd",,,Columbia,MO,"Boone County",65201,US,Boone
+"598 Columbia Dr MO 65203",38.88248,-92.397824,0.33,place,,,,,Columbia,MO,"Boone County",65203,US,"TIGER/Line® dataset from the US Census Bureau"
+"2300 Bernadette Dr MO 65203",38.963767,-92.373859,1,rooftop,2300,"Bernadette Dr",,,Columbia,MO,"Boone County",65203,US,Boone
+"2214 Missouri Boulevard MO 65109",38.581828,-92.208886,1,rooftop,2214,"Missouri Blvd",,,"Jefferson City",MO,"Cole County",65109,US,Cole
+"2226 Missouri Blvd MO 65109",38.581983,-92.209967,1,rooftop,2226,"Missouri Blvd",,,"Jefferson City",MO,"Cole County",65109,US,Cole
+"2214 Missouri Boulevard MO 65109",38.581828,-92.208886,1,rooftop,2214,"Missouri Blvd",,,"Jefferson City",MO,"Cole County",65109,US,Cole
+"2226 Missouri Blvd MO 65109",38.581983,-92.209967,1,rooftop,2226,"Missouri Blvd",,,"Jefferson City",MO,"Cole County",65109,US,Cole
+"2405 Grand Blvd MO 64108",39.081708,-94.581458,1,rooftop,2405,"Grand Blvd",,,"Kansas City",MO,"Jackson County",64108,US,"City of Kansas City"
+"4117 Mill St MO 64111",39.05201,-94.591793,1,rooftop,4117,"Mill St",,,"Kansas City",MO,"Jackson County",64111,US,Jackson
+"4700 Pennsylvania Ave MO 64112",39.042052,-94.594087,1,rooftop,4700,"Pennsylvania Ave",,,"Kansas City",MO,"Jackson County",64112,US,"City of Kansas City"
+"6301 Brookside Plaza MO 64113",39.013581,-94.590466,1,rooftop,6301,"Brookside Plz",,,"Kansas City",MO,"Jackson County",64113,US,"City of Kansas City"
+"1128 W 103rd St MO 64114",38.942294,-94.606306,1,rooftop,1128,"W 103rd St",,,"Kansas City",MO,"Jackson County",64114,US,Jackson
+"311 Ne Englewood Road MO 64118",39.194128,-94.578892,1,rooftop,311,"NE Englewood Rd",,,"Kansas City",MO,"Clay County",64118,US,"City of Kansas City"
+"6145 Nw Barry Rd MO 64154",39.246641,-94.649734,1,range_interpolation,6145,"NW Barry Rd",,,"Kansas City",MO,"Platte County",64154,US,"TIGER/Line® dataset from the US Census Bureau"
+"8580 Church Rd MO 64157",39.246402,-94.459807,0.75,rooftop,8580,"N Church Rd",,,"Kansas City",MO,"Clay County",64158,US,"City of Kansas City"
+"2405 Grand Blvd MO 64108",39.081708,-94.581458,1,rooftop,2405,"Grand Blvd",,,"Kansas City",MO,"Jackson County",64108,US,"City of Kansas City"
+"4117 Mill St MO 64111",39.05201,-94.591793,1,rooftop,4117,"Mill St",,,"Kansas City",MO,"Jackson County",64111,US,Jackson
+"4700 Pennsylvania Ave MO 64112",39.042052,-94.594087,1,rooftop,4700,"Pennsylvania Ave",,,"Kansas City",MO,"Jackson County",64112,US,"City of Kansas City"
+"6301 Brookside Plaza MO 64113",39.013581,-94.590466,1,rooftop,6301,"Brookside Plz",,,"Kansas City",MO,"Jackson County",64113,US,"City of Kansas City"
+"1128 W 103rd St MO 64114",38.942294,-94.606306,1,rooftop,1128,"W 103rd St",,,"Kansas City",MO,"Jackson County",64114,US,Jackson
+"311 Ne Englewood Road MO 64118",39.194128,-94.578892,1,rooftop,311,"NE Englewood Rd",,,"Kansas City",MO,"Clay County",64118,US,"City of Kansas City"
+"6145 Nw Barry Rd MO 64154",39.246641,-94.649734,1,range_interpolation,6145,"NW Barry Rd",,,"Kansas City",MO,"Platte County",64154,US,"TIGER/Line® dataset from the US Census Bureau"
+"8580 Church Rd MO 64157",39.246402,-94.459807,0.75,rooftop,8580,"N Church Rd",,,"Kansas City",MO,"Clay County",64158,US,"City of Kansas City"
+"3175 West Broadway Boulevard MO 65301",38.708825,-93.266377,1,range_interpolation,3175,"W Broadway Blvd",,,Sedalia,MO,"Pettis County",65301,US,"TIGER/Line® dataset from the US Census Bureau"
+"3171 W Broadway Blvd MO 65301",38.708783,-93.266285,1,range_interpolation,3171,"W Broadway Blvd",,,Sedalia,MO,"Pettis County",65301,US,"TIGER/Line® dataset from the US Census Bureau"
+"3175 West Broadway Boulevard MO 65301",38.708825,-93.266377,1,range_interpolation,3175,"W Broadway Blvd",,,Sedalia,MO,"Pettis County",65301,US,"TIGER/Line® dataset from the US Census Bureau"
+"3171 W Broadway Blvd MO 65301",38.708783,-93.266285,1,range_interpolation,3171,"W Broadway Blvd",,,Sedalia,MO,"Pettis County",65301,US,"TIGER/Line® dataset from the US Census Bureau"
+"500 S National Ave MO 65802",37.204813,-93.275894,1,rooftop,500,"S National Ave",,,Springfield,MO,"Greene County",65802,US,Greene
+"2535 N Kansas Expy MO 65803",37.243612,-93.312125,1,rooftop,2535,"N Kansas Expy",,,Springfield,MO,"Greene County",65803,US,Greene
+"1949 E Sunshine St MO 65804",37.182752,-93.259027,1,rooftop,1949,"E Sunshine St",,,Springfield,MO,"Greene County",65804,US,Greene
+"2040 W Vista St MO 65807",37.165221,-93.320609,1,rooftop,2040,"W Vista St",,,Springfield,MO,"Greene County",65807,US,Greene
+"1570 W Battlefield St MO 65807",37.159966,-93.3121,1,range_interpolation,1570,"W Battlefield St",,,Springfield,MO,"Greene County",65807,US,"TIGER/Line® dataset from the US Census Bureau"
+"2924 W Sunshine St MO 65807",37.182568,-93.336477,1,range_interpolation,2924,"W Sunshine St",,,Springfield,MO,"Greene County",65807,US,"TIGER/Line® dataset from the US Census Bureau"
+"3837 S Campbell Ave MO 65807",37.144298,-93.297069,1,rooftop,3837,"S Campbell Ave",,,Springfield,MO,"Greene County",65807,US,Greene
+"4100 South Campbell Avenue MO 65807",37.140003,-93.295309,1,rooftop,4100,"S Campbell Ave",,,Springfield,MO,"Greene County",65807,US,Greene
+"2740 S Austin Ave MO 65807",37.164815,-93.323257,1,rooftop,2740,"S Austin Ave",,,Springfield,MO,"Greene County",65807,US,Greene
+"500 S National Ave MO 65802",37.204813,-93.275894,1,rooftop,500,"S National Ave",,,Springfield,MO,"Greene County",65802,US,Greene
+"2535 N Kansas Expy MO 65803",37.243612,-93.312125,1,rooftop,2535,"N Kansas Expy",,,Springfield,MO,"Greene County",65803,US,Greene
+"1949 E Sunshine St MO 65804",37.182752,-93.259027,1,rooftop,1949,"E Sunshine St",,,Springfield,MO,"Greene County",65804,US,Greene
+"2040 W Vista St MO 65807",37.165221,-93.320609,1,rooftop,2040,"W Vista St",,,Springfield,MO,"Greene County",65807,US,Greene
+"1570 W Battlefield St MO 65807",37.159966,-93.3121,1,range_interpolation,1570,"W Battlefield St",,,Springfield,MO,"Greene County",65807,US,"TIGER/Line® dataset from the US Census Bureau"
+"2924 W Sunshine St MO 65807",37.182568,-93.336477,1,range_interpolation,2924,"W Sunshine St",,,Springfield,MO,"Greene County",65807,US,"TIGER/Line® dataset from the US Census Bureau"
+"3837 S Campbell Ave MO 65807",37.144298,-93.297069,1,rooftop,3837,"S Campbell Ave",,,Springfield,MO,"Greene County",65807,US,Greene
+"4100 South Campbell Avenue MO 65807",37.140003,-93.295309,1,rooftop,4100,"S Campbell Ave",,,Springfield,MO,"Greene County",65807,US,Greene
+"2740 S Austin Ave MO 65807",37.164815,-93.323257,1,rooftop,2740,"S Austin Ave",,,Springfield,MO,"Greene County",65807,US,Greene
+"201 Northwest Plz MO 63074",38.732312,-90.403933,1,range_interpolation,201,"Northwest Plz",,,"Saint Ann",MO,"St. Louis County",63074,US,"TIGER/Line® dataset from the US Census Bureau"
+"201 Northwest Plz MO 63074",38.732312,-90.403933,1,range_interpolation,201,"Northwest Plz",,,"Saint Ann",MO,"St. Louis County",63074,US,"TIGER/Line® dataset from the US Census Bureau"
+"201 Northwest Plz MO 63074",38.732312,-90.403933,1,range_interpolation,201,"Northwest Plz",,,"Saint Ann",MO,"St. Louis County",63074,US,"TIGER/Line® dataset from the US Census Bureau"
+"201 Northwest Plz MO 63074",38.732312,-90.403933,1,range_interpolation,201,"Northwest Plz",,,"Saint Ann",MO,"St. Louis County",63074,US,"TIGER/Line® dataset from the US Census Bureau"
+"2079 Zumbehl Road MO 63303",38.783983,-90.535699,1,rooftop,2079,"Zumbehl Rd",,,"Saint Charles",MO,"St. Charles County",63303,US,"St Charles"
+"6185 Mid Rivers Mall Dr MO 63304",38.742399,-90.634926,1,rooftop,6185,"Mid Rivers Mall Dr",,,"Saint Peters",MO,"St. Charles County",63304,US,"St Charles"
+"2079 Zumbehl Road MO 63303",38.783983,-90.535699,1,rooftop,2079,"Zumbehl Rd",,,"Saint Charles",MO,"St. Charles County",63303,US,"St Charles"
+"6185 Mid Rivers Mall Dr MO 63304",38.742399,-90.634926,1,rooftop,6185,"Mid Rivers Mall Dr",,,"Saint Peters",MO,"St. Charles County",63304,US,"St Charles"
+"116 N 6th St MO 63101",38.626338,-90.190806,1,range_interpolation,116,"N 6th St",,,"Saint Louis",MO,"St. Louis city",63101,US,"TIGER/Line® dataset from the US Census Bureau"
+"2018 S 7th Street MO 63104",38.606611,-90.202624,1,range_interpolation,2018,"S 7th St",,,"Saint Louis",MO,"St. Louis city",63104,US,"TIGER/Line® dataset from the US Census Bureau"
+"10 S Central Ave MO 63105",38.64987,-90.33793,1,rooftop,10,"S Central Ave",,,"Saint Louis",MO,"St. Louis County",63105,US,"St Louis"
+"10 S Central Ave MO 63105",38.64987,-90.33793,1,rooftop,10,"S Central Ave",,,"Saint Louis",MO,"St. Louis County",63105,US,"St Louis"
+"10 S Central Ave MO 63105",38.64987,-90.33793,1,rooftop,10,"S Central Ave",,,"Saint Louis",MO,"St. Louis County",63105,US,"St Louis"
+"10 S Central Ave MO 63105",38.64987,-90.33793,1,rooftop,10,"S Central Ave",,,"Saint Louis",MO,"St. Louis County",63105,US,"St Louis"
+"4561 Forest Park Ave MO 63108",38.639194,-90.261171,1,rooftop,4561,"Forest Park Ave",,,"Saint Louis",MO,"St. Louis city",63108,US,"City of St Louis"
+"4651 Maryland Ave MO 63108",38.645055,-90.26099,1,rooftop,4651,"Maryland Ave",,,"Saint Louis",MO,"St. Louis city",63108,US,"City of St Louis"
+"6607 Chippewa St MO 63109",38.591253,-90.305201,1,rooftop,6607,"Chippewa St",,,"Saint Louis",MO,"St. Louis city",63109,US,"City of St Louis"
+"1008 Loughborough Avenue MO 63111",38.556442,-90.26255,1,rooftop,1008,"Loughborough Ave",,,"Saint Louis",MO,"St. Louis city",63111,US,"City of St Louis"
+"6710 Clayton Rd MO 63117",38.634371,-90.317151,1,rooftop,6710,"Clayton Rd",,,"Saint Louis",MO,"St. Louis County",63117,US,"St Louis"
+"St Louis Galleria MO 63117",38.629452,-90.334215,1,place,,,,,"Saint Louis",MO,"St. Louis County",63117,US,"TIGER/Line® dataset from the US Census Bureau"
+"6701 Clayton Rd MO 63117",38.634821,-90.316469,1,rooftop,6701,"Clayton Rd",,,"Saint Louis",MO,"St. Louis County",63117,US,"St Louis"
+"St Louis Galleria MO 63117",38.629452,-90.334215,1,place,,,,,"Saint Louis",MO,"St. Louis County",63117,US,"TIGER/Line® dataset from the US Census Bureau"
+"1445 Saint Louis Galleria MO 63117",38.635477,-90.348481,1,rooftop,1445,"St Louis Galleria St",,,"Saint Louis",MO,"St. Louis County",63117,US,"St Louis"
+"3114 S Grand Blvd MO 63118",38.602036,-90.24196,1,rooftop,3114,"S Grand Blvd",,,"Saint Louis",MO,"St. Louis city",63118,US,"City of St Louis"
+"21 Allen Ave MO 63119",38.593589,-90.361538,1,rooftop,21,"Allen Ave",,,"Saint Louis",MO,"St. Louis County",63119,US,"St Louis"
+"21 Allen Ave MO 63119",38.593589,-90.361538,1,rooftop,21,"Allen Ave",,,"Saint Louis",MO,"St. Louis County",63119,US,"St Louis"
+"99 Grasso Plz MO 63123",38.551037,-90.335769,1,rooftop,99,"Grasso Plz",,,"Saint Louis",MO,"St. Louis County",63123,US,"St Louis"
+"99 Grasso Plz MO 63123",38.551037,-90.335769,1,rooftop,99,"Grasso Plz",,,"Saint Louis",MO,"St. Louis County",63123,US,"St Louis"
+"Grasso Plaza MO 63123",38.551529,-90.334743,1,street_center,,"Grasso Plz",,,"Saint Louis",MO,"St. Louis County",63123,US,"TIGER/Line® dataset from the US Census Bureau"
+"10740 Sunset Hills Plz MO 63127",38.554007,-90.407808,1,rooftop,10740,"Sunset Hills Plz",,,"Saint Louis",MO,"St. Louis County",63127,US,"St Louis"
+"3630 S Geyer Rd MO 63127",38.553834,-90.414117,1,rooftop,3630,"S Geyer Rd",,,"Saint Louis",MO,"St. Louis County",63127,US,"St Louis"
+"Sunset Hills Plaza MO 63127",38.554472,-90.408252,1,street_center,,"Sunset Hills Plz",,,"Saint Louis",MO,"St. Louis County",63127,US,"TIGER/Line® dataset from the US Census Bureau"
+"9922 Kennerly Rd MO 63128",38.50715,-90.37635,1,rooftop,9922,"Kennerly Rd",,,"Saint Louis",MO,"St. Louis County",63128,US,"St Louis"
+"9922 Kennerly Rd MO 63128",38.50715,-90.37635,1,rooftop,9922,"Kennerly Rd",,,"Saint Louis",MO,"St. Louis County",63128,US,"St Louis"
+"5696 Telegraph Rd MO 63129",38.466301,-90.304601,1,rooftop,5696,"Telegraph Rd",,,"Saint Louis",MO,"St. Louis County",63129,US,"St Louis"
+"130 S County Center Way MO 63129",38.504342,-90.329399,1,rooftop,130,"S County Center Way",,,"Saint Louis",MO,"St. Louis County",63129,US,"St Louis"
+"5696 Telegraph Rd MO 63129",38.466301,-90.304601,1,rooftop,5696,"Telegraph Rd",,,"Saint Louis",MO,"St. Louis County",63129,US,"St Louis"
+"130 S County Center Way MO 63129",38.504342,-90.329399,1,rooftop,130,"S County Center Way",,,"Saint Louis",MO,"St. Louis County",63129,US,"St Louis"
+"13275 Manchester Road MO 63131",38.602346,-90.465746,1,rooftop,13275,"Manchester Rd",,,"Saint Louis",MO,"St. Louis County",63131,US,"St Louis"
+"10550 Old Olive Street Road MO 63141",38.675022,-90.41205,1,rooftop,10550,"Old Olive Street Rd",,,"Saint Louis",MO,"St. Louis County",63141,US,"St Louis"
+"1909 S Brentwood Blvd MO 63144",38.624614,-90.348068,1,rooftop,1909,"S Brentwood Blvd",,,"Saint Louis",MO,"St. Louis County",63144,US,"St Louis"
+"1909 S Brentwood Blvd MO 63144",38.624614,-90.348068,1,rooftop,1909,"S Brentwood Blvd",,,"Saint Louis",MO,"St. Louis County",63144,US,"St Louis"
+"147 Westport Plz MO 63146",38.7018,-90.44654,0.7,rooftop,147,"W Port Plaza Dr",,,"Saint Louis",MO,"St. Louis County",63146,US,"St Louis"
+"116 N 6th St MO 63101",38.626338,-90.190806,1,range_interpolation,116,"N 6th St",,,"Saint Louis",MO,"St. Louis city",63101,US,"TIGER/Line® dataset from the US Census Bureau"
+"2018 S 7th Street MO 63104",38.606611,-90.202624,1,range_interpolation,2018,"S 7th St",,,"Saint Louis",MO,"St. Louis city",63104,US,"TIGER/Line® dataset from the US Census Bureau"
+"10 S Central Ave MO 63105",38.64987,-90.33793,1,rooftop,10,"S Central Ave",,,"Saint Louis",MO,"St. Louis County",63105,US,"St Louis"
+"10 S Central Ave MO 63105",38.64987,-90.33793,1,rooftop,10,"S Central Ave",,,"Saint Louis",MO,"St. Louis County",63105,US,"St Louis"
+"10 S Central Ave MO 63105",38.64987,-90.33793,1,rooftop,10,"S Central Ave",,,"Saint Louis",MO,"St. Louis County",63105,US,"St Louis"
+"10 S Central Ave MO 63105",38.64987,-90.33793,1,rooftop,10,"S Central Ave",,,"Saint Louis",MO,"St. Louis County",63105,US,"St Louis"
+"4561 Forest Park Ave MO 63108",38.639194,-90.261171,1,rooftop,4561,"Forest Park Ave",,,"Saint Louis",MO,"St. Louis city",63108,US,"City of St Louis"
+"4651 Maryland Ave MO 63108",38.645055,-90.26099,1,rooftop,4651,"Maryland Ave",,,"Saint Louis",MO,"St. Louis city",63108,US,"City of St Louis"
+"6607 Chippewa St MO 63109",38.591253,-90.305201,1,rooftop,6607,"Chippewa St",,,"Saint Louis",MO,"St. Louis city",63109,US,"City of St Louis"
+"1008 Loughborough Avenue MO 63111",38.556442,-90.26255,1,rooftop,1008,"Loughborough Ave",,,"Saint Louis",MO,"St. Louis city",63111,US,"City of St Louis"
+"6710 Clayton Rd MO 63117",38.634371,-90.317151,1,rooftop,6710,"Clayton Rd",,,"Saint Louis",MO,"St. Louis County",63117,US,"St Louis"
+"St Louis Galleria MO 63117",38.629452,-90.334215,1,place,,,,,"Saint Louis",MO,"St. Louis County",63117,US,"TIGER/Line® dataset from the US Census Bureau"
+"6701 Clayton Rd MO 63117",38.634821,-90.316469,1,rooftop,6701,"Clayton Rd",,,"Saint Louis",MO,"St. Louis County",63117,US,"St Louis"
+"St Louis Galleria MO 63117",38.629452,-90.334215,1,place,,,,,"Saint Louis",MO,"St. Louis County",63117,US,"TIGER/Line® dataset from the US Census Bureau"
+"1445 Saint Louis Galleria MO 63117",38.635477,-90.348481,1,rooftop,1445,"St Louis Galleria St",,,"Saint Louis",MO,"St. Louis County",63117,US,"St Louis"
+"3114 S Grand Blvd MO 63118",38.602036,-90.24196,1,rooftop,3114,"S Grand Blvd",,,"Saint Louis",MO,"St. Louis city",63118,US,"City of St Louis"
+"21 Allen Ave MO 63119",38.593589,-90.361538,1,rooftop,21,"Allen Ave",,,"Saint Louis",MO,"St. Louis County",63119,US,"St Louis"
+"21 Allen Ave MO 63119",38.593589,-90.361538,1,rooftop,21,"Allen Ave",,,"Saint Louis",MO,"St. Louis County",63119,US,"St Louis"
+"99 Grasso Plz MO 63123",38.551037,-90.335769,1,rooftop,99,"Grasso Plz",,,"Saint Louis",MO,"St. Louis County",63123,US,"St Louis"
+"99 Grasso Plz MO 63123",38.551037,-90.335769,1,rooftop,99,"Grasso Plz",,,"Saint Louis",MO,"St. Louis County",63123,US,"St Louis"
+"Grasso Plaza MO 63123",38.551529,-90.334743,1,street_center,,"Grasso Plz",,,"Saint Louis",MO,"St. Louis County",63123,US,"TIGER/Line® dataset from the US Census Bureau"
+"10740 Sunset Hills Plz MO 63127",38.554007,-90.407808,1,rooftop,10740,"Sunset Hills Plz",,,"Saint Louis",MO,"St. Louis County",63127,US,"St Louis"
+"3630 S Geyer Rd MO 63127",38.553834,-90.414117,1,rooftop,3630,"S Geyer Rd",,,"Saint Louis",MO,"St. Louis County",63127,US,"St Louis"
+"Sunset Hills Plaza MO 63127",38.554472,-90.408252,1,street_center,,"Sunset Hills Plz",,,"Saint Louis",MO,"St. Louis County",63127,US,"TIGER/Line® dataset from the US Census Bureau"
+"9922 Kennerly Rd MO 63128",38.50715,-90.37635,1,rooftop,9922,"Kennerly Rd",,,"Saint Louis",MO,"St. Louis County",63128,US,"St Louis"
+"9922 Kennerly Rd MO 63128",38.50715,-90.37635,1,rooftop,9922,"Kennerly Rd",,,"Saint Louis",MO,"St. Louis County",63128,US,"St Louis"
+"5696 Telegraph Rd MO 63129",38.466301,-90.304601,1,rooftop,5696,"Telegraph Rd",,,"Saint Louis",MO,"St. Louis County",63129,US,"St Louis"
+"130 S County Center Way MO 63129",38.504342,-90.329399,1,rooftop,130,"S County Center Way",,,"Saint Louis",MO,"St. Louis County",63129,US,"St Louis"
+"5696 Telegraph Rd MO 63129",38.466301,-90.304601,1,rooftop,5696,"Telegraph Rd",,,"Saint Louis",MO,"St. Louis County",63129,US,"St Louis"
+"130 S County Center Way MO 63129",38.504342,-90.329399,1,rooftop,130,"S County Center Way",,,"Saint Louis",MO,"St. Louis County",63129,US,"St Louis"
+"13275 Manchester Road MO 63131",38.602346,-90.465746,1,rooftop,13275,"Manchester Rd",,,"Saint Louis",MO,"St. Louis County",63131,US,"St Louis"
+"10550 Old Olive Street Road MO 63141",38.675022,-90.41205,1,rooftop,10550,"Old Olive Street Rd",,,"Saint Louis",MO,"St. Louis County",63141,US,"St Louis"
+"1909 S Brentwood Blvd MO 63144",38.624614,-90.348068,1,rooftop,1909,"S Brentwood Blvd",,,"Saint Louis",MO,"St. Louis County",63144,US,"St Louis"
+"1909 S Brentwood Blvd MO 63144",38.624614,-90.348068,1,rooftop,1909,"S Brentwood Blvd",,,"Saint Louis",MO,"St. Louis County",63144,US,"St Louis"
+"147 Westport Plz MO 63146",38.7018,-90.44654,0.7,rooftop,147,"W Port Plaza Dr",,,"Saint Louis",MO,"St. Louis County",63146,US,"St Louis"
+"290 Mid Rivers Mall Drive MO 63376",38.793643,-90.622987,1,range_interpolation,290,"Mid Rivers Mall Dr",,,"Saint Peters",MO,"St. Charles County",63376,US,"TIGER/Line® dataset from the US Census Bureau"
+"290 Mid Rivers Mall Drive MO 63376",38.793643,-90.622987,1,range_interpolation,290,"Mid Rivers Mall Dr",,,"Saint Peters",MO,"St. Charles County",63376,US,"TIGER/Line® dataset from the US Census Bureau"
+"290 Mid Rivers Mall Drive MO 63376",38.793643,-90.622987,1,range_interpolation,290,"Mid Rivers Mall Dr",,,"Saint Peters",MO,"St. Charles County",63376,US,"TIGER/Line® dataset from the US Census Bureau"
+"290 Mid Rivers Mall Drive MO 63376",38.793643,-90.622987,1,range_interpolation,290,"Mid Rivers Mall Dr",,,"Saint Peters",MO,"St. Charles County",63376,US,"TIGER/Line® dataset from the US Census Bureau"
+"5 W Rand Rd IL 60004",42.112531,-87.981668,1,rooftop,5,"W Rand Rd",,,"Arlington Heights",IL,"Cook County",60004,US,Cook
+"1734 W Algonquin Rd IL 60005",42.175841,-88.322258,0.9,range_interpolation,1734,"W Algonquin Rd",,,Algonquin,IL,"McHenry County",60102,US,"TIGER/Line® dataset from the US Census Bureau"
+"31 S Evergreen Ave IL 60005",42.082288,-87.980995,1,rooftop,31,"S Evergreen Ave",,,"Arlington Heights",IL,"Cook County",60005,US,Cook
+"1736 W Algonquin Rd IL 60005",42.057748,-88.005353,1,rooftop,1736,"W Algonquin Rd",,,"Arlington Heights",IL,"Cook County",60005,US,Cook
+"5 W Rand Rd IL 60004",42.112531,-87.981668,1,rooftop,5,"W Rand Rd",,,"Arlington Heights",IL,"Cook County",60004,US,Cook
+"1734 W Algonquin Rd IL 60005",42.175841,-88.322258,0.9,range_interpolation,1734,"W Algonquin Rd",,,Algonquin,IL,"McHenry County",60102,US,"TIGER/Line® dataset from the US Census Bureau"
+"31 S Evergreen Ave IL 60005",42.082288,-87.980995,1,rooftop,31,"S Evergreen Ave",,,"Arlington Heights",IL,"Cook County",60005,US,Cook
+"1736 W Algonquin Rd IL 60005",42.057748,-88.005353,1,rooftop,1736,"W Algonquin Rd",,,"Arlington Heights",IL,"Cook County",60005,US,Cook
+"2987 Kirk Road IL 60502",41.816726,-88.27881,1,rooftop,2987,"Kirk Rd",,,Aurora,IL,"Kane County",60502,US,"City of Aurora"
+"1304 Fox Valley Center IL 60504",41.75865,-88.214209,0.87,rooftop,1304,"Fox Valley Center Dr",,,Aurora,IL,"DuPage County",60504,US,"City of Aurora"
+"195 Fox Valley Ctr IL 60504",41.759739,-88.2148,1,rooftop,195,"Fox Valley Ctr",,,Aurora,IL,"DuPage County",60504,US,Dupage
+"740 N Route 59 IL 60504",41.765878,-88.206568,1,rooftop,740,"N Route 59",,,Aurora,IL,"DuPage County",60504,US,Dupage
+"1330 Orchard Rd IL 60506",41.783506,-88.376268,0.9,rooftop,1330,"N Orchard Rd",,,Aurora,IL,"Kane County",60506,US,Kane
+"2987 Kirk Road IL 60502",41.816726,-88.27881,1,rooftop,2987,"Kirk Rd",,,Aurora,IL,"Kane County",60502,US,"City of Aurora"
+"1304 Fox Valley Center IL 60504",41.75865,-88.214209,0.87,rooftop,1304,"Fox Valley Center Dr",,,Aurora,IL,"DuPage County",60504,US,"City of Aurora"
+"195 Fox Valley Ctr IL 60504",41.759739,-88.2148,1,rooftop,195,"Fox Valley Ctr",,,Aurora,IL,"DuPage County",60504,US,Dupage
+"740 N Route 59 IL 60504",41.765878,-88.206568,1,rooftop,740,"N Route 59",,,Aurora,IL,"DuPage County",60504,US,Dupage
+"1330 Orchard Rd IL 60506",41.783506,-88.376268,0.9,rooftop,1330,"N Orchard Rd",,,Aurora,IL,"Kane County",60506,US,Kane
+"370 W Army Trail Rd IL 60108",41.939131,-88.113252,1,range_interpolation,370,"W Army Trail Rd",,,Bloomingdale,IL,"DuPage County",60108,US,"TIGER/Line® dataset from the US Census Bureau"
+"905 Stratford Square Mall IL 60108",41.950022,-88.091865,0.33,place,,,,,Bloomingdale,IL,"DuPage County",60108,US,"TIGER/Line® dataset from the US Census Bureau"
+"370 W Army Trail Rd IL 60108",41.939131,-88.113252,1,range_interpolation,370,"W Army Trail Rd",,,Bloomingdale,IL,"DuPage County",60108,US,"TIGER/Line® dataset from the US Census Bureau"
+"905 Stratford Square Mall IL 60108",41.950022,-88.091865,0.33,place,,,,,Bloomingdale,IL,"DuPage County",60108,US,"TIGER/Line® dataset from the US Census Bureau"
+"1401 S Veterans Pkwy IL 61701",40.4604,-88.967461,1,rooftop,1401,"S Veterans Pkwy",,,Bloomington,IL,"McLean County",61701,US,Mclean
+"1401 N Veterans Pkwy IL 61701",40.4604,-88.967461,1,rooftop,1401,"S Veterans Pkwy",,,Bloomington,IL,"McLean County",61701,US,Mclean
+"1401 S Veterans Pkwy IL 61701",40.4604,-88.967461,1,rooftop,1401,"S Veterans Pkwy",,,Bloomington,IL,"McLean County",61701,US,Mclean
+"1401 N Veterans Pkwy IL 61701",40.4604,-88.967461,1,rooftop,1401,"S Veterans Pkwy",,,Bloomington,IL,"McLean County",61701,US,Mclean
+"714 E Boughton Rd IL 60440",41.724803,-88.037525,1,rooftop,714,"E Boughton Rd",,,Bolingbrook,IL,"Will County",60440,US,Will
+"1196 W Boughton Rd IL 60440",41.70493,-88.123183,1,rooftop,1196,"W Boughton Rd",,,Bolingbrook,IL,"Will County",60440,US,Will
+"714 E Boughton Rd IL 60440",41.724803,-88.037525,1,rooftop,714,"E Boughton Rd",,,Bolingbrook,IL,"Will County",60440,US,Will
+"1196 W Boughton Rd IL 60440",41.70493,-88.123183,1,rooftop,1196,"W Boughton Rd",,,Bolingbrook,IL,"Will County",60440,US,Will
+"1228 West Dundee Road IL 60089",42.14014,-87.987198,1,rooftop,1228,"W Dundee Rd",,,"Buffalo Grove",IL,"Cook County",60089,US,Cook
+"1228 West Dundee Road IL 60089",42.14014,-87.987198,1,rooftop,1228,"W Dundee Rd",,,"Buffalo Grove",IL,"Cook County",60089,US,Cook
+"1224 W Dundee Rd IL 60089",42.14014,-87.987027,1,rooftop,1224,"W Dundee Rd",,,"Buffalo Grove",IL,"Cook County",60089,US,Cook
+"1228 West Dundee Road IL 60089",42.14014,-87.987198,1,rooftop,1228,"W Dundee Rd",,,"Buffalo Grove",IL,"Cook County",60089,US,Cook
+"1228 West Dundee Road IL 60089",42.14014,-87.987198,1,rooftop,1228,"W Dundee Rd",,,"Buffalo Grove",IL,"Cook County",60089,US,Cook
+"1224 W Dundee Rd IL 60089",42.14014,-87.987027,1,rooftop,1224,"W Dundee Rd",,,"Buffalo Grove",IL,"Cook County",60089,US,Cook
+"1126 E Walnut St IL 62901",37.727112,-89.195296,1,range_interpolation,1126,"E Walnut St",,,Carbondale,IL,"Jackson County",62901,US,"TIGER/Line® dataset from the US Census Bureau"
+"1126 E Walnut St IL 62901",37.727112,-89.195296,1,range_interpolation,1126,"E Walnut St",,,Carbondale,IL,"Jackson County",62901,US,"TIGER/Line® dataset from the US Census Bureau"
+"510 E John St IL 61820",40.109336,-88.230856,1,rooftop,510,"E John St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"616 E Green St IL 61820",40.110436,-88.229312,1,rooftop,616,"E Green St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"1903 Convenience Pl IL 61820",40.138424,-88.243141,1,rooftop,1903,"Convenience Pl",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"1765 W Kirby Ave IL 61821",40.097835,-88.275385,1,rooftop,1765,"W Kirby Ave",,,Champaign,IL,"Champaign County",61821,US,Champaign
+"510 E John St IL 61820",40.109336,-88.230856,1,rooftop,510,"E John St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"616 E Green St IL 61820",40.110436,-88.229312,1,rooftop,616,"E Green St",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"1903 Convenience Pl IL 61820",40.138424,-88.243141,1,rooftop,1903,"Convenience Pl",,,Champaign,IL,"Champaign County",61820,US,Champaign
+"1765 W Kirby Ave IL 61821",40.097835,-88.275385,1,rooftop,1765,"W Kirby Ave",,,Champaign,IL,"Champaign County",61821,US,Champaign
+"501 South State Street IL 60605",41.875507,-87.626968,1,rooftop,501,"S State St",,,Chicago,IL,"Cook County",60605,US,"City of Chicago"
+"250 South Wacker Drive IL 60606",41.878289,-87.637229,1,rooftop,250,"S Wacker Dr",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"1101 S Canal St IL 60607",41.868494,-87.639086,1,range_interpolation,1101,"S Canal St",,,Chicago,IL,"Cook County",60607,US,"TIGER/Line® dataset from the US Census Bureau"
+"600 W Van Buren St, Ste 102 IL 60607",41.876583,-87.642497,1,range_interpolation,600,"W Van Buren St",Ste,102,Chicago,IL,"Cook County",60607,US,"TIGER/Line® dataset from the US Census Bureau"
+"635 N Fairbanks Court IL 60611",41.893519,-87.620125,1,range_interpolation,635,"N Fairbanks Ct",,,Chicago,IL,"Cook County",60611,US,"TIGER/Line® dataset from the US Census Bureau"
+"616 W Diversey Pkwy IL 60614",41.932966,-87.64402,1,range_interpolation,616,"W Diversey Pkwy",,,Chicago,IL,"Cook County",60614,US,"TIGER/Line® dataset from the US Census Bureau"
+"2070 N Clybourn Ave IL 60614",41.919285,-87.661693,1,rooftop,2070,"N Clybourn Ave",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1191 N Ogden Ave IL 60622",41.888807,-87.660666,0.6,street_center,,"N Ogden Ave",,,Chicago,IL,"Cook County",60622,US,"TIGER/Line® dataset from the US Census Bureau"
+"2314 W 95th St IL 60643",41.721558,-87.680499,1,rooftop,2314,"W 95th St",,,Chicago,IL,"Cook County",60643,US,"City of Chicago"
+"2310 W Logan Boulevard IL 60647",41.930401,-87.68656,1,rooftop,2310,"W Logan Blvd",,,Chicago,IL,"Cook County",60647,US,"City of Chicago"
+"2700 N Elston Ave IL 60647",41.930481,-87.685861,1,rooftop,2700,"N Elston Ave",,,Chicago,IL,"Cook County",60647,US,"City of Chicago"
+"6059 N Lincoln Ave IL 60659",41.99383,-87.712197,1,rooftop,6059,"N Lincoln Ave",,,Chicago,IL,"Cook County",60659,US,"City of Chicago"
+"501 South State Street IL 60605",41.875507,-87.626968,1,rooftop,501,"S State St",,,Chicago,IL,"Cook County",60605,US,"City of Chicago"
+"250 South Wacker Drive IL 60606",41.878289,-87.637229,1,rooftop,250,"S Wacker Dr",,,Chicago,IL,"Cook County",60606,US,"City of Chicago"
+"1101 S Canal St IL 60607",41.868494,-87.639086,1,range_interpolation,1101,"S Canal St",,,Chicago,IL,"Cook County",60607,US,"TIGER/Line® dataset from the US Census Bureau"
+"600 W Van Buren St, Ste 102 IL 60607",41.876583,-87.642497,1,range_interpolation,600,"W Van Buren St",Ste,102,Chicago,IL,"Cook County",60607,US,"TIGER/Line® dataset from the US Census Bureau"
+"635 N Fairbanks Court IL 60611",41.893519,-87.620125,1,range_interpolation,635,"N Fairbanks Ct",,,Chicago,IL,"Cook County",60611,US,"TIGER/Line® dataset from the US Census Bureau"
+"616 W Diversey Pkwy IL 60614",41.932966,-87.64402,1,range_interpolation,616,"W Diversey Pkwy",,,Chicago,IL,"Cook County",60614,US,"TIGER/Line® dataset from the US Census Bureau"
+"2070 N Clybourn Ave IL 60614",41.919285,-87.661693,1,rooftop,2070,"N Clybourn Ave",,,Chicago,IL,"Cook County",60614,US,"City of Chicago"
+"1191 N Ogden Ave IL 60622",41.888807,-87.660666,0.6,street_center,,"N Ogden Ave",,,Chicago,IL,"Cook County",60622,US,"TIGER/Line® dataset from the US Census Bureau"
+"2314 W 95th St IL 60643",41.721558,-87.680499,1,rooftop,2314,"W 95th St",,,Chicago,IL,"Cook County",60643,US,"City of Chicago"
+"2310 W Logan Boulevard IL 60647",41.930401,-87.68656,1,rooftop,2310,"W Logan Blvd",,,Chicago,IL,"Cook County",60647,US,"City of Chicago"
+"2700 N Elston Ave IL 60647",41.930481,-87.685861,1,rooftop,2700,"N Elston Ave",,,Chicago,IL,"Cook County",60647,US,"City of Chicago"
+"6059 N Lincoln Ave IL 60659",41.99383,-87.712197,1,rooftop,6059,"N Lincoln Ave",,,Chicago,IL,"Cook County",60659,US,"City of Chicago"
+"2165 75th St IL 60561",41.748253,-87.998482,0.85,nearest_rooftop_match,2189,"75th St",,,Darien,IL,"DuPage County",60561,US,Dupage
+"2161 75th St IL 60561",41.748253,-87.998482,0.84,nearest_rooftop_match,2189,"75th St",,,Darien,IL,"DuPage County",60561,US,Dupage
+"2165 75th St IL 60561",41.748253,-87.998482,0.85,nearest_rooftop_match,2189,"75th St",,,Darien,IL,"DuPage County",60561,US,Dupage
+"2161 75th St IL 60561",41.748253,-87.998482,0.84,nearest_rooftop_match,2189,"75th St",,,Darien,IL,"DuPage County",60561,US,Dupage
+"1211 Half Day Road IL 60015",42.199469,-87.86057,1,rooftop,1211,"Half Day Rd",,,Deerfield,IL,"Lake County",60015,US,Lake
+"1211 Half Day Road IL 60015",42.199469,-87.86057,1,rooftop,1211,"Half Day Rd",,,Deerfield,IL,"Lake County",60015,US,Lake
+"2001 Milwaukee Ave IL 60015",42.169422,-87.921546,1,rooftop,2001,"Milwaukee Ave",,,Deerfield,IL,"Lake County",60015,US,Lake
+"2001 Milwaukee Ave IL 60015",42.169422,-87.921546,1,rooftop,2001,"Milwaukee Ave",,,Deerfield,IL,"Lake County",60015,US,Lake
+"190 Waukegan Rd IL 60015",42.155453,-87.837966,1,rooftop,190,"Waukegan Rd",,,Deerfield,IL,"Lake County",60015,US,Lake
+"1211 Half Day Road IL 60015",42.199469,-87.86057,1,rooftop,1211,"Half Day Rd",,,Deerfield,IL,"Lake County",60015,US,Lake
+"1211 Half Day Road IL 60015",42.199469,-87.86057,1,rooftop,1211,"Half Day Rd",,,Deerfield,IL,"Lake County",60015,US,Lake
+"2001 Milwaukee Ave IL 60015",42.169422,-87.921546,1,rooftop,2001,"Milwaukee Ave",,,Deerfield,IL,"Lake County",60015,US,Lake
+"2001 Milwaukee Ave IL 60015",42.169422,-87.921546,1,rooftop,2001,"Milwaukee Ave",,,Deerfield,IL,"Lake County",60015,US,Lake
+"190 Waukegan Rd IL 60015",42.155453,-87.837966,1,rooftop,190,"Waukegan Rd",,,Deerfield,IL,"Lake County",60015,US,Lake
+"1518 Market St IL 60016",42.042341,-87.885141,1,rooftop,1518,"Market St",,,"Des Plaines",IL,"Cook County",60016,US,Cook
+"500 E Touhy Ave IL 60018",42.009623,-87.911123,1,rooftop,500,"E Touhy Ave",,,"Des Plaines",IL,"Cook County",60018,US,Cook
+"1518 Market St IL 60016",42.042341,-87.885141,1,rooftop,1518,"Market St",,,"Des Plaines",IL,"Cook County",60016,US,Cook
+"500 E Touhy Ave IL 60018",42.009623,-87.911123,1,rooftop,500,"E Touhy Ave",,,"Des Plaines",IL,"Cook County",60018,US,Cook
+"1400 Butterfield Rd IL 60515",41.83421,-88.020217,1,range_interpolation,1400,"Butterfield Rd",,,"Downers Grove",IL,"DuPage County",60515,US,"TIGER/Line® dataset from the US Census Bureau"
+"160 Ogden Ave IL 60515",41.810028,-87.98994,1,rooftop,160,"Ogden Ave",,,"Downers Grove",IL,"DuPage County",60515,US,Dupage
+"1400 Butterfield Rd IL 60515",41.83421,-88.020217,1,range_interpolation,1400,"Butterfield Rd",,,"Downers Grove",IL,"DuPage County",60515,US,"TIGER/Line® dataset from the US Census Bureau"
+"160 Ogden Ave IL 60515",41.810028,-87.98994,1,rooftop,160,"Ogden Ave",,,"Downers Grove",IL,"DuPage County",60515,US,Dupage
+"North And York Rd IL 60126",41.88353,-87.946413,0.67,place,,,,,Elmhurst,IL,"DuPage County",60126,US,"TIGER/Line® dataset from the US Census Bureau"
+"108 W North Ave IL 60126",41.906107,-87.940163,1,range_interpolation,108,"W North Ave",,,Elmhurst,IL,"DuPage County",60126,US,"TIGER/Line® dataset from the US Census Bureau"
+"North And York Rd IL 60126",41.88353,-87.946413,0.67,place,,,,,Elmhurst,IL,"DuPage County",60126,US,"TIGER/Line® dataset from the US Census Bureau"
+"108 W North Ave IL 60126",41.906107,-87.940163,1,range_interpolation,108,"W North Ave",,,Elmhurst,IL,"DuPage County",60126,US,"TIGER/Line® dataset from the US Census Bureau"
+"7400 W North Ave IL 60707",41.908645,-87.810653,1,range_interpolation,7400,"W North Ave",,,"Elmwood Park",IL,"Cook County",60707,US,"TIGER/Line® dataset from the US Census Bureau"
+"7330 W North Ave IL 60707",41.908973,-87.80954,1,range_interpolation,7330,"W North Ave",,,"Elmwood Park",IL,"Cook County",60707,US,"TIGER/Line® dataset from the US Census Bureau"
+"7400 W North Ave IL 60707",41.908645,-87.810653,1,range_interpolation,7400,"W North Ave",,,"Elmwood Park",IL,"Cook County",60707,US,"TIGER/Line® dataset from the US Census Bureau"
+"7330 W North Ave IL 60707",41.908973,-87.80954,1,range_interpolation,7330,"W North Ave",,,"Elmwood Park",IL,"Cook County",60707,US,"TIGER/Line® dataset from the US Census Bureau"
+"5917 N Illinois St IL 62208",38.585846,-89.984991,1,range_interpolation,5917,"N Illinois St",,,"Fairview Heights",IL,"St. Clair County",62208,US,"TIGER/Line® dataset from the US Census Bureau"
+"226 Saint Clair Sq IL 62208",38.595,-89.982846,1,range_interpolation,226,"St Clair Sq",,,"Fairview Heights",IL,"St. Clair County",62208,US,"TIGER/Line® dataset from the US Census Bureau"
+"5917 N Illinois St IL 62208",38.585846,-89.984991,1,range_interpolation,5917,"N Illinois St",,,"Fairview Heights",IL,"St. Clair County",62208,US,"TIGER/Line® dataset from the US Census Bureau"
+"226 Saint Clair Sq IL 62208",38.595,-89.982846,1,range_interpolation,226,"St Clair Sq",,,"Fairview Heights",IL,"St. Clair County",62208,US,"TIGER/Line® dataset from the US Census Bureau"
+"435 N La Grange Rd IL 60526",41.822625,-87.870701,0.9,range_interpolation,435,"N La Grange Rd",,,"La Grange Park",IL,"Cook County",60526,US,"TIGER/Line® dataset from the US Census Bureau"
+"439 North La Grange Road IL 60526",41.822646,-87.870729,0.9,range_interpolation,439,"N La Grange Rd",,,"La Grange Park",IL,"Cook County",60526,US,"TIGER/Line® dataset from the US Census Bureau"
+"435 N La Grange Rd IL 60526",41.822625,-87.870701,0.9,range_interpolation,435,"N La Grange Rd",,,"La Grange Park",IL,"Cook County",60526,US,"TIGER/Line® dataset from the US Census Bureau"
+"439 North La Grange Road IL 60526",41.822646,-87.870729,0.9,range_interpolation,439,"N La Grange Rd",,,"La Grange Park",IL,"Cook County",60526,US,"TIGER/Line® dataset from the US Census Bureau"
+"830 S Milwaukee Ave IL 60048",42.274269,-87.950564,1,rooftop,830,"S Milwaukee Ave",,,Libertyville,IL,"Lake County",60048,US,Lake
+"832 N Milwaukee Ave IL 60048",42.292191,-87.954611,1,rooftop,832,"N Milwaukee Ave",,,Libertyville,IL,"Lake County",60048,US,Lake
+"830 S Milwaukee Ave IL 60048",42.274269,-87.950564,1,rooftop,830,"S Milwaukee Ave",,,Libertyville,IL,"Lake County",60048,US,Lake
+"832 N Milwaukee Ave IL 60048",42.292191,-87.954611,1,rooftop,832,"N Milwaukee Ave",,,Libertyville,IL,"Lake County",60048,US,Lake
+"1191 E Ogden Ave IL 60563",41.79611,-88.124133,1,rooftop,1191,"E Ogden Ave",,,Naperville,IL,"DuPage County",60563,US,Ingham
+"2775 Show Place Dr IL 60564",41.681479,-88.201424,0.22,place,,,,,Naperville,IL,"Will County",60564,US,"TIGER/Line® dataset from the US Census Bureau"
+"2775 Showplace Drive IL 60564",41.713535,-88.207627,1,rooftop,2775,"Showplace Dr",,,Naperville,IL,"Will County",60564,US,Ingham
+"1191 E Ogden Ave IL 60563",41.79611,-88.124133,1,rooftop,1191,"E Ogden Ave",,,Naperville,IL,"DuPage County",60563,US,Ingham
+"2775 Show Place Dr IL 60564",41.681479,-88.201424,0.22,place,,,,,Naperville,IL,"Will County",60564,US,"TIGER/Line® dataset from the US Census Bureau"
+"2775 Showplace Drive IL 60564",41.713535,-88.207627,1,rooftop,2775,"Showplace Dr",,,Naperville,IL,"Will County",60564,US,Ingham
+"9400 North Milwaukee Avenue IL 60714",42.050393,-87.834538,1,range_interpolation,9400,"N Milwaukee Ave",,,Niles,IL,"Cook County",60714,US,"TIGER/Line® dataset from the US Census Bureau"
+"9465 N Milwaukee Ave IL 60714",42.052908,-87.835291,1,rooftop,9465,"N Milwaukee Ave",,,Niles,IL,"Cook County",60714,US,Cook
+"7023 W Dempster St IL 60714",42.040262,-87.802136,0.8,rooftop,7023,"Dempster St",,,Niles,IL,"Cook County",60714,US,Cook
+"9400 North Milwaukee Avenue IL 60714",42.050393,-87.834538,1,range_interpolation,9400,"N Milwaukee Ave",,,Niles,IL,"Cook County",60714,US,"TIGER/Line® dataset from the US Census Bureau"
+"9465 N Milwaukee Ave IL 60714",42.052908,-87.835291,1,rooftop,9465,"N Milwaukee Ave",,,Niles,IL,"Cook County",60714,US,Cook
+"7023 W Dempster St IL 60714",42.040262,-87.802136,0.8,rooftop,7023,"Dempster St",,,Niles,IL,"Cook County",60714,US,Cook
+"3120 Green Mt Crossing Dr IL 62269",38.574107,-89.928009,0.86,nearest_rooftop_match,3140,"Green Mt Crossing Dr",,,O'fallon,IL,"St. Clair County",62269,US,"St Clair"
+"3120 Green Mt Crossing Dr IL 62269",38.574107,-89.928009,0.86,nearest_rooftop_match,3140,"Green Mt Crossing Dr",,,O'fallon,IL,"St. Clair County",62269,US,"St Clair"
+"15845 S Harlem Ave IL 60462",41.603282,-87.794037,1,range_interpolation,15845,"S Harlem Ave",,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"9505 W 142nd St IL 60462",41.632342,-87.851677,0.8,rooftop,9505,"142nd St",,,"Orland Park",IL,"Cook County",60462,US,Cook
+"W 142nd St IL 60462",41.633253,-87.830431,0.6,street_center,,"142nd St",,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"534 Orland Square Dr IL 60462",41.620787,-87.852544,1,range_interpolation,534,"Orland Square Dr",,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"15252 S La Grange Rd IL 60462",41.625307,-87.83293,0.22,place,,,,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"15845 S Harlem Ave IL 60462",41.603282,-87.794037,1,range_interpolation,15845,"S Harlem Ave",,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"9505 W 142nd St IL 60462",41.632342,-87.851677,0.8,rooftop,9505,"142nd St",,,"Orland Park",IL,"Cook County",60462,US,Cook
+"W 142nd St IL 60462",41.633253,-87.830431,0.6,street_center,,"142nd St",,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"534 Orland Square Dr IL 60462",41.620787,-87.852544,1,range_interpolation,534,"Orland Square Dr",,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"15252 S La Grange Rd IL 60462",41.625307,-87.83293,0.22,place,,,,,"Orland Park",IL,"Cook County",60462,US,"TIGER/Line® dataset from the US Census Bureau"
+"1101 W Bird Blvd IL 61615",40.796167,-89.61183,1,range_interpolation,1101,"W Bird Blvd",,,Peoria,IL,"Peoria County",61615,US,"TIGER/Line® dataset from the US Census Bureau"
+"2601 W Lake Ave IL 61615",40.739601,-89.636893,1,range_interpolation,2601,"W Lake Ave",,,Peoria,IL,"Peoria County",61615,US,"TIGER/Line® dataset from the US Census Bureau"
+"2515 West Lake Avenue IL 61615",40.739742,-89.638018,0.9,range_interpolation,2515,"W Lake Ave",,,Peoria,IL,"Peoria County",61615,US,"TIGER/Line® dataset from the US Census Bureau"
+"1101 W Bird Blvd IL 61615",40.796167,-89.61183,1,range_interpolation,1101,"W Bird Blvd",,,Peoria,IL,"Peoria County",61615,US,"TIGER/Line® dataset from the US Census Bureau"
+"2601 W Lake Ave IL 61615",40.739601,-89.636893,1,range_interpolation,2601,"W Lake Ave",,,Peoria,IL,"Peoria County",61615,US,"TIGER/Line® dataset from the US Census Bureau"
+"2515 West Lake Avenue IL 61615",40.739742,-89.638018,0.9,range_interpolation,2515,"W Lake Ave",,,Peoria,IL,"Peoria County",61615,US,"TIGER/Line® dataset from the US Census Bureau"
+"2360 Il-59 IL 60544",41.630938,-88.202739,0.8,range_interpolation,2360,"State Rte 59",,,Plainfield,IL,"Will County",60586,US,"TIGER/Line® dataset from the US Census Bureau"
+"12632 South Route 59 IL 60544",41.632457,-88.169698,0.33,place,,,,,Plainfield,IL,"Will County",60544,US,"TIGER/Line® dataset from the US Census Bureau"
+"4722 Caton Farm Road IL 60586",41.564692,-88.199496,1,rooftop,4722,"Caton Farm Rd",,,Plainfield,IL,"Will County",60586,US,Will
+"2360 Il-59 IL 60544",41.630938,-88.202739,0.8,range_interpolation,2360,"State Rte 59",,,Plainfield,IL,"Will County",60586,US,"TIGER/Line® dataset from the US Census Bureau"
+"12632 South Route 59 IL 60544",41.632457,-88.169698,0.33,place,,,,,Plainfield,IL,"Will County",60544,US,"TIGER/Line® dataset from the US Census Bureau"
+"4722 Caton Farm Road IL 60586",41.564692,-88.199496,1,rooftop,4722,"Caton Farm Rd",,,Plainfield,IL,"Will County",60586,US,Will
+"2970 Us-34 IL 60548",41.644728,-88.617585,0.6,street_center,,"US Hwy 34",,,Sandwich,IL,"DeKalb County",60548,US,"TIGER/Line® dataset from the US Census Bureau"
+"2970 Us-34 IL 60548",41.644728,-88.617585,0.6,street_center,,"US Hwy 34",,,Sandwich,IL,"DeKalb County",60548,US,"TIGER/Line® dataset from the US Census Bureau"
+"Us-34 IL 60548",41.644728,-88.617585,1,street_center,,"US Hwy 34",,,Sandwich,IL,"DeKalb County",60548,US,"TIGER/Line® dataset from the US Census Bureau"
+"2970 Us-34 IL 60548",41.644728,-88.617585,0.6,street_center,,"US Hwy 34",,,Sandwich,IL,"DeKalb County",60548,US,"TIGER/Line® dataset from the US Census Bureau"
+"2970 Us-34 IL 60548",41.644728,-88.617585,0.6,street_center,,"US Hwy 34",,,Sandwich,IL,"DeKalb County",60548,US,"TIGER/Line® dataset from the US Census Bureau"
+"Us-34 IL 60548",41.644728,-88.617585,1,street_center,,"US Hwy 34",,,Sandwich,IL,"DeKalb County",60548,US,"TIGER/Line® dataset from the US Census Bureau"
+"622 E Golf Rd IL 60173",42.05057,-88.065167,1,rooftop,622,"E Golf Rd",,,Schaumburg,IL,"Cook County",60173,US,"City of Schaumburg"
+"1140 N Plaza Dr IL 60173",42.049518,-88.043416,1,range_interpolation,1140,"N Plaza Dr",,,Schaumburg,IL,"Cook County",60173,US,"TIGER/Line® dataset from the US Census Bureau"
+"2415 W Schaumburg Rd IL 60194",42.024503,-88.14043,1,rooftop,2415,"W Schaumburg Rd",,,Schaumburg,IL,"Cook County",60194,US,"City of Schaumburg"
+"622 E Golf Rd IL 60173",42.05057,-88.065167,1,rooftop,622,"E Golf Rd",,,Schaumburg,IL,"Cook County",60173,US,"City of Schaumburg"
+"1140 N Plaza Dr IL 60173",42.049518,-88.043416,1,range_interpolation,1140,"N Plaza Dr",,,Schaumburg,IL,"Cook County",60173,US,"TIGER/Line® dataset from the US Census Bureau"
+"2415 W Schaumburg Rd IL 60194",42.024503,-88.14043,1,rooftop,2415,"W Schaumburg Rd",,,Schaumburg,IL,"Cook County",60194,US,"City of Schaumburg"
+"5508 Touhy Avenue IL 60077",42.012064,-87.76505,1,range_interpolation,5508,"Touhy Ave",,,Skokie,IL,"Cook County",60077,US,"TIGER/Line® dataset from the US Census Bureau"
+"9611 Skokie Blvd IL 60077",42.055695,-87.746156,0.95,rooftop,9611,"Skokie Blvd",,,Skokie,IL,"Cook County",60076,US,Cook
+"5508 Touhy Avenue IL 60077",42.012064,-87.76505,1,range_interpolation,5508,"Touhy Ave",,,Skokie,IL,"Cook County",60077,US,"TIGER/Line® dataset from the US Census Bureau"
+"9611 Skokie Blvd IL 60077",42.055695,-87.746156,0.95,rooftop,9611,"Skokie Blvd",,,Skokie,IL,"Cook County",60076,US,Cook
+"2484 Randall Rd IL 60177",42.091921,-88.336111,0.7,rooftop,2484,"N Randall Rd",,,Elgin,IL,"Kane County",60123,US,Kane
+"369 Randall Road IL 60177",41.995561,-88.338172,1,range_interpolation,369,"Randall Rd",,,"South Elgin",IL,"Kane County",60177,US,"TIGER/Line® dataset from the US Census Bureau"
+"2484 Randall Rd IL 60177",42.091921,-88.336111,0.7,rooftop,2484,"N Randall Rd",,,Elgin,IL,"Kane County",60123,US,Kane
+"369 Randall Road IL 60177",41.995561,-88.338172,1,range_interpolation,369,"Randall Rd",,,"South Elgin",IL,"Kane County",60177,US,"TIGER/Line® dataset from the US Census Bureau"
+"3019 S Dirksen Pkwy IL 62703",39.762349,-89.607402,1,range_interpolation,3019,"S Dirksen Pkwy",,,Springfield,IL,"Sangamon County",62703,US,"TIGER/Line® dataset from the US Census Bureau"
+"3101 W White Oaks Dr IL 62704",39.763116,-89.709729,1,range_interpolation,3101,"W White Oaks Dr",,,Springfield,IL,"Sangamon County",62704,US,"TIGER/Line® dataset from the US Census Bureau"
+"3019 S Dirksen Pkwy IL 62703",39.762349,-89.607402,1,range_interpolation,3019,"S Dirksen Pkwy",,,Springfield,IL,"Sangamon County",62703,US,"TIGER/Line® dataset from the US Census Bureau"
+"3101 W White Oaks Dr IL 62704",39.763116,-89.709729,1,range_interpolation,3101,"W White Oaks Dr",,,Springfield,IL,"Sangamon County",62704,US,"TIGER/Line® dataset from the US Census Bureau"
+"700 N Milwaukee Ave IL 60061",42.237571,-87.946711,1,rooftop,700,"N Milwaukee Ave",,,"Vernon Hills",IL,"Lake County",60061,US,Lake
+"447 N Milwaukee Ave IL 60061",42.234344,-87.942566,1,rooftop,447,"N Milwaukee Ave",,,"Vernon Hills",IL,"Lake County",60061,US,Lake
+"700 N Milwaukee Ave IL 60061",42.237571,-87.946711,1,rooftop,700,"N Milwaukee Ave",,,"Vernon Hills",IL,"Lake County",60061,US,Lake
+"447 N Milwaukee Ave IL 60061",42.234344,-87.942566,1,rooftop,447,"N Milwaukee Ave",,,"Vernon Hills",IL,"Lake County",60061,US,Lake
