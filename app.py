@@ -10,15 +10,20 @@ import pprint
 import joblib
 import pickle
 import os
+from schema import create_classes
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
+from flask_sqlalchemy import SQLAlchemy
 
 #set up app
 app = Flask(__name__)
 
+app.config['JSON_SORT_KEYS'] = False
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '').replace('postgres://', 'postgresql://') or "sqlite:///db.sqlite"
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 #set up routes
 @app.route("/")
 def home():
