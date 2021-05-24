@@ -140,25 +140,25 @@
 				  <table id="customer-table" class="table table-striped">
 					<thead>
 					  <tr>
-						<th class="table-head">Name</th>
-						<th class="table-head">Customer_id</th>
-						<th class="table-head">Gender</th>
-						<th class="table-head">Age</th>
-						<th class="table-head">Income</th>
-						<th class="table-head">Offer</th>
-						<th class="table-head">Membership_date</th>
+						<th class="table-head">Offer ID</th>
+						<th class="table-head">Reward</th>
+						<th class="table-head">Channels</th>
+						<th class="table-head">Difficulty</th>
+						<th class="table-head">Duration</th>
+						<th class="table-head">Offer Type</th>
+						<th class="table-head">Completed: Y/N</th>
 					  </tr>
 					</thead>
 					<tbody>
-						{% for row in table_data %}
+						{% for row in final_df %}
 						<tr>
-						  <td>{{ row['name'] }}</td>
-						  <td>{{ row['customer_id'] }}</td>
-						  <td>{{ row['gender'] }}</td>
-						  <td>{{ row['age'] }}</td>
-						  <td>{{ row['income'] }}</td>
-						  <td>{{ row['offer'] }}</td>
-						  <td>{{ row['membership_date'] }}</td>
+						  <td>{{ row['offer_id'] }}</td>
+						  <td>{{ row['reward'] }}</td>
+						  <td>{{ row['channels'] }}</td>
+						  <td>{{ row['difficulty'] }}</td>
+						  <td>{{ row['duration'] }}</td>
+						  <td>{{ row['offer_type'] }}</td>
+						  <td>{{ row['offer_completed_y_n'] }}</td>
 						</tr>
 					{% endfor %}
 					</tbody>

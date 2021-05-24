@@ -36,20 +36,23 @@ def about():
 @app.route("/model", methods=["GET", "POST"])
 def send():
     
+    
+    
     #postgres form setup and table vars
     if request.method == "POST":
         #get info from forms
         gender = request.form["gender"]
         income=request.form["income"]
         
+        
 # Opening JSON file
-f = open('Resources\models_kelly\encoding_keys\offers_encoded.json')
+        f = open('Resources\models_kelly\encoding_keys\offers_encoded.json')
   
 # returns JSON object as a dictionary
-data = json.load(f)
-def decode(dictionary):
-    dictionary['offer_id'] = dictionary['offer_id'].map({8:'Offer 7: The Americano',
-                             2:'Offer 2: The Cold Brew',
+        data = json.load(f)
+        def decode(dictionary):
+            dictionary['offer_id'] = dictionary['offer_id'].map({8:'Offer 7: The Americano',
+                            2:'Offer 2: The Cold Brew',
                             1:'Offer 8: The Espresso',
                             3:'Offer 6: The Pourover',
                             0:'Offer 9: The Macchiato',
@@ -59,40 +62,43 @@ def decode(dictionary):
                             7:'Offer 10: The Cappuccino',
                             6:'Offer 1: The Doppio'},
                              na_action=None)
-    dictionary['gender'] = dictionary['gender'].map({0:'M',
+            dictionary['gender'] = dictionary['gender'].map({0:'M',
                                                     1: 'O',
                                                     2: 'F'})
-    dictionary['channels'] = dictionary['channels'].map({1: "email, mobile, social",
+            dictionary['channels'] = dictionary['channels'].map({1: "email, mobile, social",
                                                          3: "web, email, mobile",
                                                          0: "web, email, mobile, social",
                                                          2: "web, email"})
-    dictionary['offer_type'] = dictionary['offer_type'].map({1: "informational",
+            dictionary['offer_type'] = dictionary['offer_type'].map({1: "informational",
                                                             2: "bogo",
                                                             0: "discount"})
-    dictionary['offer_completed_y_n'] = dictionary['offer_completed_y_n'].map({0:"Yes",
+            dictionary['offer_completed_y_n'] = dictionary['offer_completed_y_n'].map({0:"Yes",
                                                                         1: "No"})
-    global decoded_predictions
-    decoded_predictions = decoded_predictions.append(dictionary)
-    final_df = decoded_predictions.sort_values('offer_completed_y_n', ascending = False).drop(['gender', 'income'], axis=1)
-    return final_df.to_html(header="true", table_di = table)
+            decoded_predictions = pd.DataFrame(columns = ["offer_id", "gender", "income", "reward", "channels", "difficulty", "duration", "offer_type"])
+            decoded_predictions = decoded_predictions.append(dictionary)
+            global final_df
+            final_df = decoded_predictions.sort_values('offer_completed_y_n', ascending = False).drop(['gender', 'income'], axis=1)
+            return final_df
 
-g = gender
-i = int(income)
+        g = gender
+        i = int(income)
 
-def predictions():
-    for dictionary in data:
-        dictionary.update(gender = g, income = i,)
-        complete_df = pd.DataFrame(dictionary, index=[0])[["offer_id", "gender", "income", "reward", "channels", "difficulty", "duration", "offer_type"]]
-        complete_score = int(complete_knn.predict(complete_df))
-        dictionary['offer_completed_y_n'] = complete_score
-        new_dict = pd.DataFrame(dictionary, index=[0])
-        decode(new_dict)
+        def predictions():
+            complete_knn= joblib.load('Resources/models_kelly/complete_offer.pkl')
+            for dictionary in data:
+                dictionary.update(gender = g, income = i,)
+                complete_df = pd.DataFrame(dictionary, index=[0])[["offer_id", "gender", "income", "reward", "channels", "difficulty", "duration", "offer_type"]]
+                complete_score = int(complete_knn.predict(complete_df))
+                dictionary['offer_completed_y_n'] = complete_score
+                new_dict = pd.DataFrame(dictionary, index=[0])
+                decode(new_dict)
 
-predictions()
-f.close()
+        predictions()
+        f.close()
+        
          
         
-    # return render_template("model.html",table_data=table_data)
+    return render_template("model.html",final_df=final_df)
 
 @app.route('/interviews/benfierce')
 def ben():
