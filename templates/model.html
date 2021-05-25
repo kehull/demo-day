@@ -54,7 +54,7 @@
 			<div class="container">
 				<div class="row align-items-center justify-content-between d-flex">
 				  <div id="logo">
-					<a href="/"><img src="img/logo.png" alt="" title="" /></a>
+					<a href="/"><img src="static/img/logo.png" alt="" title="" /></a>
 				  </div>
 				  <nav id="nav-menu-container">
 					<ul class="nav-menu">
@@ -102,15 +102,15 @@
 			<section class="filters">
 				<div class="row">
 					<div class="col-md-offset-2 col-md-12">
-						<form method="POST" role="form", name="petform">
+						<form method="POST" role="form", name="gender">
 							<div class="form-group">
 								<label for="inputLat">Gender</label>
-								<div class="form-select" id="default-select"">
+								<div class="form-select" id="default-select">
 									<select>
-										<option value="1">Select a Gender:</option>
-										<option value="1">Female</option>
-										<option value="1">Male</option>
-										<option value="1">Other</option>
+										<option>Select a Gender:</option>
+										<option value=2>F</option>
+										<option value=0>M</option>
+										<option value=1>O</option>
 									</select>
 								</div>
 							</div>
@@ -150,7 +150,7 @@
 					  </tr>
 					</thead>
 					<tbody>
-						{% for row in final_df %}
+						{% for row in table_data %}
 						<tr>
 						  <td>{{ row['offer_id'] }}</td>
 						  <td>{{ row['reward'] }}</td>

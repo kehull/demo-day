@@ -25,6 +25,11 @@ app.config['JSON_SORT_KEYS'] = False
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '').replace('postgres://', 'postgresql://') or "sqlite:///db.sqlite"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 #set up routes
+db = SQLAlchemy(app)
+
+Customer = create_classes(db)
+
+table_data=[]
 @app.route("/")
 def home():
     return render_template("index.html")
@@ -33,9 +38,10 @@ def home():
 def about():
     return render_template("about.html")
 
-@app.route("/model", methods=["GET", "POST"])
+@app.route("/model", methods=["GET","POST"])
 def send():
-    final_df=[]
+    global table_data
+    table_data=table_data
     
     
     
@@ -49,59 +55,75 @@ def send():
         
 # Opening JSON file
         f = open('Resources\models_kelly\encoding_keys\offers_encoded.json')
+        g = str(gender)
+        i = float(income) 
   
 # returns JSON object as a dictionary
+        complete_knn= joblib.load('Resources/models_kelly/complete_offer.pkl')
         data = json.load(f)
-        def decode(dictionary):
-            dictionary['offer_id'] = dictionary['offer_id'].map({8:'Offer 7: The Americano',
-                            2:'Offer 2: The Cold Brew',
-                            1:'Offer 8: The Espresso',
-                            3:'Offer 6: The Pourover',
-                            0:'Offer 9: The Macchiato',
-                            5:'Offer 5: The French Press',
-                            4:'Offer 4: The Mocha',
-                            9:'Offer 3: The Latte',
-                            7:'Offer 10: The Cappuccino',
-                            6:'Offer 1: The Doppio'},
-                             na_action=None)
-            dictionary['gender'] = dictionary['gender'].map({0:'M',
-                                                    1: 'O',
-                                                    2: 'F'})
-            dictionary['channels'] = dictionary['channels'].map({1: "email, mobile, social",
-                                                         3: "web, email, mobile",
-                                                         0: "web, email, mobile, social",
-                                                         2: "web, email"})
-            dictionary['offer_type'] = dictionary['offer_type'].map({1: "informational",
-                                                            2: "bogo",
-                                                            0: "discount"})
-            dictionary['offer_completed_y_n'] = dictionary['offer_completed_y_n'].map({0:"Yes",
-                                                                        1: "No"})
-            decoded_predictions = pd.DataFrame(columns = ["offer_id", "gender", "income", "reward", "channels", "difficulty", "duration", "offer_type"])
-            decoded_predictions = decoded_predictions.append(dictionary)
-            global final_df
-            final_df = decoded_predictions.sort_values('offer_completed_y_n', ascending = False).drop(['gender', 'income'], axis=1)
-            return final_df
-
-        g = gender
-        i = int(income)
-
-        def predictions():
-            complete_knn= joblib.load('Resources/models_kelly/complete_offer.pkl')
-            for dictionary in data:
-                dictionary.update(gender = g, income = i,)
-                complete_df = pd.DataFrame(dictionary, index=[0])[["offer_id", "gender", "income", "reward", "channels", "difficulty", "duration", "offer_type"]]
-                complete_score = int(complete_knn.predict(complete_df))
-                dictionary['offer_completed_y_n'] = complete_score
-                new_dict = pd.DataFrame(dictionary, index=[0])
-                decode(new_dict)
-
-        predictions()
-        print(final_df)
+        for dictionary in data:
+            dictionary.update(gender = g, income = i,)
+            model_data = dictionary[["offer_id", "gender", "income", "reward", "channels", "difficulty", "duration", "offer_type"]]
+            complete_score = int(complete_knn.predict(model_data))
+            dictionary['offer_completed_y_n']=complete_score
+            if dictionary['offer_id'] ==8:
+                dictionary['offer_id']='Offer 7: The Americano'
+            elif dictionary['offer_id']==2:
+                dictionary['offer_id']='Offer 2: The Cold Brew'
+            elif dictionary['offer_id']==1:
+                dictionary['offer_id']='Offer 8: The Espresso'
+            elif dictionary['offer_id']==3:
+                dictionary['offer_id']='Offer 6: The Pourover'
+            elif dictionary['offer_id']==0:
+                dictionary['offer_id']='Offer 9: The Macchiato'
+            elif dictionary['offer_id']==5:
+                dictionary['offer_id']='Offer 5: The French Press'
+            elif dictionary['offer_id']==4:
+                dictionary['offer_id']='Offer 4: The Mocha'
+            elif dictionary['offer_id']==9:
+                dictionary['offer_id']='Offer 3: The Latte'
+            elif dictionary['offer_id']==7:
+                dictionary['offer_id']='Offer 10: The Cappuccino'
+            else:
+                dictionary['offer_id']='Offer 1: The Doppio'
+                             
+            if dictionary['gender'] ==0:
+                dictionary['gender']='M'
+            elif dictionary['gender']==1:
+                dictionary['gender']='O'
+            else:
+                 dictionary['gender']='F'
+            
+            if dictionary['channels'] ==1: 
+                dictionary["channels"]="email, mobile, social"
+            elif dictionary['channels']==3: 
+                dictionary['channels']="web, email, mobile"
+            elif dictionary['channels']==0: 
+                dictionary['channels']="web, email, mobile, social"
+            else:
+                dictionary["channels"]="web, email"
+            
+            
+            if dictionary['offer_type'] ==1: 
+                dictionary['offer_type']="informational"
+            elif dictionary['offer_type']==2: 
+                dictionary['offer_type']="bogo"
+            else:
+                dictionary['offer_type']="discount"
+            
+            if dictionary['offer_completed_y_n'] ==0:
+                dictionary['offer_completed_y_n']="Yes"
+            else:
+                dictionary['offer_completed_y_n']="No"
+            customer=Customer(offer_id=dictionary['offer_id'],reward=dictionary['reward'],channels=dictionary['channels'],difficulty=dictionary['difficulty'],duration=dictionary['duration'],offer_type=dictionary['offer_type'],offer_completed=dictionary['offer_completed_y_n'])
+            db.session.add(customer)
+            db.session.commit()                                                            
+            table_data.append(dictionary)
         f.close()
         
          
         
-    return render_template("model.html",final_df=final_df)
+    return render_template("model.html",table_data=table_data)
 
 @app.route('/interviews/benfierce')
 def ben():
