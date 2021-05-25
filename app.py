@@ -35,6 +35,8 @@ def about():
 
 @app.route("/model", methods=["GET", "POST"])
 def send():
+    final_df=[]
+    
     
     
     
