@@ -3,13 +3,11 @@ def create_classes(db):
         __tablename__ = 'customer'
 
         id = db.Column(db.Integer, primary_key=True)
-        offer_id = db.Column(db.VARCHAR)
-        reward=db.Column(db.Integer)
-        channels=db.Column(db.String)
-        difficulty=db.Column(db.Integer)
-        duration=db.Column(db.Integer)
-        offer_type=db.Column(db.String)
-        offer_completed=db.Column(db.String)
+        customer_id = db.Column(db.VARCHAR)
+        gender=db.Column(db.String)
+        income=db.Column(db.Float)
+        membership_date=db.Column(db.VARCHAR)
+        
 
 
         def __repr__(self):

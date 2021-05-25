@@ -5,6 +5,9 @@ from flask import (
     render_template,
     request,
     redirect)
+import datetime as dt
+import uuid
+from schema import create_classes
 import json
 import pprint
 import joblib
@@ -25,9 +28,9 @@ app.config['JSON_SORT_KEYS'] = False
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '').replace('postgres://', 'postgresql://') or "sqlite:///db.sqlite"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 #set up routes
-# db = SQLAlchemy(app)
+db = SQLAlchemy(app)
 
-# Customer = create_classes(db)
+Customer = create_classes(db)
 
 
 @app.route("/")
@@ -67,6 +70,8 @@ def send():
         complete_knn= joblib.load('Resources/models_kelly/complete_offer.pkl')
         data = json.load(f)
         for dictionary in data:
+            customer_id=uuid.uuid4().hex
+            date=dt.datetime.today().strftime('%Y%m%d')
             dictionary.update(gender = g, income = i,)
             model_data=[[dictionary['offer_id'],dictionary['gender'],dictionary['income'],dictionary['reward'],dictionary['channels'],dictionary['difficulty'],dictionary['duration'],dictionary['offer_type']]]
             complete_score = int(complete_knn.predict(model_data))
@@ -120,9 +125,9 @@ def send():
                 dictionary['offer_completed_y_n']="Yes"
             else:
                 dictionary['offer_completed_y_n']="No"
-            # customer=Customer(offer_id=dictionary['offer_id'],reward=dictionary['reward'],channels=dictionary['channels'],difficulty=dictionary['difficulty'],duration=dictionary['duration'],offer_type=dictionary['offer_type'],offer_completed=dictionary['offer_completed_y_n'])
-            # db.session.add(customer)
-            # db.session.commit()                                                            
+            customer=Customer(customer_id=customer_id,gender=dictionary['gender'],income=dictionary['income'],membership_date=date)
+            db.session.add(customer)
+            db.session.commit()                                                            
             table_data.append(dictionary)
         f.close()
         
@@ -149,6 +154,27 @@ def delmar():
 @app.route('/casestudy/showme')
 def showme():
     return render_template('showme.html')
+
+@app.route('/customer/api')
+def customer():
+    #set up api
+    #query from db
+    results = db.session.query(Customer.customer_id, Customer.gender,Customer.income,Customer.membership_date).all()
+    #set up list of dictonaries to store end result
+    customer_data = {"customer_data":[]}
+    #loop through results and create dictionary
+    for customer_id,gender,income,offer,membership_date in results:
+
+        test_data = {
+            
+            "customer_id": customer_id,
+            "gender": gender,
+            "income": income,
+            "membership_date": membership_date
+        }
+        #append dictionary to customer_data
+        customer_data["customer_data"].append(test_data)
+    return jsonify(customer_data)
 
 if __name__ == "__main__":
     app.run()
