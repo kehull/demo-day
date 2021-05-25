@@ -59,7 +59,7 @@ def send():
             gender=2
         
 # Opening JSON file
-        f = open('Resources\models_kelly\encoding_keys\offers_encoded.json')
+        f = open('Resources/models_kelly/encoding_keys/offers_encoded.json')
         g = gender
         i = float(income) 
   
