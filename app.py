@@ -25,11 +25,11 @@ app.config['JSON_SORT_KEYS'] = False
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '').replace('postgres://', 'postgresql://') or "sqlite:///db.sqlite"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 #set up routes
-db = SQLAlchemy(app)
+# db = SQLAlchemy(app)
 
-Customer = create_classes(db)
+# Customer = create_classes(db)
 
-table_data=[]
+
 @app.route("/")
 def home():
     return render_template("index.html")
@@ -41,7 +41,7 @@ def about():
 @app.route("/model", methods=["GET","POST"])
 def send():
     global table_data
-    table_data=table_data
+    table_data=[]
     
     
     
@@ -51,11 +51,16 @@ def send():
         #get info from forms
         gender = request.form["gender"]
         income=request.form["income"]
-        
+        if gender== "M":
+            gender=0
+        elif gender=="O":
+            gender=1
+        else: 
+            gender=2
         
 # Opening JSON file
         f = open('Resources\models_kelly\encoding_keys\offers_encoded.json')
-        g = str(gender)
+        g = gender
         i = float(income) 
   
 # returns JSON object as a dictionary
@@ -63,7 +68,7 @@ def send():
         data = json.load(f)
         for dictionary in data:
             dictionary.update(gender = g, income = i,)
-            model_data = dictionary[["offer_id", "gender", "income", "reward", "channels", "difficulty", "duration", "offer_type"]]
+            model_data=[[dictionary['offer_id'],dictionary['gender'],dictionary['income'],dictionary['reward'],dictionary['channels'],dictionary['difficulty'],dictionary['duration'],dictionary['offer_type']]]
             complete_score = int(complete_knn.predict(model_data))
             dictionary['offer_completed_y_n']=complete_score
             if dictionary['offer_id'] ==8:
@@ -115,9 +120,9 @@ def send():
                 dictionary['offer_completed_y_n']="Yes"
             else:
                 dictionary['offer_completed_y_n']="No"
-            customer=Customer(offer_id=dictionary['offer_id'],reward=dictionary['reward'],channels=dictionary['channels'],difficulty=dictionary['difficulty'],duration=dictionary['duration'],offer_type=dictionary['offer_type'],offer_completed=dictionary['offer_completed_y_n'])
-            db.session.add(customer)
-            db.session.commit()                                                            
+            # customer=Customer(offer_id=dictionary['offer_id'],reward=dictionary['reward'],channels=dictionary['channels'],difficulty=dictionary['difficulty'],duration=dictionary['duration'],offer_type=dictionary['offer_type'],offer_completed=dictionary['offer_completed_y_n'])
+            # db.session.add(customer)
+            # db.session.commit()                                                            
             table_data.append(dictionary)
         f.close()
         
