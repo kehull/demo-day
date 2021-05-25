@@ -96,6 +96,7 @@ def send():
                 decode(new_dict)
 
         predictions()
+        print(final_df)
         f.close()
         
          
