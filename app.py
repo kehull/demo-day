@@ -160,7 +160,7 @@ def delmar():
 def showme():
     return render_template('showme.html')
 
-@app.route('/api')
+@app.route('/customer/api')
 def customer():
     #set up api
     #query from db
@@ -180,7 +180,7 @@ def customer():
         #append dictionary to customer_data
         customer_data["customer_data"].append(test_data)
     return jsonify(customer_data)
-@app.route('/api/gender/<gender>')
+@app.route('/customer/api/gender/<gender>')
 def gender(gender):
     gender_list=['M','F','O']
     canonicalization=gender.upper()
@@ -199,7 +199,7 @@ def gender(gender):
     return jsonify(json_dict)
    
 
-@app.route('/api/income/<income>')
+@app.route('/customer/api/income/<income>')
 def income(income):
     canonicalization=int(income)
     results= db.session.query(Customer.customer_id,Customer.gender,Customer.income,Customer.membership_date).filter(Customer.income <= canonicalization)
