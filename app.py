@@ -195,23 +195,28 @@ def gender(gender):
             test_dict["membership_date"]=membership_date
             json_dict["customer_data"].append(test_dict)
     else:
-        f'error! gender not found.\n Try "M","F", or "O"',404
+        return f'Error! Gender not found. Try "M","F", or "O".',404
     return jsonify(json_dict)
    
 
 @app.route('/customer/api/income/<income>')
 def income(income):
     canonicalization=int(income)
-    results= db.session.query(Customer.customer_id,Customer.gender,Customer.income,Customer.membership_date).filter(Customer.income <= canonicalization)
-    json_dict={"customer_data":[]}    
-    for customer_id,gender,income,membership_date in results:
-        test_dict={}
-        test_dict["customer_id"]=customer_id
-        test_dict["gender"]=gender
-        test_dict["income"]=income
-        test_dict["membership_date"]=membership_date
-        json_dict["customer_data"].append(test_dict)
-    return jsonify(json_dict)
+    income_results=db.session.query(Customer.income).all()
+    income_list=[i[0] for i in income_results]
+    if canonicalization >= min(income_list):
+        results= db.session.query(Customer.customer_id,Customer.gender,Customer.income,Customer.membership_date).filter(Customer.income <= canonicalization)
+        json_dict={"customer_data":[]}    
+        for customer_id,gender,income,membership_date in results:
+            test_dict={}
+            test_dict["customer_id"]=customer_id
+            test_dict["gender"]=gender
+            test_dict["income"]=income
+            test_dict["membership_date"]=membership_date
+            json_dict["customer_data"].append(test_dict)
+        return jsonify(json_dict)
+    else:
+        return f"{income} is beyond the lower limit of the income range. Try a higher income.",404
     
 
     
