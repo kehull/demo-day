@@ -5,7 +5,7 @@ def create_classes(db):
         id = db.Column(db.Integer, primary_key=True)
         customer_id = db.Column(db.VARCHAR)
         gender=db.Column(db.String)
-        income=db.Column(db.Float)
+        income=db.Column(db.Integer)
         membership_date=db.Column(db.VARCHAR)
         
 

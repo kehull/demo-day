@@ -21,12 +21,16 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from flask_sqlalchemy import SQLAlchemy
 
+
+
 #set up app
 app = Flask(__name__)
 
 app.config['JSON_SORT_KEYS'] = False
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '').replace('postgres://', 'postgresql://') or "sqlite:///db.sqlite"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+
 #set up routes
 db = SQLAlchemy(app)
 
@@ -54,6 +58,11 @@ def send():
         #get info from forms
         gender = request.form["gender"]
         income=request.form["income"]
+        customer_id=uuid.uuid4().hex
+        date=dt.datetime.today().strftime('%Y%m%d')
+        customer=Customer(customer_id=customer_id,gender=gender,income=income,membership_date=date)
+        db.session.add(customer)
+        db.session.commit() 
         if gender== "M":
             gender=0
         elif gender=="O":
@@ -64,14 +73,13 @@ def send():
 # Opening JSON file
         f = open('Resources/models_kelly/encoding_keys/offers_encoded.json')
         g = gender
-        i = float(income) 
+        i = int(income) 
   
 # returns JSON object as a dictionary
         complete_knn= joblib.load('Resources/models_kelly/complete_offer.pkl')
         data = json.load(f)
         for dictionary in data:
-            customer_id=uuid.uuid4().hex
-            date=dt.datetime.today().strftime('%Y%m%d')
+            
             dictionary.update(gender = g, income = i,)
             model_data=[[dictionary['offer_id'],dictionary['gender'],dictionary['income'],dictionary['reward'],dictionary['channels'],dictionary['difficulty'],dictionary['duration'],dictionary['offer_type']]]
             complete_score = int(complete_knn.predict(model_data))
@@ -125,9 +133,6 @@ def send():
                 dictionary['offer_completed_y_n']="Yes"
             else:
                 dictionary['offer_completed_y_n']="No"
-            customer=Customer(customer_id=customer_id,gender=dictionary['gender'],income=dictionary['income'],membership_date=date)
-            db.session.add(customer)
-            db.session.commit()                                                            
             table_data.append(dictionary)
         f.close()
         
@@ -155,7 +160,7 @@ def delmar():
 def showme():
     return render_template('showme.html')
 
-@app.route('/customer/api')
+@app.route('/api')
 def customer():
     #set up api
     #query from db
@@ -163,7 +168,7 @@ def customer():
     #set up list of dictonaries to store end result
     customer_data = {"customer_data":[]}
     #loop through results and create dictionary
-    for customer_id,gender,income,offer,membership_date in results:
+    for customer_id,gender,income,membership_date in results:
 
         test_data = {
             
@@ -175,6 +180,42 @@ def customer():
         #append dictionary to customer_data
         customer_data["customer_data"].append(test_data)
     return jsonify(customer_data)
+@app.route('/api/gender/<gender>')
+def gender(gender):
+    gender_list=['M','F','O']
+    canonicalization=gender.upper()
+    if canonicalization in gender_list:
+        json_dict={"customer_data":[]}
+        results=db.session.query(Customer.customer_id, Customer.gender,Customer.income,Customer.membership_date).filter(Customer.gender==canonicalization)
+        for customer_id,gender,income,membership_date in results:
+            test_dict={}
+            test_dict["customer_id"]=customer_id
+            test_dict["gender"]=gender
+            test_dict["income"]=income
+            test_dict["membership_date"]=membership_date
+            json_dict["customer_data"].append(test_dict)
+    else:
+        f'error! gender not found.\n Try "M","F", or "O"',404
+    return jsonify(json_dict)
+   
+
+@app.route('/api/income/<income>')
+def income(income):
+    canonicalization=int(income)
+    results= db.session.query(Customer.customer_id,Customer.gender,Customer.income,Customer.membership_date).filter(Customer.income <= canonicalization)
+    json_dict={"customer_data":[]}    
+    for customer_id,gender,income,membership_date in results:
+        test_dict={}
+        test_dict["customer_id"]=customer_id
+        test_dict["gender"]=gender
+        test_dict["income"]=income
+        test_dict["membership_date"]=membership_date
+        json_dict["customer_data"].append(test_dict)
+    return jsonify(json_dict)
+    
+
+    
+
 
 if __name__ == "__main__":
     app.run()
