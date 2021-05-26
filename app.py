@@ -45,6 +45,10 @@ def home():
 def about():
     return render_template("about.html")
 
+@app.route('/analysis')
+def analysis():
+    return render_template("analysis.html")
+
 @app.route("/model", methods=["GET","POST"])
 def send():
     global table_data
